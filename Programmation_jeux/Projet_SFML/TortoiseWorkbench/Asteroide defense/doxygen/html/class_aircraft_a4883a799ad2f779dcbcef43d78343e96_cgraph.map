@@ -1,0 +1,6 @@
+<map id="Aircraft::updateCurrent" name="Aircraft::updateCurrent">
+<area shape="rect" id="node2" href="$class_entity.html#a938cddf03ff5239be09195452142c5e6" title="Demande si l&#39;entité est détruite. " alt="" coords="237,5,370,32"/>
+<area shape="rect" id="node3" href="$class_scene_node.html#a43061f972f26184b271e6c56723a29c2" title="Retourne la position absolu du noeud dans le niveau. " alt="" coords="205,56,401,83"/>
+<area shape="rect" id="node5" href="$class_entity.html#a3d9ad14643b61864cf60ea7f0738146b" title="Met à jour la nouvelle position de l&#39;entité " alt="" coords="231,107,376,133"/>
+<area shape="rect" id="node4" href="$class_scene_node.html#aedae712e618334745fea3c934d51a390" title="Retourne le transform du noeud mère (niveau) " alt="" coords="449,56,656,83"/>
+</map>

@@ -1,0 +1,67 @@
+\hypertarget{class_state}{}\section{Référence de la classe State}
+\label{class_state}\index{State@{State}}
+
+
+Graphe d\textquotesingle{}héritage de State\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_state__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Graphe de collaboration de State\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=191pt]{class_state__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+struct \hyperlink{struct_state_1_1_context}{Context}
+\end{DoxyCompactItemize}
+\subsection*{Types publics}
+\begin{DoxyCompactItemize}
+\item 
+typedef std\+::unique\+\_\+ptr$<$ \hyperlink{class_state}{State} $>$ {\bfseries Ptr}\hypertarget{class_state_a71d9930be1a58be7f711e245b7965d48}{}\label{class_state_a71d9930be1a58be7f711e245b7965d48}
+
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres publiques}
+\begin{DoxyCompactItemize}
+\item 
+{\bfseries State} (\hyperlink{class_state_stack}{State\+Stack} \&stack, \hyperlink{struct_state_1_1_context}{Context} context)\hypertarget{class_state_afede488ff3c1b264bbd07f8aeead84a7}{}\label{class_state_afede488ff3c1b264bbd07f8aeead84a7}
+
+\item 
+virtual void {\bfseries draw} ()=0\hypertarget{class_state_ae261605bc40b7e3959ce5df5457e4942}{}\label{class_state_ae261605bc40b7e3959ce5df5457e4942}
+
+\item 
+virtual bool {\bfseries update} (sf\+::\+Time dt)=0\hypertarget{class_state_acd5926bc7a373edff9e57f3ffe94ca13}{}\label{class_state_acd5926bc7a373edff9e57f3ffe94ca13}
+
+\item 
+virtual bool {\bfseries handle\+Event} (const sf\+::\+Event \&event)=0\hypertarget{class_state_a19965f83460b248c42952aac8d001206}{}\label{class_state_a19965f83460b248c42952aac8d001206}
+
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres protégées}
+\begin{DoxyCompactItemize}
+\item 
+void {\bfseries request\+Stack\+Push} (States\+::\+ID state\+ID)\hypertarget{class_state_a6763de833ceb9c23df45aff163a4a1cd}{}\label{class_state_a6763de833ceb9c23df45aff163a4a1cd}
+
+\item 
+void {\bfseries request\+Stack\+Pop} ()\hypertarget{class_state_aa418660892d6161772c907bd8d70f910}{}\label{class_state_aa418660892d6161772c907bd8d70f910}
+
+\item 
+void {\bfseries request\+State\+Clear} ()\hypertarget{class_state_a4b602bed9bf0179ee5f6748fce340ae6}{}\label{class_state_a4b602bed9bf0179ee5f6748fce340ae6}
+
+\item 
+\hyperlink{struct_state_1_1_context}{Context} {\bfseries get\+Context} () const \hypertarget{class_state_aa54fc68acd982076e838c0eff60b51a3}{}\label{class_state_aa54fc68acd982076e838c0eff60b51a3}
+
+\end{DoxyCompactItemize}
+
+
+La documentation de cette classe a été générée à partir des fichiers suivants \+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/\+F\+R\+E\+D/\+Documents/\+F\+R\+E\+D/\+Programmation\+\_\+jeux/\+Projet\+\_\+\+S\+F\+M\+L/\+Projet2/include/State.\+h\item 
+C\+:/\+Users/\+F\+R\+E\+D/\+Documents/\+F\+R\+E\+D/\+Programmation\+\_\+jeux/\+Projet\+\_\+\+S\+F\+M\+L/\+Projet2/src/State.\+cpp\end{DoxyCompactItemize}

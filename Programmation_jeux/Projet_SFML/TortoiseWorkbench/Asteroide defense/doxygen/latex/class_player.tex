@@ -1,0 +1,78 @@
+\hypertarget{class_player}{}\section{Référence de la classe Player}
+\label{class_player}\index{Player@{Player}}
+
+
+Graphe d\textquotesingle{}héritage de Player\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=247pt]{class_player__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Graphe de collaboration de Player\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=247pt]{class_player__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Types publics}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_player_add2f7d69e8feab7440fda06be5ccff75}{}\label{class_player_add2f7d69e8feab7440fda06be5ccff75} 
+enum {\bfseries Mission\+Status} \{ {\bfseries Mission\+Running}, 
+{\bfseries Mission\+Success}, 
+{\bfseries Mission\+Failure}
+ \}
+\item 
+\hypertarget{class_player_a9af01bacc4f52ffa3ed79591c3cd9a71}{}\label{class_player_a9af01bacc4f52ffa3ed79591c3cd9a71} 
+typedef Player\+Action\+::\+Type {\bfseries Action}
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres publiques}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_player_a8bae305bd8ae9b34f6125bdf9285f909}{}\label{class_player_a8bae305bd8ae9b34f6125bdf9285f909} 
+{\bfseries Player} (sf\+::\+Tcp\+Socket $\ast$socket, sf\+::\+Int32 identifier, const \hyperlink{class_key_binding}{Key\+Binding} $\ast$binding)
+\item 
+\hypertarget{class_player_ac84a4e0b787f92bf773ccd0d0483f5b1}{}\label{class_player_ac84a4e0b787f92bf773ccd0d0483f5b1} 
+void {\bfseries handle\+Event} (const sf\+::\+Event \&event, \hyperlink{class_command_queue}{Command\+Queue} \&commands)
+\item 
+\hypertarget{class_player_ac520744c103fb38763c8856b4f158627}{}\label{class_player_ac520744c103fb38763c8856b4f158627} 
+void {\bfseries handle\+Realtime\+Input} (\hyperlink{class_command_queue}{Command\+Queue} \&commands)
+\item 
+\hypertarget{class_player_a50b5570c73003863b0207b3b023252ee}{}\label{class_player_a50b5570c73003863b0207b3b023252ee} 
+void {\bfseries handle\+Realtime\+Network\+Input} (\hyperlink{class_command_queue}{Command\+Queue} \&commands)
+\item 
+\hypertarget{class_player_af1ddf80d1e34045a5fd8b861b9237148}{}\label{class_player_af1ddf80d1e34045a5fd8b861b9237148} 
+void {\bfseries handle\+Network\+Event} (Action action, \hyperlink{class_command_queue}{Command\+Queue} \&commands)
+\item 
+\hypertarget{class_player_a8061d439088ed529fbde6830b4a2e44f}{}\label{class_player_a8061d439088ed529fbde6830b4a2e44f} 
+void {\bfseries handle\+Network\+Realtime\+Change} (Action action, bool action\+Enabled)
+\item 
+\hypertarget{class_player_af05bf5f8492d79b38ef2a39cefe0ea9e}{}\label{class_player_af05bf5f8492d79b38ef2a39cefe0ea9e} 
+void {\bfseries set\+Mission\+Status} (Mission\+Status status)
+\item 
+\hypertarget{class_player_a256eae0de57cd814b06ccb9ef3830c39}{}\label{class_player_a256eae0de57cd814b06ccb9ef3830c39} 
+Mission\+Status {\bfseries get\+Mission\+Status} () const
+\item 
+\hypertarget{class_player_a15e1b1acf094c424d18c2a1192a151f6}{}\label{class_player_a15e1b1acf094c424d18c2a1192a151f6} 
+void {\bfseries disable\+All\+Realtime\+Actions} ()
+\item 
+\hypertarget{class_player_a0396dba172c6d19535d573ce553e5980}{}\label{class_player_a0396dba172c6d19535d573ce553e5980} 
+bool {\bfseries is\+Local} () const
+\end{DoxyCompactItemize}
+
+
+\subsection{Description détaillée}
+
+
+Définition à la ligne 18 du fichier Player.\+h.
+
+
+
+La documentation de cette classe a été générée à partir des fichiers suivants \+:\begin{DoxyCompactItemize}
+\item 
+Player.\+h\item 
+Player.\+cpp\end{DoxyCompactItemize}

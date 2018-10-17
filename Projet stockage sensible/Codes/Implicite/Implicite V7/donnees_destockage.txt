@@ -1,0 +1,16 @@
+!							DONNÉES SUR LE DESTOCKAGE
+!
+!
+!DiscrÈtisation en temps
+10		!Pas de temps (dt[s])
+!
+10800.		!Temps de l'expÈrience (tmax[s]) 
+!
+!
+!Variables physiques
+50		!Pression (Pression [bar])
+!
+298.		!TempÈrature de l'air en entrÈe (T_entree[K])
+!
+300.		!DÈbit total arrivant (debit_total [kg/s])
+!

@@ -1,0 +1,4 @@
+<map id="Projectile" name="Projectile">
+<area shape="rect" id="node2" href="$class_entity.html" title="Classe representant l&#39;entité " alt="" coords="92,593,248,920"/>
+<area shape="rect" id="node3" href="$class_scene_node.html" title="Classe representant le sceneNode. " alt="" coords="89,131,251,545"/>
+</map>

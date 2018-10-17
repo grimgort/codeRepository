@@ -1,0 +1,11 @@
+<map id="TitleState" name="TitleState">
+<area shape="rect" id="node2" href="$class_state.html" title="{State\n||+ State()\l+ ~State()\l+ draw()\l+ update()\l+ handleEvent()\l+ onActivate()\l+ onDestroy()\l# requestStackPush()\l# requestStackPop()\l# requestStateClear()\l# getContext()\l}" alt="" coords="217,932,365,1156"/>
+<area shape="rect" id="node3" href="$struct_state_1_1_context.html" title="{State::Context\n|+ window\l|+ Context()\l}" alt="" coords="291,461,397,539"/>
+<area shape="rect" id="node11" href="$class_state_stack.html" title="{StateStack\n|&#45; m_stack\l&#45; m_pendingList\l&#45; m_factories\l|+ StateStack()\l+ registerState()\l+ registerState()\l+ update()\l+ draw()\l+ handleEvent()\l+ pushState()\l+ popState()\l+ clearStates()\l+ isEmpty()\l&#45; createState()\l&#45; applyPendingChanges()\l}" alt="" coords="129,601,295,869"/>
+<area shape="rect" id="node4" href="$class_key_binding.html" title="{KeyBinding\n|&#45; m_keyMap\l|+ KeyBinding()\l+ assignKey()\l+ getAssignedKey()\l+ checkAction()\l+ getRealtimeActions()\l&#45; initializeActions()\l}" alt="" coords="169,226,324,377"/>
+<area shape="rect" id="node5" href="$class_resource_holder.html" title="{ResourceHolder\&lt; Resource,\l Identifier \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="349,226,534,377"/>
+<area shape="rect" id="node6" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::Texture, Textures::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="559,226,721,377"/>
+<area shape="rect" id="node7" href="$class_music_player.html" title="{MusicPlayer\n|&#45; m_music\l&#45; m_filenames\l&#45; m_volume\l|+ MusicPlayer()\l+ play()\l+ stop()\l+ setPaused()\l+ setVolume()\l}" alt="" coords="31,219,145,384"/>
+<area shape="rect" id="node9" href="$class_sound_player.html" title="{SoundPlayer\n|&#45; m_sounds\l|+ SoundPlayer()\l+ play()\l+ play()\l+ removeStoppedSounds()\l+ setListenerPosition()\l+ getListenerPosition()\l}" alt="" coords="746,226,921,377"/>
+<area shape="rect" id="node10" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::SoundBuffer, SoundEffect::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="728,5,939,156"/>
+</map>

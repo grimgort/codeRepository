@@ -1,0 +1,111 @@
+\hypertarget{class_scene_node}{}\section{Référence de la classe Scene\+Node}
+\label{class_scene_node}\index{Scene\+Node@{Scene\+Node}}
+
+
+Graphe d\textquotesingle{}héritage de Scene\+Node\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_scene_node__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Graphe de collaboration de Scene\+Node\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=324pt]{class_scene_node__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Types publics}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_scene_node_aaf5c9ad8475874b51b70e400822f2e9a}{}\label{class_scene_node_aaf5c9ad8475874b51b70e400822f2e9a} 
+typedef std\+::unique\+\_\+ptr$<$ \hyperlink{class_scene_node}{Scene\+Node} $>$ {\bfseries Ptr}
+\item 
+\hypertarget{class_scene_node_a366efca54698fa3f6eaf80b41e7ff4df}{}\label{class_scene_node_a366efca54698fa3f6eaf80b41e7ff4df} 
+typedef std\+::pair$<$ \hyperlink{class_scene_node}{Scene\+Node} $\ast$, \hyperlink{class_scene_node}{Scene\+Node} $\ast$ $>$ {\bfseries Pair}
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres publiques}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_scene_node_ae6066cf0e6c0bddbc06e6d09bac918e9}{}\label{class_scene_node_ae6066cf0e6c0bddbc06e6d09bac918e9} 
+{\bfseries Scene\+Node} (Category\+::\+Type category=Category\+::\+None)
+\item 
+\hypertarget{class_scene_node_acdfa2c2ba28bce076c886eaba2d9e650}{}\label{class_scene_node_acdfa2c2ba28bce076c886eaba2d9e650} 
+void {\bfseries attach\+Child} (Ptr child)
+\item 
+\hypertarget{class_scene_node_a96fce79b962e56cf269a905c52daeb49}{}\label{class_scene_node_a96fce79b962e56cf269a905c52daeb49} 
+Ptr {\bfseries detache\+Child} (const \hyperlink{class_scene_node}{Scene\+Node} \&node)
+\item 
+\hypertarget{class_scene_node_a5494c3a380d7ea5ae7148122c4255400}{}\label{class_scene_node_a5494c3a380d7ea5ae7148122c4255400} 
+void {\bfseries update} (sf\+::\+Time dt, \hyperlink{class_command_queue}{Command\+Queue} \&commands)
+\item 
+\hypertarget{class_scene_node_a43061f972f26184b271e6c56723a29c2}{}\label{class_scene_node_a43061f972f26184b271e6c56723a29c2} 
+sf\+::\+Vector2f {\bfseries get\+World\+Position} () const
+\item 
+\hypertarget{class_scene_node_aedae712e618334745fea3c934d51a390}{}\label{class_scene_node_aedae712e618334745fea3c934d51a390} 
+sf\+::\+Transform {\bfseries get\+World\+Transform} () const
+\item 
+\hypertarget{class_scene_node_af6f126fe8727414a0c967f84f9754968}{}\label{class_scene_node_af6f126fe8727414a0c967f84f9754968} 
+void {\bfseries on\+Command} (const \hyperlink{struct_command}{Command} \&command, sf\+::\+Time dt)
+\item 
+\hypertarget{class_scene_node_af713a8c58831a27bc791a2efdfb7c495}{}\label{class_scene_node_af713a8c58831a27bc791a2efdfb7c495} 
+virtual unsigned int {\bfseries get\+Category} () const
+\item 
+\hypertarget{class_scene_node_a72d7417aeb5aa2ecb96992229db096ca}{}\label{class_scene_node_a72d7417aeb5aa2ecb96992229db096ca} 
+void {\bfseries check\+Scene\+Position} (\hyperlink{class_scene_node}{Scene\+Node} \&scene\+Graph, const std\+::vector$<$ sf\+::\+Float\+Rect $>$ \&virtual\+Rect\+Collision, std\+::multimap$<$ int, \hyperlink{class_scene_node}{Scene\+Node} $\ast$$>$ \&collision\+Liste\+To\+Test, sf\+::\+Int32 nb\+CutX, sf\+::\+Int32 nb\+CutY)
+\item 
+\hypertarget{class_scene_node_aa03390f4476dada45913585198632ea9}{}\label{class_scene_node_aa03390f4476dada45913585198632ea9} 
+virtual void {\bfseries check\+Node\+Position} (\hyperlink{class_scene_node}{Scene\+Node} \&node, const std\+::vector$<$ sf\+::\+Float\+Rect $>$ \&virtual\+Rect\+Collision, std\+::multimap$<$ int, \hyperlink{class_scene_node}{Scene\+Node} $\ast$$>$ \&collision\+Liste\+To\+Test, sf\+::\+Int32 nb\+CutX, sf\+::\+Int32 nb\+CutY)
+\item 
+\hypertarget{class_scene_node_a1d11e40ace4e2065d10bc2d091f37e02}{}\label{class_scene_node_a1d11e40ace4e2065d10bc2d091f37e02} 
+void {\bfseries check\+Scene\+Collision} (std\+::multimap$<$ int, \hyperlink{class_scene_node}{Scene\+Node} $\ast$$>$ \&collision\+Liste\+To\+Test, std\+::set$<$ Pair $>$ \&collision\+Pairs)
+\item 
+\hypertarget{class_scene_node_afcb3176686c13d320ca0bfb0c22bbd4f}{}\label{class_scene_node_afcb3176686c13d320ca0bfb0c22bbd4f} 
+void {\bfseries check\+Node\+Collision} (\hyperlink{class_scene_node}{Scene\+Node} \&node, std\+::set$<$ Pair $>$ \&collision\+Pairs)
+\item 
+void \hyperlink{class_scene_node_a4ab07dfa68f4094e2e9152b6f4869794}{remove\+Wrecks} ()
+\item 
+\hypertarget{class_scene_node_aeed27ee83b56ecaa87e41f21fa0ffa7b}{}\label{class_scene_node_aeed27ee83b56ecaa87e41f21fa0ffa7b} 
+virtual sf\+::\+Float\+Rect {\bfseries get\+Bounding\+Rect} () const
+\item 
+\hypertarget{class_scene_node_a8a0f6080efbd7e49569552b5542fd855}{}\label{class_scene_node_a8a0f6080efbd7e49569552b5542fd855} 
+virtual bool {\bfseries is\+Marked\+For\+Removal} () const
+\item 
+\hypertarget{class_scene_node_add1a151301a5056b29e552a83be4f507}{}\label{class_scene_node_add1a151301a5056b29e552a83be4f507} 
+virtual bool {\bfseries is\+Destroyed} () const
+\item 
+\hypertarget{class_scene_node_a96fda065df8e1887bb8f1977c3ee2144}{}\label{class_scene_node_a96fda065df8e1887bb8f1977c3ee2144} 
+virtual int {\bfseries get\+Position\+Collision} () const
+\end{DoxyCompactItemize}
+
+
+\subsection{Description détaillée}
+
+
+Définition à la ligne 25 du fichier Scene\+Node.\+h.
+
+
+
+\subsection{Documentation des fonctions membres}
+\hypertarget{class_scene_node_a4ab07dfa68f4094e2e9152b6f4869794}{}\label{class_scene_node_a4ab07dfa68f4094e2e9152b6f4869794} 
+\index{Scene\+Node@{Scene\+Node}!remove\+Wrecks@{remove\+Wrecks}}
+\index{remove\+Wrecks@{remove\+Wrecks}!Scene\+Node@{Scene\+Node}}
+\subsubsection{\texorpdfstring{remove\+Wrecks()}{removeWrecks()}}
+{\footnotesize\ttfamily void Scene\+Node\+::remove\+Wrecks (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+\begin{DoxyItemize}
+\item 
+\end{DoxyItemize}
+
+Définition à la ligne 331 du fichier Scene\+Node.\+cpp.
+
+
+
+La documentation de cette classe a été générée à partir des fichiers suivants \+:\begin{DoxyCompactItemize}
+\item 
+Scene\+Node.\+h\item 
+Scene\+Node.\+cpp\end{DoxyCompactItemize}

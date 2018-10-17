@@ -1,0 +1,11 @@
+<map id="Aircraft::disablePickups" name="Aircraft::disablePickups">
+<area shape="rect" id="node2" href="$class_entity.html#a938cddf03ff5239be09195452142c5e6" title="Entity::isDestroyed" alt="" coords="227,5,360,32"/>
+<area shape="rect" id="node3" href="$class_animation.html#a250fabaf23dab62bd373daac39aa25d3" title="Animation::update" alt="" coords="230,56,357,83"/>
+<area shape="rect" id="node4" href="$_utility_8cpp.html#a2b5c63e659d4c60c2db5b576d3bc3bf1" title="randomInt" alt="" coords="254,107,333,133"/>
+<area shape="rect" id="node5" href="$class_aircraft.html#a604ac5c8004f6a94d5b9222ed0c4c79a" title="Aircraft::playLocalSound" alt="" coords="212,208,375,235"/>
+<area shape="rect" id="node6" href="$class_scene_node.html#a43061f972f26184b271e6c56723a29c2" title="SceneNode::getWorldPosition" alt="" coords="423,183,619,209"/>
+<area shape="rect" id="node8" href="$class_command_queue.html#ad444e0d7af45d9e09b834f0cec1e1f43" title="CommandQueue::push" alt="" coords="443,245,598,272"/>
+<area shape="rect" id="node9" href="$class_aircraft.html#ab8503b05e0f3ede5986e7f0d4754afe0" title="Aircraft::isAllied" alt="" coords="237,309,350,336"/>
+<area shape="rect" id="node10" href="$class_entity.html#a3d9ad14643b61864cf60ea7f0738146b" title="Entity::updateCurrent" alt="" coords="221,360,366,387"/>
+<area shape="rect" id="node7" href="$class_scene_node.html#aedae712e618334745fea3c934d51a390" title="SceneNode::getWorldTransform" alt="" coords="667,183,873,209"/>
+</map>

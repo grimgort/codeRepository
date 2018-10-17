@@ -1,0 +1,53 @@
+\chapter{Problème rencontré et solution alternative}
+
+\section{Problème rencontré}
+
+Nous avons eu un problème d'ordre numérique. Nous avons remarqué que la quantité d'énergie à stocké est élevé. De ce fait, nous avons un dimensionnement qui nous donne un échangeur de grande taille. Nous obtenons ainsi un nombre de tube trop élevé sur la hauteur ce qui rend la résolution numérique impossible (voir tableau \ref{prob_dim_2}). 
+
+Les calculs ont été fait pour une température d'air d'entrée à 570 Kelvin sur une durée de 9 heures, dans le cas idéal où le Cofalit stocke toute l'énergie.  
+
+\begin{table}[!h]
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline 
+Q (J/K/kg) & Masse Cofalit nécessaire (kg) & Taille de l'échangeur (m) & Nombre de tube sur la hauteur\\ 
+\hline 
+$8,532.10^{11}$ & $1,823.10^{7}$ & $20\times20\times21,4$ & 107\\ 
+\hline 
+\end{tabular} 
+
+\caption{Dimension du cas idéal nécessaire pour le stockage}
+\label{prob_dim}
+\end{table}
+
+
+Sur ce tableau, nous remarquons que la taille du stockage reste à la limite du raisonnable. Cependant, la profondeur et largeur sont de l'ordre de 20 mètres. Par conséquent, le débit étant dépendant de la section $longueur \times profondeur$, il n'est pas élevé. Cela diminue fortement la valeur du coefficient de convection. Nous devons donc diminuer cette section pour avoir un échangeur plus cohérent. Nous obtenons ainsi le tableau suivant (\ref{prob_dim_2}).
+
+
+\begin{table}[!h]
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline 
+Q (J/K/kg) & Masse Cofalit nécessaire (kg) & Taille de l'échangeur (m) & Nombre de tube sur la hauteur\\ 
+\hline 
+$8,532.10^{11}$ & $1,823.10^{7}$ & $0,5\times0,5\times34.240$ & $171.200$\\ 
+\hline 
+\end{tabular} 
+
+\caption{Hauteur nécessaire pour optimiser le coefficient convectif}
+\label{prob_dim_2}
+\end{table}
+
+Nous voyons clairement que la résolution numérique de ce système n'est pas à la porté de notre code et ordinateur. Les solutions envisageables sont : une résolution explicit qui aurait était peut être plus adapté, mais la première ébauche que nous avions fait donnait une dépendance au pas de temps de l'ordre de $10^{-4} s$ pour une durée de simulation de 9 heures; une autre solution serait d'extrapoler la température d'un élément aux tubes suivants et d'éviter de mettre plusieurs mailles pour le Cofalit.
+
+La meilleur solution envisagé est de séquencer la résolution de petites matrices. La mise en œuvre a été réalisé mais de façon tardive ce qui va nous limiter dans notre exploitation. Le principe consiste à réaliser la résolution sur un certain nombre de tube (20 par exemple), de récupérer la température de l'air en sortie, puis de réitérer une nouvelle résolution sur 20 tubes, et ainsi de suite... Ainsi, nous gardons les résultats des itérations précédentes et on résout essentiellement des matrices de petites tailles.
+
+
+
+
+
+
+
+
+Ces calculs ont été réalisés sur EES (Voir le fichier EES : "Calcule du nombre de tube de Cofalit").
+

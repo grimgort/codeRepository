@@ -1,0 +1,13 @@
+<map id="World" name="World">
+<area shape="rect" id="node3" href="$class_resource_holder.html" title="{ResourceHolder\&lt; Resource,\l Identifier \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="147,711,333,861"/>
+<area shape="rect" id="node4" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::Texture, Textures::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="357,711,520,861"/>
+<area shape="rect" id="node5" href="$class_sprite_node.html" title="{SpriteNode\n|&#45; m_sprite\l|+ SpriteNode()\l+ SpriteNode()\l&#45; drawCurrent()\l}" alt="" coords="544,733,651,839"/>
+<area shape="rect" id="node6" href="$class_scene_node.html" title="Classe representant le sceneNode. " alt="" coords="657,219,820,619"/>
+<area shape="rect" id="node10" href="$class_network_node.html" title="{NetworkNode\n|&#45; m_pendingActions\l|+ NetworkNode()\l+ notifyGameAction()\l+ pollGameAction()\l+ getCategory()\l}" alt="" coords="821,725,966,847"/>
+<area shape="rect" id="node12" href="$class_sound_player.html" title="{SoundPlayer\n|&#45; m_sounds\l|+ SoundPlayer()\l+ play()\l+ play()\l+ removeStoppedSounds()\l+ setListenerPosition()\l+ getListenerPosition()\l}" alt="" coords="1290,343,1465,494"/>
+<area shape="rect" id="node15" href="$class_post_effect.html" title="{PostEffect\n||+ ~PostEffect()\l+ apply()\l+ isSupported()\l# applyShader()\l}" alt="" coords="1153,358,1266,479"/>
+<area shape="rect" id="node11" href="$class_command_queue.html" title="{CommandQueue\n|&#45; m_queue\l|+ push()\l+ pop()\l+ isEmpty()\l}" alt="" coords="990,733,1109,839"/>
+<area shape="rect" id="node13" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::SoundBuffer, SoundEffect::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="1277,5,1488,156"/>
+<area shape="rect" id="node14" href="$class_bloom_effect.html" title="{BloomEffect\n|&#45; m_brightnessTexture\l&#45; m_firstPassTextures\l&#45; m_secondPassTextures\l|+ BloomEffect()\l+ apply()\l&#45; prepareTextures()\l&#45; filterBright()\l&#45; blurMultipass()\l&#45; blur()\l&#45; downsample()\l&#45; add()\l}" alt="" coords="1133,681,1304,891"/>
+<area shape="rect" id="node16" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::Shader, Shaders::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="970,343,1129,494"/>
+</map>

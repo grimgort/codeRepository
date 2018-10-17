@@ -1,0 +1,4 @@
+<map id="AircraftMissileTrigger::operator()" name="AircraftMissileTrigger::operator()">
+<area shape="rect" id="node2" href="$class_aircraft.html#a2f6a97f09252744828f748120025630b" title="Aircraft::getIdentifier" alt="" coords="203,5,340,32"/>
+<area shape="rect" id="node3" href="$class_aircraft.html#a3bd9289d3c789cbb0aa3abe53a5da52e" title="Aircraft::launchMissile" alt="" coords="196,56,347,83"/>
+</map>

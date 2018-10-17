@@ -1,0 +1,689 @@
+
+ Energie emmagasine par le cofalit (J) pour           1 tubes
+  -330722.48716701695     
+
+
+ Energie emmagasine par le cofalit (J) pour           2 tubes
+  -661330.23228783975     
+
+
+ Energie emmagasine par le cofalit (J) pour           3 tubes
+  -991758.20051867573     
+
+
+ Energie emmagasine par le cofalit (J) pour           4 tubes
+  -1321921.7436737239     
+
+
+ Energie emmagasine par le cofalit (J) pour           5 tubes
+  -1651713.6572384045     
+
+
+ Energie emmagasine par le cofalit (J) pour           6 tubes
+  -1981001.1781722500     
+
+
+ Energie emmagasine par le cofalit (J) pour           7 tubes
+  -2309622.9709947091     
+
+
+ Energie emmagasine par le cofalit (J) pour           8 tubes
+  -2637386.1575698396     
+
+
+ Energie emmagasine par le cofalit (J) pour           9 tubes
+  -2964063.4558004909     
+
+
+ Energie emmagasine par le cofalit (J) pour          10 tubes
+  -3289390.5041336655     
+
+
+ Energie emmagasine par le cofalit (J) pour          11 tubes
+  -3613063.4623554437     
+
+
+ Energie emmagasine par le cofalit (J) pour          12 tubes
+  -3934736.9943971876     
+
+
+ Energie emmagasine par le cofalit (J) pour          13 tubes
+  -4254022.7552621905     
+
+
+ Energie emmagasine par le cofalit (J) pour          14 tubes
+  -4570488.5207981216     
+
+
+ Energie emmagasine par le cofalit (J) pour          15 tubes
+  -4883658.1144931428     
+
+
+ Energie emmagasine par le cofalit (J) pour          16 tubes
+  -5193012.2978275977     
+
+
+ Energie emmagasine par le cofalit (J) pour          17 tubes
+  -5497990.7974667633     
+
+
+ Energie emmagasine par le cofalit (J) pour          18 tubes
+  -5797995.6407097923     
+
+
+ Energie emmagasine par le cofalit (J) pour          19 tubes
+  -6092395.9567215228     
+
+
+ Energie emmagasine par le cofalit (J) pour          20 tubes
+  -6380534.3716935497     
+
+
+ Energie emmagasine par le cofalit (J) pour          21 tubes
+  -6661735.0781112863     
+
+
+ Energie emmagasine par le cofalit (J) pour          22 tubes
+  -6935313.5896462295     
+
+
+ Energie emmagasine par le cofalit (J) pour          23 tubes
+  -7200588.1034974903     
+
+
+ Energie emmagasine par le cofalit (J) pour          24 tubes
+  -7456892.2834576936     
+
+
+ Energie emmagasine par le cofalit (J) pour          25 tubes
+  -7703589.1549570570     
+
+
+ Energie emmagasine par le cofalit (J) pour          26 tubes
+  -7940085.6767667104     
+
+
+ Energie emmagasine par le cofalit (J) pour          27 tubes
+  -8165847.4351775339     
+
+
+ Energie emmagasine par le cofalit (J) pour          28 tubes
+  -8380412.8099958561     
+
+
+ Energie emmagasine par le cofalit (J) pour          29 tubes
+  -8583405.9030260332     
+
+
+ Energie emmagasine par le cofalit (J) pour          30 tubes
+  -8774547.5126474369     
+
+
+ Energie emmagasine par le cofalit (J) pour          31 tubes
+  -8953663.4921786599     
+
+
+ Energie emmagasine par le cofalit (J) pour          32 tubes
+  -9120689.9477671310     
+
+
+ Energie emmagasine par le cofalit (J) pour          33 tubes
+  -9275674.9079685323     
+
+
+ Energie emmagasine par le cofalit (J) pour          34 tubes
+  -9418776.3176753912     
+
+
+ Energie emmagasine par le cofalit (J) pour          35 tubes
+  -9550256.4518729281     
+
+
+ Energie emmagasine par le cofalit (J) pour          36 tubes
+  -9670473.0835504923     
+
+
+ Energie emmagasine par le cofalit (J) pour          37 tubes
+  -9779867.9481871817     
+
+
+ Energie emmagasine par le cofalit (J) pour          38 tubes
+  -9878953.2016788144     
+
+
+ Energie emmagasine par le cofalit (J) pour          39 tubes
+  -9968296.6542350948     
+
+
+ Energie emmagasine par le cofalit (J) pour          40 tubes
+  -10048506.574585158     
+
+
+ Energie emmagasine par le cofalit (J) pour          41 tubes
+  -10120216.802119764     
+
+
+ Energie emmagasine par le cofalit (J) pour          42 tubes
+  -10184072.793366466     
+
+
+ Energie emmagasine par le cofalit (J) pour          43 tubes
+  -10240719.082838371     
+
+
+ Energie emmagasine par le cofalit (J) pour          44 tubes
+  -10290788.477724776     
+
+
+ Energie emmagasine par le cofalit (J) pour          45 tubes
+  -10334893.149964128     
+
+
+ Energie emmagasine par le cofalit (J) pour          46 tubes
+  -10373617.652290756     
+
+
+ Energie emmagasine par le cofalit (J) pour          47 tubes
+  -10407513.775586380     
+
+
+ Energie emmagasine par le cofalit (J) pour          48 tubes
+  -10437097.086563133     
+
+
+ Energie emmagasine par le cofalit (J) pour          49 tubes
+  -10462844.936345223     
+
+
+ Energie emmagasine par le cofalit (J) pour          50 tubes
+  -10485195.707875250     
+
+
+ Energie emmagasine par le cofalit (J) pour          51 tubes
+  -10504549.067757761     
+
+
+ Energie emmagasine par le cofalit (J) pour          52 tubes
+  -10521267.000382043     
+
+
+ Energie emmagasine par le cofalit (J) pour          53 tubes
+  -10535675.423651846     
+
+
+ Energie emmagasine par le cofalit (J) pour          54 tubes
+  -10548066.212026412     
+
+
+ Energie emmagasine par le cofalit (J) pour          55 tubes
+  -10558699.480539475     
+
+
+ Energie emmagasine par le cofalit (J) pour          56 tubes
+  -10567806.010712024     
+
+
+ Energie emmagasine par le cofalit (J) pour          57 tubes
+  -10575589.724367596     
+
+
+ Energie emmagasine par le cofalit (J) pour          58 tubes
+  -10582230.133516556     
+
+
+ Energie emmagasine par le cofalit (J) pour          59 tubes
+  -10587884.713400712     
+
+
+ Energie emmagasine par le cofalit (J) pour          60 tubes
+  -10592691.161505789     
+
+
+ Energie emmagasine par le cofalit (J) pour          61 tubes
+  -10596769.518078081     
+
+
+ Energie emmagasine par le cofalit (J) pour          62 tubes
+  -10600224.133749537     
+
+
+ Energie emmagasine par le cofalit (J) pour          63 tubes
+  -10603145.477650480     
+
+
+ Energie emmagasine par le cofalit (J) pour          64 tubes
+  -10605611.785239920     
+
+
+ Energie emmagasine par le cofalit (J) pour          65 tubes
+  -10607690.549354613     
+
+
+ Energie emmagasine par le cofalit (J) pour          66 tubes
+  -10609439.860977689     
+
+
+ Energie emmagasine par le cofalit (J) pour          67 tubes
+  -10610909.608222583     
+
+
+ Energie emmagasine par le cofalit (J) pour          68 tubes
+  -10612142.543242684     
+
+
+ Energie emmagasine par le cofalit (J) pour          69 tubes
+  -10613175.227398049     
+
+
+ Energie emmagasine par le cofalit (J) pour          70 tubes
+  -10614038.865188343     
+
+
+ Energie emmagasine par le cofalit (J) pour          71 tubes
+  -10614760.037317298     
+
+
+ Energie emmagasine par le cofalit (J) pour          72 tubes
+  -10615361.342883805     
+
+
+ Energie emmagasine par le cofalit (J) pour          73 tubes
+  -10615861.960172782     
+
+
+ Energie emmagasine par le cofalit (J) pour          74 tubes
+  -10616278.134902421     
+
+
+ Energie emmagasine par le cofalit (J) pour          75 tubes
+  -10616623.604116198     
+
+
+ Energie emmagasine par le cofalit (J) pour          76 tubes
+  -10616909.963220866     
+
+
+ Energie emmagasine par le cofalit (J) pour          77 tubes
+  -10617146.982988141     
+
+
+ Energie emmagasine par le cofalit (J) pour          78 tubes
+  -10617342.882674959     
+
+
+ Energie emmagasine par le cofalit (J) pour          79 tubes
+  -10617504.564785901     
+
+
+ Energie emmagasine par le cofalit (J) pour          80 tubes
+  -10617637.816409001     
+
+
+ Energie emmagasine par le cofalit (J) pour          81 tubes
+  -10617747.481506400     
+
+
+ Energie emmagasine par le cofalit (J) pour          82 tubes
+  -10617837.608036453     
+
+
+ Energie emmagasine par le cofalit (J) pour          83 tubes
+  -10617911.573323645     
+
+
+ Energie emmagasine par le cofalit (J) pour          84 tubes
+  -10617972.190676169     
+
+
+ Energie emmagasine par le cofalit (J) pour          85 tubes
+  -10618021.799876545     
+
+
+ Energie emmagasine par le cofalit (J) pour          86 tubes
+  -10618062.343835412     
+
+
+ Energie emmagasine par le cofalit (J) pour          87 tubes
+  -10618095.433400506     
+
+
+ Energie emmagasine par le cofalit (J) pour          88 tubes
+  -10618122.402048258     
+
+
+ Energie emmagasine par le cofalit (J) pour          89 tubes
+  -10618144.351952249     
+
+
+ Energie emmagasine par le cofalit (J) pour          90 tubes
+  -10618162.192717414     
+
+
+ Energie emmagasine par le cofalit (J) pour          91 tubes
+  -10618176.673889143     
+
+
+ Energie emmagasine par le cofalit (J) pour          92 tubes
+  -10618188.412189279     
+
+
+ Energie emmagasine par le cofalit (J) pour          93 tubes
+  -10618197.914294332     
+
+
+ Energie emmagasine par le cofalit (J) pour          94 tubes
+  -10618205.595852468     
+
+
+ Energie emmagasine par le cofalit (J) pour          95 tubes
+  -10618211.797333105     
+
+
+ Energie emmagasine par le cofalit (J) pour          96 tubes
+  -10618216.797214162     
+
+
+ Energie emmagasine par le cofalit (J) pour          97 tubes
+  -10618220.822935766     
+
+
+ Energie emmagasine par le cofalit (J) pour          98 tubes
+  -10618224.059983481     
+
+
+ Energie emmagasine par le cofalit (J) pour          99 tubes
+  -10618226.659408020     
+
+
+ Energie emmagasine par le cofalit (J) pour         100 tubes
+  -10618228.744040379     
+
+
+ Energie emmagasine par le cofalit (J) pour         101 tubes
+  -10618230.413620330     
+
+
+ Energie emmagasine par le cofalit (J) pour         102 tubes
+  -10618231.749021450     
+
+
+ Energie emmagasine par le cofalit (J) pour         103 tubes
+  -10618232.815726239     
+
+
+ Energie emmagasine par le cofalit (J) pour         104 tubes
+  -10618233.666679930     
+
+
+ Energie emmagasine par le cofalit (J) pour         105 tubes
+  -10618234.344630284     
+
+
+ Energie emmagasine par le cofalit (J) pour         106 tubes
+  -10618234.884043045     
+
+
+ Energie emmagasine par le cofalit (J) pour         107 tubes
+  -10618235.312667467     
+
+
+ Energie emmagasine par le cofalit (J) pour         108 tubes
+  -10618235.652813908     
+
+
+ Energie emmagasine par le cofalit (J) pour         109 tubes
+  -10618235.922394859     
+
+
+ Energie emmagasine par le cofalit (J) pour         110 tubes
+  -10618236.135771843     
+
+
+ Energie emmagasine par le cofalit (J) pour         111 tubes
+  -10618236.304443398     
+
+
+ Energie emmagasine par le cofalit (J) pour         112 tubes
+  -10618236.437603101     
+
+
+ Energie emmagasine par le cofalit (J) pour         113 tubes
+  -10618236.542591460     
+
+
+ Energie emmagasine par le cofalit (J) pour         114 tubes
+  -10618236.625261381     
+
+
+ Energie emmagasine par le cofalit (J) pour         115 tubes
+  -10618236.690273236     
+
+
+ Energie emmagasine par le cofalit (J) pour         116 tubes
+  -10618236.741332771     
+
+
+ Energie emmagasine par le cofalit (J) pour         117 tubes
+  -10618236.781382615     
+
+
+ Energie emmagasine par le cofalit (J) pour         118 tubes
+  -10618236.812756265     
+
+
+ Energie emmagasine par le cofalit (J) pour         119 tubes
+  -10618236.837301651     
+
+
+ Energie emmagasine par le cofalit (J) pour         120 tubes
+  -10618236.856480198     
+
+
+ Energie emmagasine par le cofalit (J) pour         121 tubes
+  -10618236.871446099     
+
+
+ Energie emmagasine par le cofalit (J) pour         122 tubes
+  -10618236.883109672     
+
+
+ Energie emmagasine par le cofalit (J) pour         123 tubes
+  -10618236.892187925     
+
+
+ Energie emmagasine par le cofalit (J) pour         124 tubes
+  -10618236.899244839     
+
+
+ Energie emmagasine par le cofalit (J) pour         125 tubes
+  -10618236.904723443     
+
+
+ Energie emmagasine par le cofalit (J) pour         126 tubes
+  -10618236.908971271     
+
+
+ Energie emmagasine par le cofalit (J) pour         127 tubes
+  -10618236.912260590     
+
+
+ Energie emmagasine par le cofalit (J) pour         128 tubes
+  -10618236.914804421     
+
+
+ Energie emmagasine par le cofalit (J) pour         129 tubes
+  -10618236.916769193     
+
+
+ Energie emmagasine par le cofalit (J) pour         130 tubes
+  -10618236.918284770     
+
+
+ Energie emmagasine par le cofalit (J) pour         131 tubes
+  -10618236.919452347     
+
+
+ Energie emmagasine par le cofalit (J) pour         132 tubes
+  -10618236.920350676     
+
+
+ Energie emmagasine par le cofalit (J) pour         133 tubes
+  -10618236.921040956     
+
+
+ Energie emmagasine par le cofalit (J) pour         134 tubes
+  -10618236.921570687     
+
+
+ Energie emmagasine par le cofalit (J) pour         135 tubes
+  -10618236.921976691     
+
+
+ Energie emmagasine par le cofalit (J) pour         136 tubes
+  -10618236.922287460     
+
+
+ Energie emmagasine par le cofalit (J) pour         137 tubes
+  -10618236.922525028     
+
+
+ Energie emmagasine par le cofalit (J) pour         138 tubes
+  -10618236.922706403     
+
+
+ Energie emmagasine par le cofalit (J) pour         139 tubes
+  -10618236.922844697     
+
+
+ Energie emmagasine par le cofalit (J) pour         140 tubes
+  -10618236.922950003     
+
+
+ Energie emmagasine par le cofalit (J) pour         141 tubes
+  -10618236.923030086     
+
+
+ Energie emmagasine par le cofalit (J) pour         142 tubes
+  -10618236.923090911     
+
+
+ Energie emmagasine par le cofalit (J) pour         143 tubes
+  -10618236.923137043     
+
+
+ Energie emmagasine par le cofalit (J) pour         144 tubes
+  -10618236.923171990     
+
+
+ Energie emmagasine par le cofalit (J) pour         145 tubes
+  -10618236.923198424     
+
+
+ Energie emmagasine par le cofalit (J) pour         146 tubes
+  -10618236.923218394     
+
+
+ Energie emmagasine par le cofalit (J) pour         147 tubes
+  -10618236.923233457     
+
+
+ Energie emmagasine par le cofalit (J) pour         148 tubes
+  -10618236.923244804     
+
+
+ Energie emmagasine par le cofalit (J) pour         149 tubes
+  -10618236.923253339     
+
+
+ Energie emmagasine par le cofalit (J) pour         150 tubes
+  -10618236.923259752     
+
+
+ Energie emmagasine par le cofalit (J) pour         151 tubes
+  -10618236.923264559     
+
+
+ Energie emmagasine par le cofalit (J) pour         152 tubes
+  -10618236.923268158     
+
+
+ Energie emmagasine par le cofalit (J) pour         153 tubes
+  -10618236.923270848     
+
+
+ Energie emmagasine par le cofalit (J) pour         154 tubes
+  -10618236.923272852     
+
+
+ Energie emmagasine par le cofalit (J) pour         155 tubes
+  -10618236.923274344     
+
+
+ Energie emmagasine par le cofalit (J) pour         156 tubes
+  -10618236.923275450     
+
+
+ Energie emmagasine par le cofalit (J) pour         157 tubes
+  -10618236.923276272     
+
+
+ Energie emmagasine par le cofalit (J) pour         158 tubes
+  -10618236.923276873     
+
+
+ Energie emmagasine par le cofalit (J) pour         159 tubes
+  -10618236.923277313     
+
+
+ Energie emmagasine par le cofalit (J) pour         160 tubes
+  -10618236.923277637     
+
+
+ Energie emmagasine par le cofalit (J) pour         161 tubes
+  -10618236.923277868     
+
+
+ Energie emmagasine par le cofalit (J) pour         162 tubes
+  -10618236.923278036     
+
+
+ Energie emmagasine par le cofalit (J) pour         163 tubes
+  -10618236.923278151     
+
+
+ Energie emmagasine par le cofalit (J) pour         164 tubes
+  -10618236.923278231     
+
+
+ Energie emmagasine par le cofalit (J) pour         165 tubes
+  -10618236.923278281     
+
+
+ Energie emmagasine par le cofalit (J) pour         166 tubes
+  -10618236.923278313     
+
+
+ Energie emmagasine par le cofalit (J) pour         167 tubes
+  -10618236.923278330     
+
+
+ Energie emmagasine par le cofalit (J) pour         168 tubes
+  -10618236.923278339     
+
+
+ Energie emmagasine par le cofalit (J) pour         169 tubes
+  -10618236.923278339     
+
+
+ Energie emmagasine par le cofalit (J) pour         170 tubes
+  -10618236.923278335     
+
+
+ Energie emmagasine par le cofalit (J) pour         171 tubes
+  -10618236.923278332     
+
+
+ Energie emmagasine par le cofalit (J) pour         172 tubes
+  -10618236.923278324     
+
+

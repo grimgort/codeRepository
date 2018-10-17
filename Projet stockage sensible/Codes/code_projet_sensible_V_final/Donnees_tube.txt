@@ -1,0 +1,13 @@
+				CRITERE D'ARRET ET AUTRES
+
+
+
+1			!Rajout de tubes (1 est recomandé) (Nb_iteration_espace)
+
+50000000		!Nombre de fois ou l'on rajoute un/des tube(s) (Nb_boucle_rajout_tube)
+
+1800.			!Temperature de consigne atteinte pour l'air de sortie du destockage (T_arret [K])
+
+
+
+

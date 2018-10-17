@@ -1,0 +1,5 @@
+<map id="initializePickupData" name="initializePickupData">
+<area shape="rect" id="node2" href="$class_aircraft.html#ad9d53b569d28aec2d2d77d948c8ab33e" title="Aircraft::collectMissiles" alt="" coords="195,5,353,32"/>
+<area shape="rect" id="node3" href="$class_aircraft.html#a155d6b2120cd6de1317689e5bf0cbc4e" title="Aircraft::increaseSpread" alt="" coords="193,56,355,83"/>
+<area shape="rect" id="node4" href="$class_aircraft.html#a285d3970515e3b37458204aaffc14892" title="Aircraft::increaseFireRate" alt="" coords="189,107,359,133"/>
+</map>

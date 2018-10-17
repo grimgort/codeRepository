@@ -1,0 +1,5 @@
+<map id="GUI::Button" name="GUI::Button">
+<area shape="rect" id="node2" href="$class_g_u_i_1_1_component.html" title="{GUI::Component\n|&#45; m_isSelected\l&#45; m_isActive\l|+ Component()\l+ ~Component()\l+ isSelectable()\l+ isSelected()\l+ select()\l+ deselect()\l+ isActive()\l+ activate()\l+ deactivate()\l+ handleEvent()\l}" alt="" coords="111,219,229,443"/>
+<area shape="rect" id="node6" href="$class_sound_player.html" title="{SoundPlayer\n|&#45; m_sounds\l|+ SoundPlayer()\l+ play()\l+ play()\l+ removeStoppedSounds()\l+ setListenerPosition()\l+ getListenerPosition()\l}" alt="" coords="253,255,428,406"/>
+<area shape="rect" id="node7" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::SoundBuffer, SoundEffect::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="354,5,565,156"/>
+</map>

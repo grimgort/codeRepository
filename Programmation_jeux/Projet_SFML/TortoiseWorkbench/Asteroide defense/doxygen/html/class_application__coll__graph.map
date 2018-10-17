@@ -1,0 +1,11 @@
+<map id="Application" name="Application">
+<area shape="rect" id="node2" href="$class_key_binding.html" title="{KeyBinding\n|&#45; m_keyMap\l|+ KeyBinding()\l+ assignKey()\l+ getAssignedKey()\l+ checkAction()\l+ getRealtimeActions()\l&#45; initializeActions()\l}" alt="" coords="768,226,922,377"/>
+<area shape="rect" id="node5" href="$struct_state_1_1_context.html" title="{State::Context\n|+ window\l|+ Context()\l}" alt="" coords="329,461,436,539"/>
+<area shape="rect" id="node3" href="$class_state_stack.html" title="{StateStack\n|&#45; m_stack\l&#45; m_pendingList\l&#45; m_factories\l|+ StateStack()\l+ registerState()\l+ registerState()\l+ update()\l+ draw()\l+ handleEvent()\l+ pushState()\l+ popState()\l+ clearStates()\l+ isEmpty()\l&#45; createState()\l&#45; applyPendingChanges()\l}" alt="" coords="76,616,243,884"/>
+<area shape="rect" id="node8" href="$class_music_player.html" title="{MusicPlayer\n|&#45; m_music\l&#45; m_filenames\l&#45; m_volume\l|+ MusicPlayer()\l+ play()\l+ stop()\l+ setPaused()\l+ setVolume()\l}" alt="" coords="33,219,148,384"/>
+<area shape="rect" id="node9" href="$class_sound_player.html" title="{SoundPlayer\n|&#45; m_sounds\l|+ SoundPlayer()\l+ play()\l+ play()\l+ removeStoppedSounds()\l+ setListenerPosition()\l+ getListenerPosition()\l}" alt="" coords="172,226,347,377"/>
+<area shape="rect" id="node6" href="$class_resource_holder.html" title="{ResourceHolder\&lt; Resource,\l Identifier \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="371,226,556,377"/>
+<area shape="rect" id="node7" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::Texture, Textures::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="581,226,744,377"/>
+<area shape="rect" id="node10" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::SoundBuffer, SoundEffect::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="157,5,368,156"/>
+<area shape="rect" id="node11" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::Font, Fonts::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="836,675,972,825"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="GUI::Button" name="GUI::Button">
+<area shape="rect" id="node2" href="$class_g_u_i_1_1_component.html" title="{GUI::Component\n|&#45; m_isSelected\l&#45; m_isActive\l|+ Component()\l+ ~Component()\l+ isSelectable()\l+ isSelected()\l+ select()\l+ deselect()\l+ isActive()\l+ activate()\l+ deactivate()\l+ handleEvent()\l}" alt="" coords="123,131,241,355"/>
+</map>

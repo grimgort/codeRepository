@@ -1,0 +1,4 @@
+<map id="SceneNode::removeWrecks" name="SceneNode::removeWrecks">
+<area shape="rect" id="node2" href="$class_scene_node.html#a8a0f6080efbd7e49569552b5542fd855" title="Demande si le noeud doit être supprimé " alt="" coords="236,5,455,32"/>
+<area shape="rect" id="node3" href="$class_scene_node.html#add1a151301a5056b29e552a83be4f507" title="Demande si le noeud est détruit. " alt="" coords="503,5,669,32"/>
+</map>

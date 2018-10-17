@@ -1,0 +1,18 @@
+
+syntax: regexp
+^Asteroide defense/bin$
+syntax: regexp
+^Asteroide defense/doxygen$
+syntax: regexp
+^Asteroide defense/obj$
+syntax: regexp
+^Asteroide defense/cb\.bmp$
+syntax: glob
+Asteroide defense/Projet2.depend.orig
+Asteroide defense/Projet2.layout.orig
+<<<<<<< working copy
+=======
+Asteroide defense/media/Textures/desktop.ini
+>>>>>>> merge rev
+Asteroide defense/Projet2.depend
+Asteroide defense/Projet2.layout

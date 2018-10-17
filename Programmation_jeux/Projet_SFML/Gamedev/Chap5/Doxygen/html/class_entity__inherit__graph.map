@@ -1,0 +1,4 @@
+<map id="Entity" name="Entity">
+<area shape="rect" id="node6" href="$class_aircraft.html" title="{Aircraft\n||+ Aircraft()\l+ getCategory()\l}" alt="" coords="142,543,254,635"/>
+<area shape="rect" id="node2" href="$class_scene_node.html" title="{SceneNode\n||+ SceneNode()\l+ attachChild()\l+ detacheChild()\l+ update()\l+ getWorldPosition()\l+ getWorldTransform()\l+ onCommand()\l+ getCategory()\l}" alt="" coords="123,131,273,311"/>
+</map>

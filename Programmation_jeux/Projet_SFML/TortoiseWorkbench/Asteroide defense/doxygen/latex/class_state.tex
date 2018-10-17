@@ -1,0 +1,80 @@
+\hypertarget{class_state}{}\section{Référence de la classe State}
+\label{class_state}\index{State@{State}}
+
+
+Graphe d\textquotesingle{}héritage de State\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_state__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Graphe de collaboration de State\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=191pt]{class_state__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+struct \hyperlink{struct_state_1_1_context}{Context}
+\end{DoxyCompactItemize}
+\subsection*{Types publics}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_state_a71d9930be1a58be7f711e245b7965d48}{}\label{class_state_a71d9930be1a58be7f711e245b7965d48} 
+typedef std\+::unique\+\_\+ptr$<$ \hyperlink{class_state}{State} $>$ {\bfseries Ptr}
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres publiques}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_state_afede488ff3c1b264bbd07f8aeead84a7}{}\label{class_state_afede488ff3c1b264bbd07f8aeead84a7} 
+{\bfseries State} (\hyperlink{class_state_stack}{State\+Stack} \&stack, \hyperlink{struct_state_1_1_context}{Context} context)
+\item 
+\hypertarget{class_state_ae261605bc40b7e3959ce5df5457e4942}{}\label{class_state_ae261605bc40b7e3959ce5df5457e4942} 
+virtual void {\bfseries draw} ()=0
+\item 
+\hypertarget{class_state_acd5926bc7a373edff9e57f3ffe94ca13}{}\label{class_state_acd5926bc7a373edff9e57f3ffe94ca13} 
+virtual bool {\bfseries update} (sf\+::\+Time dt)=0
+\item 
+\hypertarget{class_state_a19965f83460b248c42952aac8d001206}{}\label{class_state_a19965f83460b248c42952aac8d001206} 
+virtual bool {\bfseries handle\+Event} (const sf\+::\+Event \&event)=0
+\item 
+\hypertarget{class_state_ab1d1055fee2e667a6f4c71218b5f586a}{}\label{class_state_ab1d1055fee2e667a6f4c71218b5f586a} 
+virtual void {\bfseries on\+Activate} ()
+\item 
+\hypertarget{class_state_a7b3d30b1014c6a21d0d8b59890402cbd}{}\label{class_state_a7b3d30b1014c6a21d0d8b59890402cbd} 
+virtual void {\bfseries on\+Destroy} ()
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres protégées}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_state_a6763de833ceb9c23df45aff163a4a1cd}{}\label{class_state_a6763de833ceb9c23df45aff163a4a1cd} 
+void {\bfseries request\+Stack\+Push} (States\+::\+ID state\+ID)
+\item 
+\hypertarget{class_state_aa418660892d6161772c907bd8d70f910}{}\label{class_state_aa418660892d6161772c907bd8d70f910} 
+void {\bfseries request\+Stack\+Pop} ()
+\item 
+\hypertarget{class_state_a4b602bed9bf0179ee5f6748fce340ae6}{}\label{class_state_a4b602bed9bf0179ee5f6748fce340ae6} 
+void {\bfseries request\+State\+Clear} ()
+\item 
+\hypertarget{class_state_a93a72915d1aad6d8f7eacc81094dc920}{}\label{class_state_a93a72915d1aad6d8f7eacc81094dc920} 
+\hyperlink{struct_state_1_1_context}{Context} {\bfseries get\+Context} () const
+\end{DoxyCompactItemize}
+
+
+\subsection{Description détaillée}
+
+
+Définition à la ligne 23 du fichier State.\+h.
+
+
+
+La documentation de cette classe a été générée à partir des fichiers suivants \+:\begin{DoxyCompactItemize}
+\item 
+State.\+h\item 
+State.\+cpp\end{DoxyCompactItemize}

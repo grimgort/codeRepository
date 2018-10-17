@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1462518977 source:c:\users\fred\documents\fred\cours c++\code_exo\surcharge\surcharge\duree.cpp
+	"duree.h"
+	<iostream>
+
+1462519338 c:\users\fred\documents\fred\cours c++\code_exo\surcharge\surcharge\duree.h
+	<iostream>
+
+1462519397 source:c:\users\fred\documents\fred\cours c++\code_exo\surcharge\surcharge\main.cpp
+	<iostream>
+	"duree.h"
+

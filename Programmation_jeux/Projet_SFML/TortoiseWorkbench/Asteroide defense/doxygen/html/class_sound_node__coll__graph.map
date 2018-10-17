@@ -1,0 +1,5 @@
+<map id="SoundNode" name="SoundNode">
+<area shape="rect" id="node2" href="$class_scene_node.html" title="Classe representant le sceneNode. " alt="" coords="89,219,251,619"/>
+<area shape="rect" id="node6" href="$class_sound_player.html" title="{SoundPlayer\n|&#45; m_sounds\l|+ SoundPlayer()\l+ play()\l+ play()\l+ removeStoppedSounds()\l+ setListenerPosition()\l+ getListenerPosition()\l}" alt="" coords="363,343,537,494"/>
+<area shape="rect" id="node7" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::SoundBuffer, SoundEffect::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="354,5,565,156"/>
+</map>

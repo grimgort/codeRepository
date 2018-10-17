@@ -1,0 +1,3 @@
+<map id="PostEffect" name="PostEffect">
+<area shape="rect" id="node3" href="$class_bloom_effect.html" title="{BloomEffect\n|&#45; m_shaders\l&#45; m_brightnessTexture\l&#45; m_firstPassTextures\l&#45; m_secondPassTextures\l|+ BloomEffect()\l+ apply()\l&#45; prepareTextures()\l&#45; filterBright()\l&#45; blurMultipass()\l&#45; blur()\l&#45; downsample()\l&#45; add()\l}" alt="" coords="5,300,176,524"/>
+</map>

@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1462614997 source:c:\users\fred\documents\fred\cours c++\code_exo\heritage\heritage\personnage.cpp
+	"personnage.h"
+
+1462615005 c:\users\fred\documents\fred\cours c++\code_exo\heritage\heritage\personnage.h
+	<iostream>
+	<string>
+
+1462615199 source:c:\users\fred\documents\fred\cours c++\code_exo\heritage\heritage\guerrier.cpp
+	<iostream>
+	<string>
+	"guerrier.h"
+
+1462614969 source:c:\users\fred\documents\fred\cours c++\code_exo\heritage\heritage\magicien.cpp
+	"magicien.h"
+	<iostream>
+	<string>
+
+1462615212 c:\users\fred\documents\fred\cours c++\code_exo\heritage\heritage\guerrier.h
+	<iostream>
+	<string>
+	"Personnage.h"
+
+1462614222 c:\users\fred\documents\fred\cours c++\code_exo\heritage\heritage\magicien.h
+	<iostream>
+	<string>
+	"Personnage.h"
+
+1462615060 source:c:\users\fred\documents\fred\cours c++\code_exo\heritage\heritage\main.cpp
+	<iostream>
+	"personnage.h"
+	"guerrier.h"
+	"magicien.h"
+

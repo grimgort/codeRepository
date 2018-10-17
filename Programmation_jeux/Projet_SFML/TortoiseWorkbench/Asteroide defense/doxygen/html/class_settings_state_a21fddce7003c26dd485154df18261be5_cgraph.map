@@ -1,0 +1,11 @@
+<map id="SettingsState::handleEvent" name="SettingsState::handleEvent">
+<area shape="rect" id="node2" href="$class_state.html#a93a72915d1aad6d8f7eacc81094dc920" title="State::getContext" alt="" coords="265,5,389,32"/>
+<area shape="rect" id="node3" href="$class_key_binding.html#a88b4df445ff9d050723710cd75a8cd3f" title="KeyBinding::assignKey" alt="" coords="249,56,406,83"/>
+<area shape="rect" id="node4" href="$class_g_u_i_1_1_container.html#af08db9d157a4e56f706493529901eb7f" title="GUI::Container::handleEvent" alt="" coords="235,107,420,133"/>
+<area shape="rect" id="node8" href="$class_key_binding.html#af55da9ca1a666a2617b7f32a51e1b466" title="KeyBinding::getAssignedKey" alt="" coords="232,157,423,184"/>
+<area shape="rect" id="node9" href="$_utility_8inl.html#a1e803cea7d2670ece91f5465281446ba" title="toString" alt="" coords="294,208,361,235"/>
+<area shape="rect" id="node10" href="$class_g_u_i_1_1_container.html#a6f6217ae300a4f313a55f01f17baf5d6" title="GUI::Container::pack" alt="" coords="256,259,399,285"/>
+<area shape="rect" id="node5" href="$class_g_u_i_1_1_component.html#a86d906696a080742900b8ead67a2ae3b" title="GUI::Component::isActive" alt="" coords="479,81,649,108"/>
+<area shape="rect" id="node6" href="$class_g_u_i_1_1_component.html#ad0f7d6cc692edf2b0e426bfbd584be45" title="GUI::Component::select" alt="" coords="483,208,645,235"/>
+<area shape="rect" id="node7" href="$class_g_u_i_1_1_container.html#a6a5c4b42556336e194a90c68a035174d" title="GUI::Container::isSelectable" alt="" coords="471,132,657,159"/>
+</map>

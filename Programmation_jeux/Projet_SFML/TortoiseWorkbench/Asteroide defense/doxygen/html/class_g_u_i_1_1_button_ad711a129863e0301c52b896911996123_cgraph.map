@@ -1,0 +1,8 @@
+<map id="GUI::Button::activate" name="GUI::Button::activate">
+<area shape="rect" id="node2" href="$class_g_u_i_1_1_component.html#a965823e0e62612a7e532eb8c0b98861d" title="GUI::Component::activate" alt="" coords="196,5,367,32"/>
+<area shape="rect" id="node3" href="$class_g_u_i_1_1_button.html#ab0a1773817447712b17ab1ad6da767da" title="GUI::Button::deactivate" alt="" coords="203,56,359,83"/>
+<area shape="rect" id="node6" href="$class_sound_player.html#aa0b85f15f5b13bc41c71eeee6b0a7779" title="SoundPlayer::play" alt="" coords="217,111,345,137"/>
+<area shape="rect" id="node4" href="$class_g_u_i_1_1_component.html#a8964087afef859c015fb8188e619aa81" title="GUI::Component::deactivate" alt="" coords="416,5,600,32"/>
+<area shape="rect" id="node5" href="$class_g_u_i_1_1_component.html#a456e20a33a9ee778b0eda2641147724e" title="GUI::Component::isSelected" alt="" coords="415,56,601,83"/>
+<area shape="rect" id="node7" href="$class_sound_player.html#a26ace9198bf0324da5df1b2919ce9665" title="SoundPlayer::getListener\lPosition" alt="" coords="424,107,592,149"/>
+</map>

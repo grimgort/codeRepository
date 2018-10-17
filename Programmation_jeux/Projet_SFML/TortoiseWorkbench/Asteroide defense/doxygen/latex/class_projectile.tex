@@ -1,0 +1,68 @@
+\hypertarget{class_projectile}{}\section{Référence de la classe Projectile}
+\label{class_projectile}\index{Projectile@{Projectile}}
+
+
+Graphe d\textquotesingle{}héritage de Projectile\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{class_projectile__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Graphe de collaboration de Projectile\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{class_projectile__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Types publics}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_projectile_ae0d6ce4b663618b4105d2f3a483ff2eb}{}\label{class_projectile_ae0d6ce4b663618b4105d2f3a483ff2eb} 
+enum {\bfseries Type} \{ {\bfseries Allied\+Bullet}, 
+{\bfseries Enemy\+Bullet}, 
+{\bfseries Missile}, 
+{\bfseries Type\+Count}
+ \}
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres publiques}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_projectile_a3cc3cae5a10d2ba896788e48d2decca8}{}\label{class_projectile_a3cc3cae5a10d2ba896788e48d2decca8} 
+{\bfseries Projectile} (Type type, const \hyperlink{class_resource_holder}{Texture\+Holder} \&textures)
+\item 
+\hypertarget{class_projectile_a00dad6aba348a7c0c5cf006dee7f98b2}{}\label{class_projectile_a00dad6aba348a7c0c5cf006dee7f98b2} 
+void {\bfseries guide\+Towards} (sf\+::\+Vector2f position)
+\item 
+\hypertarget{class_projectile_af72470e40dde23c80ab7b3b739d4023d}{}\label{class_projectile_af72470e40dde23c80ab7b3b739d4023d} 
+bool {\bfseries is\+Guided} () const
+\item 
+\hypertarget{class_projectile_a434138083867a7a499192ebdafc97441}{}\label{class_projectile_a434138083867a7a499192ebdafc97441} 
+virtual unsigned int {\bfseries get\+Category} () const
+\item 
+\hypertarget{class_projectile_a7f17ca6a688522892fd543229a047a03}{}\label{class_projectile_a7f17ca6a688522892fd543229a047a03} 
+virtual sf\+::\+Float\+Rect {\bfseries get\+Bounding\+Rect} () const
+\item 
+\hypertarget{class_projectile_a2e15585a30093e0cd03c5ecbf14e4f1f}{}\label{class_projectile_a2e15585a30093e0cd03c5ecbf14e4f1f} 
+float {\bfseries get\+Max\+Speed} () const
+\item 
+\hypertarget{class_projectile_af5cd30772ad4cb3894629ca76c6b8f79}{}\label{class_projectile_af5cd30772ad4cb3894629ca76c6b8f79} 
+int {\bfseries get\+Damage} () const
+\end{DoxyCompactItemize}
+\subsection*{Membres hérités additionnels}
+
+
+\subsection{Description détaillée}
+
+
+Définition à la ligne 9 du fichier Projectile.\+h.
+
+
+
+La documentation de cette classe a été générée à partir des fichiers suivants \+:\begin{DoxyCompactItemize}
+\item 
+Projectile.\+h\item 
+Projectile.\+cpp\end{DoxyCompactItemize}

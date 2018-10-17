@@ -1,0 +1,4 @@
+<map id="SceneNode::draw" name="SceneNode::draw">
+<area shape="rect" id="node2" href="$class_scene_node.html#af3d9ad9725fb8c7bbaa71026c46e5a50" title="Dessine le noeud courant. " alt="" coords="179,5,346,32"/>
+<area shape="rect" id="node3" href="$class_scene_node.html#a7857a9a8f3f7f3fad1f32627d9873719" title="Dessine les noeuds enfant. " alt="" coords="177,56,348,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="World::spawnEnemies" name="World::spawnEnemies">
+<area shape="rect" id="node2" href="$class_world.html#ae5c2531cd68eb3e92d90fd5e9218f0a8" title="Récupére les bordures du monde. " alt="" coords="205,5,388,32"/>
+<area shape="rect" id="node3" href="$class_world.html#aebe9adedadddb753cb2037c53548a7bf" title="Récupére les dimension de la carte world. " alt="" coords="436,5,596,32"/>
+</map>

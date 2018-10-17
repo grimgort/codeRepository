@@ -1,0 +1,7 @@
+<map id="Aircraft" name="Aircraft">
+<area shape="rect" id="node2" href="$class_entity.html" title="Classe representant l&#39;entité " alt="" coords="5,581,161,908"/>
+<area shape="rect" id="node3" href="$class_scene_node.html" title="Classe representant le sceneNode. " alt="" coords="99,132,262,532"/>
+<area shape="rect" id="node8" href="$class_text_node.html" title="{TextNode\n|&#45; m_text\l|+ TextNode()\l+ setString()\l&#45; drawCurrent()\l}" alt="" coords="186,691,293,798"/>
+<area shape="rect" id="node7" href="$struct_command.html" title="{Command\n|+ action\l+ category\l|+ Command()\l}" alt="" coords="323,699,425,791"/>
+<area shape="rect" id="node9" href="$class_animation.html" title="{Animation\n|&#45; m_sprite\l&#45; m_frameSize\l&#45; m_numFrames\l&#45; m_currentFrame\l&#45; m_duration\l&#45; m_elapsedTime\l&#45; m_repeat\l|+ Animation()\l+ Animation()\l+ setTexture()\l+ getTexture()\l+ setFrameSize()\l+ getFrameSize()\l+ setNumFrames()\l+ getNumFrames()\l+ setDuration()\l+ getDuration()\let 7 de plus...\l&#45; draw()\l}" alt="" coords="490,581,621,908"/>
+</map>

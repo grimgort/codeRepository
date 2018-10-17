@@ -1,0 +1,120 @@
+\hypertarget{class_entity}{}\section{Référence de la classe Entity}
+\label{class_entity}\index{Entity@{Entity}}
+
+
+Classe representant l\textquotesingle{}entit�e  
+
+
+
+
+{\ttfamily \#include $<$Entity.\+h$>$}
+
+
+
+Graphe d\textquotesingle{}héritage de Entity\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{class_entity__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Graphe de collaboration de Entity\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{class_entity__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Fonctions membres publiques}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_entity_a305ac3dd729c288ab23db531fa3fb7e6}{Entity} (int hitpoints)
+\begin{DoxyCompactList}\small\item\em Constructeur. \end{DoxyCompactList}\item 
+\hypertarget{class_entity_a5bf79843c973eac1fdbebfd1fc83a1e8}{}\label{class_entity_a5bf79843c973eac1fdbebfd1fc83a1e8} 
+void {\bfseries set\+Velocity} (sf\+::\+Vector2f velocity)
+\item 
+\hypertarget{class_entity_a7873fbd61cf1a742d4492ec438a9ac9f}{}\label{class_entity_a7873fbd61cf1a742d4492ec438a9ac9f} 
+void {\bfseries set\+Velocity} (float vx, float vy)
+\item 
+\hypertarget{class_entity_a80cdb89f11d47716781bc567efd2bcda}{}\label{class_entity_a80cdb89f11d47716781bc567efd2bcda} 
+void {\bfseries accelerate} (sf\+::\+Vector2f velocity)
+\item 
+\hypertarget{class_entity_a2ff2403c455f15b3fe5d04e922b3943d}{}\label{class_entity_a2ff2403c455f15b3fe5d04e922b3943d} 
+void {\bfseries accelerate} (float vx, float vy)
+\item 
+\hypertarget{class_entity_ae7518a0181de088e0de2eacd1a13d656}{}\label{class_entity_ae7518a0181de088e0de2eacd1a13d656} 
+sf\+::\+Vector2f {\bfseries get\+Velocity} () const
+\item 
+\hypertarget{class_entity_ade4af3619c02f07429981259bacc881b}{}\label{class_entity_ade4af3619c02f07429981259bacc881b} 
+int {\bfseries get\+Hitpoints} () const
+\item 
+\hypertarget{class_entity_a8791dc8f8c8b944555d67c1aa5dc245d}{}\label{class_entity_a8791dc8f8c8b944555d67c1aa5dc245d} 
+void {\bfseries set\+Hitpoints} (int points)
+\item 
+\hypertarget{class_entity_a354ea9f771b0758f8e70bdfac9a740b4}{}\label{class_entity_a354ea9f771b0758f8e70bdfac9a740b4} 
+void {\bfseries repair} (int points)
+\item 
+\hypertarget{class_entity_a15660fa13012dbca80c8047e2cc6f1f5}{}\label{class_entity_a15660fa13012dbca80c8047e2cc6f1f5} 
+void {\bfseries damage} (int points)
+\item 
+\hypertarget{class_entity_a691dbe5f9ec930c27af2af0b97907a9e}{}\label{class_entity_a691dbe5f9ec930c27af2af0b97907a9e} 
+void {\bfseries destroy} ()
+\item 
+\hypertarget{class_entity_aa84c32a5d1baceccefec62568edc0a4f}{}\label{class_entity_aa84c32a5d1baceccefec62568edc0a4f} 
+virtual void {\bfseries remove} ()
+\item 
+\hypertarget{class_entity_a938cddf03ff5239be09195452142c5e6}{}\label{class_entity_a938cddf03ff5239be09195452142c5e6} 
+virtual bool {\bfseries is\+Destroyed} () const
+\item 
+\hypertarget{class_entity_a4ffae7e910fc9deaabfed51d014ff1db}{}\label{class_entity_a4ffae7e910fc9deaabfed51d014ff1db} 
+virtual void {\bfseries check\+Node\+Position} (\hyperlink{class_scene_node}{Scene\+Node} \&node, const std\+::vector$<$ sf\+::\+Float\+Rect $>$ \&virtual\+Rect\+Collision, std\+::multimap$<$ int, \hyperlink{class_scene_node}{Scene\+Node} $\ast$$>$ \&collision\+Liste\+To\+Test, sf\+::\+Int32 nb\+CutX, sf\+::\+Int32 nb\+CutY)
+\item 
+\hypertarget{class_entity_abb13dc0928903ef41dab61858b7220d4}{}\label{class_entity_abb13dc0928903ef41dab61858b7220d4} 
+virtual int {\bfseries get\+Position\+Collision} () const
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres protégées}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_entity_a3d9ad14643b61864cf60ea7f0738146b}{}\label{class_entity_a3d9ad14643b61864cf60ea7f0738146b} 
+virtual void {\bfseries update\+Current} (sf\+::\+Time dt, \hyperlink{class_command_queue}{Command\+Queue} \&commands)
+\end{DoxyCompactItemize}
+\subsection*{Membres hérités additionnels}
+
+
+\subsection{Description détaillée}
+Classe representant l\textquotesingle{}entit�e 
+
+La classe g�re les entit�es 
+
+Définition à la ligne 21 du fichier Entity.\+h.
+
+
+
+\subsection{Documentation des constructeurs et destructeur}
+\hypertarget{class_entity_a305ac3dd729c288ab23db531fa3fb7e6}{}\label{class_entity_a305ac3dd729c288ab23db531fa3fb7e6} 
+\index{Entity@{Entity}!Entity@{Entity}}
+\index{Entity@{Entity}!Entity@{Entity}}
+\subsubsection{\texorpdfstring{Entity()}{Entity()}}
+{\footnotesize\ttfamily Entity\+::\+Entity (\begin{DoxyParamCaption}\item[{int}]{hitpoints }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [explicit]}}
+
+
+
+Constructeur. 
+
+
+\begin{DoxyParams}{Paramètres}
+{\em hitpoints} & \+: Nombre de point de vie de l\textquotesingle{}entit�e \\
+\hline
+\end{DoxyParams}
+
+
+Définition à la ligne 6 du fichier Entity.\+cpp.
+
+
+
+La documentation de cette classe a été générée à partir des fichiers suivants \+:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{_entity_8h}{Entity.\+h}\item 
+Entity.\+cpp\end{DoxyCompactItemize}

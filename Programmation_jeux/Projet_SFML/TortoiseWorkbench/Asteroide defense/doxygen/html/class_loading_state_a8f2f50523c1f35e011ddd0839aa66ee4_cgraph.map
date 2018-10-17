@@ -1,0 +1,9 @@
+<map id="LoadingState::update" name="LoadingState::update">
+<area shape="rect" id="node2" href="$class_parallel_task.html#a1a67f547aa382fac2087184b2eb19148" title="ParallelTask::isFinished" alt="" coords="213,5,373,32"/>
+<area shape="rect" id="node3" href="$class_state.html#aa418660892d6161772c907bd8d70f910" title="State::requestStackPop" alt="" coords="213,56,374,83"/>
+<area shape="rect" id="node5" href="$class_state.html#a6763de833ceb9c23df45aff163a4a1cd" title="State::requestStackPush" alt="" coords="209,107,377,133"/>
+<area shape="rect" id="node7" href="$class_loading_state.html#a28bee93e7f9818084af8be6b31ee0ba4" title="LoadingState::setCompletion" alt="" coords="199,157,388,184"/>
+<area shape="rect" id="node8" href="$class_parallel_task.html#ada45e4db1aa8a89f20ab0b8662c6dabc" title="ParallelTask::getCompletion" alt="" coords="201,208,385,235"/>
+<area shape="rect" id="node4" href="$class_state_stack.html#a7e050a57b798295c2344f1318765b5ee" title="StateStack::popState" alt="" coords="440,56,587,83"/>
+<area shape="rect" id="node6" href="$class_state_stack.html#a80ed85f0fc13039e6f4c7dfef19e608f" title="StateStack::pushState" alt="" coords="436,107,591,133"/>
+</map>

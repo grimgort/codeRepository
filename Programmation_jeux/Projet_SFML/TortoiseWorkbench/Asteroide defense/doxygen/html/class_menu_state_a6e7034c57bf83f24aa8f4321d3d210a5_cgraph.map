@@ -1,0 +1,10 @@
+<map id="MenuState::MenuState" name="MenuState::MenuState">
+<area shape="rect" id="node2" href="$class_resource_holder.html#a6452638a75b6df7ea7d610f204632850" title="ResourceHolder::get" alt="" coords="223,5,363,32"/>
+<area shape="rect" id="node3" href="$class_state.html#aa418660892d6161772c907bd8d70f910" title="State::requestStackPop" alt="" coords="213,56,374,83"/>
+<area shape="rect" id="node5" href="$class_state.html#a6763de833ceb9c23df45aff163a4a1cd" title="State::requestStackPush" alt="" coords="209,107,377,133"/>
+<area shape="rect" id="node7" href="$class_g_u_i_1_1_container.html#a6f6217ae300a4f313a55f01f17baf5d6" title="GUI::Container::pack" alt="" coords="222,157,365,184"/>
+<area shape="rect" id="node9" href="$class_music_player.html#a8a10a649154c8b7af3031c5f36cb53ca" title="MusicPlayer::play" alt="" coords="230,208,357,235"/>
+<area shape="rect" id="node4" href="$class_state_stack.html#a7e050a57b798295c2344f1318765b5ee" title="StateStack::popState" alt="" coords="433,56,579,83"/>
+<area shape="rect" id="node6" href="$class_state_stack.html#a80ed85f0fc13039e6f4c7dfef19e608f" title="StateStack::pushState" alt="" coords="429,107,583,133"/>
+<area shape="rect" id="node8" href="$class_g_u_i_1_1_component.html#ad0f7d6cc692edf2b0e426bfbd584be45" title="GUI::Component::select" alt="" coords="425,157,587,184"/>
+</map>

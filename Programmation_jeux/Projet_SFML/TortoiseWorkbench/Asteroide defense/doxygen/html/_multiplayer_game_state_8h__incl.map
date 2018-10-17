@@ -1,0 +1,23 @@
+<map id="MultiplayerGameState.h" name="MultiplayerGameState.h">
+<area shape="rect" id="node2" href="$_state_8h.html" title="State.h" alt="" coords="1413,229,1477,256"/>
+<area shape="rect" id="node8" href="$_world_8h.html" title="World.h" alt="" coords="835,80,901,107"/>
+<area shape="rect" id="node36" href="$_network_protocol_8h.html" title="NetworkProtocol.h" alt="" coords="1733,155,1861,181"/>
+<area shape="rect" id="node40" href="$_player_8h.html" title="Player.h" alt="" coords="1933,229,2003,256"/>
+<area shape="rect" id="node43" href="$_game_server_8h.html" title="GameServer.h" alt="" coords="2271,229,2375,256"/>
+<area shape="rect" id="node3" href="$_state_identifiers_8h.html" title="StateIdentifiers.h" alt="" coords="1241,304,1359,331"/>
+<area shape="rect" id="node4" href="$_resource_identifiers_8h.html" title="ResourceIdentifiers.h" alt="" coords="669,304,811,331"/>
+<area shape="rect" id="node9" href="$_resource_holder_8hpp.html" title="ResourceHolder.hpp" alt="" coords="1077,304,1216,331"/>
+<area shape="rect" id="node15" href="$_scene_node_8h.html" title="SceneNode.h" alt="" coords="346,379,446,405"/>
+<area shape="rect" id="node23" href="$_sprite_node_8h.html" title="SpriteNode.h" alt="" coords="219,229,317,256"/>
+<area shape="rect" id="node25" href="$_aircraft_8h.html" title="Aircraft.h" alt="" coords="655,155,729,181"/>
+<area shape="rect" id="node27" href="$_command_8h.html" title="Command.h" alt="" coords="835,304,927,331"/>
+<area shape="rect" id="node29" href="$_command_queue_8h.html" title="CommandQueue.h" alt="" coords="905,155,1036,181"/>
+<area shape="rect" id="node31" href="$_pickup_8h.html" title="Pickup.h" alt="" coords="605,229,678,256"/>
+<area shape="rect" id="node32" href="$_bloom_effect_8h.html" title="BloomEffect.h" alt="" coords="1038,229,1141,256"/>
+<area shape="rect" id="node34" href="$_sound_player_8h.html" title="SoundPlayer.h" alt="" coords="1216,229,1323,256"/>
+<area shape="rect" id="node14" href="$_resource_holder_8inl.html" title="ResourceHolder.inl" alt="" coords="1267,379,1397,405"/>
+<area shape="rect" id="node16" href="$_category_8h.html" title="Category.h" alt="" coords="613,453,699,480"/>
+<area shape="rect" id="node26" href="$_entity_8h.html" title="Créer une entitée " alt="" coords="577,304,644,331"/>
+<area shape="rect" id="node28" href="$_projectile_8h.html" title="Projectile.h" alt="" coords="494,229,581,256"/>
+<area shape="rect" id="node41" href="$_key_binding_8h.html" title="KeyBinding.h" alt="" coords="2237,379,2336,405"/>
+</map>

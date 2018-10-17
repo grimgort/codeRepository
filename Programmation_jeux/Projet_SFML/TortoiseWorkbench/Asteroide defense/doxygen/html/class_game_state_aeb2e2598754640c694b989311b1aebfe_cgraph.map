@@ -1,0 +1,5 @@
+<map id="GameState::GameState" name="GameState::GameState">
+<area shape="rect" id="node2" href="$class_world.html#a4b5a1ee9561c00df5a3348b43ed9f6d9" title="World::addAircraft" alt="" coords="237,5,363,32"/>
+<area shape="rect" id="node3" href="$class_player.html#af05bf5f8492d79b38ef2a39cefe0ea9e" title="Player::setMissionStatus" alt="" coords="216,56,384,83"/>
+<area shape="rect" id="node4" href="$class_music_player.html#a8a10a649154c8b7af3031c5f36cb53ca" title="MusicPlayer::play" alt="" coords="237,107,363,133"/>
+</map>

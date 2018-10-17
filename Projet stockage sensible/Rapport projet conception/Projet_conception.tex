@@ -1,0 +1,124 @@
+\documentclass[a4paper,french,twoside,openright]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+
+\usepackage{a4wide}
+\usepackage{pdfpages}
+\usepackage{varioref}
+\usepackage[pdftex]{hyperref}
+\usepackage{cite}
+
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage{slashbox}
+\usepackage{rotating}
+\usepackage{float}
+\usepackage{color}
+\usepackage{colortbl}
+
+\usepackage{graphicx}
+\usepackage{epic}
+\usepackage{wrapfig}
+\usepackage{subfigure}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{mathrsfs}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{tabularx}
+
+\usepackage{eurosym}
+
+\usepackage[nottoc, notlof, notlot]{tocbibind}
+
+\DeclareGraphicsExtensions{.jpg,.mps,.pdf,.png,.gif}
+
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyhead{}
+\fancyhead[LO,LE]{$1^\textrm{ère}$  année ENSGTI}
+\fancyhead[RE]{Projet professionnel}
+\fancyhead[RO]{\leftmark}
+
+
+%---------- COMMANDES PERSOS
+\newcommand{\unit}[1]{{\,\mathrm{#1}}}
+\newcommand{\ve}[1]{{\Vec{#1}}}
+\newcommand{\ma}[1]{{\mathbf#1}}
+\newcommand{\nom}[1]{{\scshape#1}}
+\renewcommand{\d}{{\mathrm{d}{}}}
+
+\def \dpar #1#2 {\frac{\partial #1}{\partial #2}} 
+\def \ddrt #1#2 {\frac{d #1}{d #2}} 
+\def \croch #1 { \left[ #1 \right] } 
+\def \paren #1 { \left( #1 \right) } 
+\def \accog #1 { \left\{ #1 \right. } 
+
+\setlongtables 
+
+\begin{document}
+
+\setlength{\parindent}{0mm}
+
+\pagenumbering{roman}
+
+\pdfbookmark[0]{Page de garde}{garde}
+
+\begin{titlepage}
+	\begin{center}
+		\includegraphics[scale=1]{photo/ensgti.jpg} 
+	\end{center}
+	
+	\vspace*{\stretch{1}}	
+	\begin{center}
+		\rule[1em]{0.9\textwidth}{1mm}
+		\Huge\scshape\bfseries
+		\textcolor{blue}{Projet de conception}
+		\\
+		\textcolor{red}{Dimensionnement d'une unité de stockage de chaleur sensible}\\
+		\rule{0.9\textwidth}{1mm}
+
+	\end{center}
+	\begin{center}
+		\vspace{2.5cm}
+		{\Large \'Energétique 2$^{\textrm{ère}}$ année}\\
+		\vspace{2cm}
+		{\large Promotion 2014}
+		\vspace{1cm}
+		\\
+		{\large Pamo Charlotte, Tarroux Frédéric, Delacroix Damien}
+	\end{center}
+	
+	\vspace*{\stretch{3}}
+	{\small Fichier : \texttt{\jobname.tex}
+	\hfill
+	%<<Made with \LaTeX !>>
+	\hfill
+	Version du : \texttt{\number\day/\number\month/\number\year} }
+\end{titlepage}
+
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+\pagenumbering{arabic}
+
+
+
+
+%PLAN
+\include{Desc_air_storage}
+\include{Code}
+\include{analyse1}
+\include{sol_alternative}
+\include{dernier_code}
+\include{Conclusion}
+
+\end{document}

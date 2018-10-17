@@ -1,0 +1,7 @@
+<map id="MultiplayerGameState::draw" name="MultiplayerGameState::draw">
+<area shape="rect" id="node2" href="$class_world.html#ab51a17ccbb108616daacd0c34973dc8d" title="World::draw" alt="" coords="204,31,295,57"/>
+<area shape="rect" id="node3" href="$class_post_effect.html#a2fd17f2ecf85d27716dd056cd543ed32" title="PostEffect::isSupported" alt="" coords="343,5,501,32"/>
+<area shape="rect" id="node4" href="$class_bloom_effect.html#add417d9fc98d72bf26bcab5e098de8c3" title="BloomEffect::apply" alt="" coords="357,56,487,83"/>
+<area shape="rect" id="node5" href="$class_resource_holder.html#a6452638a75b6df7ea7d610f204632850" title="ResourceHolder::get" alt="" coords="561,31,701,57"/>
+<area shape="rect" id="node6" href="$class_post_effect.html#a919143d710145618fdebf3f1337e17ef" title="PostEffect::applyShader" alt="" coords="549,81,712,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AircraftMover::operator()" name="AircraftMover::operator()">
+<area shape="rect" id="node2" href="$class_aircraft.html#a2f6a97f09252744828f748120025630b" title="Aircraft::getIdentifier" alt="" coords="220,5,357,32"/>
+<area shape="rect" id="node3" href="$class_entity.html#a80cdb89f11d47716781bc567efd2bcda" title="Entity::accelerate" alt="" coords="227,56,351,83"/>
+<area shape="rect" id="node4" href="$class_aircraft.html#a64e22bc8086cd2d4c15a2b2b6be3b98c" title="Aircraft::getMaxSpeed" alt="" coords="213,107,364,133"/>
+</map>

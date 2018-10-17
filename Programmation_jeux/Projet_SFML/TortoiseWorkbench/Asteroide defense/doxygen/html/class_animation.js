@@ -1,0 +1,28 @@
+var class_animation =
+[
+    [ "Animation", "class_animation.html#a83f0a16cef7117f187ad596de38dd9d6", null ],
+    [ "Animation", "class_animation.html#a8f15adab6f0f4f37d0081c3902264334", null ],
+    [ "draw", "class_animation.html#a86bd3f3485275f4af240428b977a3f83", null ],
+    [ "getDuration", "class_animation.html#af8f00863383094851acb06d83f7a85e9", null ],
+    [ "getFrameSize", "class_animation.html#ac94ce8b9abad85d686aec3ec8d05cd9f", null ],
+    [ "getGlobalBounds", "class_animation.html#ad829ff72f859c44ea80b65aad5e7e5ae", null ],
+    [ "getLocalBounds", "class_animation.html#a677e525e6b1f187fd6719bc511253a2b", null ],
+    [ "getNumFrames", "class_animation.html#a9248e3726c272391ffaf1331bb72c3bf", null ],
+    [ "getTexture", "class_animation.html#aceb713113fea1038752e2d0018d0e304", null ],
+    [ "isFinished", "class_animation.html#a52f7a8449004b0248a3b7f8de9759cd0", null ],
+    [ "isRepeating", "class_animation.html#aedcd2695ee980a41ff1fa65e0091f6a4", null ],
+    [ "restart", "class_animation.html#a17f07570ce8e26928fd1d99cfd9c63f0", null ],
+    [ "setDuration", "class_animation.html#a168c112e11c1fe0040885cea8127dd83", null ],
+    [ "setFrameSize", "class_animation.html#ad36304e4187bba21075bed5d57eb0025", null ],
+    [ "setNumFrames", "class_animation.html#aa056c5b431eb078bc7d36eacb12b299c", null ],
+    [ "setRepeating", "class_animation.html#ac6e19fdb858aab0b2b2f7e37d6976438", null ],
+    [ "setTexture", "class_animation.html#a3d59fba435978a6531529041d355324b", null ],
+    [ "update", "class_animation.html#a250fabaf23dab62bd373daac39aa25d3", null ],
+    [ "m_currentFrame", "class_animation.html#a0207cd0c2e97d321e2304209e37d8333", null ],
+    [ "m_duration", "class_animation.html#a60317f66974b4a834c91d0772f5680c6", null ],
+    [ "m_elapsedTime", "class_animation.html#a06018b3a6151a054c43f5111199927da", null ],
+    [ "m_frameSize", "class_animation.html#adbdf2767adb46a539951f995d41dfa1f", null ],
+    [ "m_numFrames", "class_animation.html#aaf0892cfe090269aae38332158b5f551", null ],
+    [ "m_repeat", "class_animation.html#af0af8d83380aff12d2884c75f86cab7c", null ],
+    [ "m_sprite", "class_animation.html#a0bbb9f221a37dfbf44f35243dd00cf90", null ]
+];

@@ -1,0 +1,9 @@
+<map id="World::handleCollisions" name="World::handleCollisions">
+<area shape="rect" id="node2" href="$class_scene_node.html#a36df095bbbf87c62caf408d1d3c8719b" title="Placement dans la grille de collision du noeud. " alt="" coords="217,5,426,32"/>
+<area shape="rect" id="node3" href="$class_scene_node.html#af94c4b864179fff633de7e2ee8476217" title="Regarde si il y a collision entre les objet de la collisionListeToTest. " alt="" coords="212,56,431,83"/>
+<area shape="rect" id="node8" href="$class_entity.html#a15660fa13012dbca80c8047e2cc6f1f5" title="Endomage l&#39;entité " alt="" coords="266,107,377,133"/>
+<area shape="rect" id="node4" href="$class_scene_node.html#ab1d99fdfa4870634628fbf33ee841ddc" title="Regarde si les catégorie des noeuds matche. " alt="" coords="479,31,688,57"/>
+<area shape="rect" id="node6" href="$_scene_node_8h.html#a24980ccaf0cdb93a841d317bd8c65a3d" title="Etudie la collision entre deux rectangles. " alt="" coords="549,81,618,108"/>
+<area shape="rect" id="node5" href="$class_scene_node.html#af713a8c58831a27bc791a2efdfb7c495" title="Retourne la catégorie du noeud (m_nodeCategory) " alt="" coords="751,31,917,57"/>
+<area shape="rect" id="node7" href="$class_scene_node.html#aeed27ee83b56ecaa87e41f21fa0ffa7b" title="Retourne le rectangle du noeud. " alt="" coords="736,81,932,108"/>
+</map>

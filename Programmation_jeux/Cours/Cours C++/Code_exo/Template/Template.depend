@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1465643664 source:c:\users\fred\documents\fred\cours c++\code_exo\template\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+

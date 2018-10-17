@@ -1,0 +1,20 @@
+<map id="World.h" name="World.h">
+<area shape="rect" id="node2" href="$_resource_holder_8hpp_source.html" title="ResourceHolder.hpp" alt="" coords="1473,229,1612,256"/>
+<area shape="rect" id="node9" href="$_resource_identifiers_8h_source.html" title="ResourceIdentifiers.h" alt="" coords="1306,229,1449,256"/>
+<area shape="rect" id="node10" href="$_scene_node_8h.html" title="Créer un noeud de type scene. " alt="" coords="325,304,425,331"/>
+<area shape="rect" id="node19" href="$_sprite_node_8h_source.html" title="SpriteNode.h" alt="" coords="362,155,459,181"/>
+<area shape="rect" id="node21" href="$_aircraft_8h_source.html" title="Aircraft.h" alt="" coords="819,80,893,107"/>
+<area shape="rect" id="node23" href="$_command_8h_source.html" title="Command.h" alt="" coords="754,229,846,256"/>
+<area shape="rect" id="node31" href="$_command_queue_8h_source.html" title="CommandQueue.h" alt="" coords="1273,80,1404,107"/>
+<area shape="rect" id="node33" href="$_pickup_8h_source.html" title="Pickup.h" alt="" coords="925,155,998,181"/>
+<area shape="rect" id="node34" href="$_bloom_effect_8h_source.html" title="BloomEffect.h" alt="" coords="2193,155,2295,181"/>
+<area shape="rect" id="node39" href="$_sound_player_8h_source.html" title="SoundPlayer.h" alt="" coords="1663,155,1769,181"/>
+<area shape="rect" id="node44" href="$_network_protocol_8h_source.html" title="NetworkProtocol.h" alt="" coords="2385,155,2513,181"/>
+<area shape="rect" id="node8" href="$_resource_holder_8inl_source.html" title="ResourceHolder.inl" alt="" coords="1481,304,1612,331"/>
+<area shape="rect" id="node11" href="$_category_8h_source.html" title="Category.h" alt="" coords="693,379,779,405"/>
+<area shape="rect" id="node22" href="$_entity_8h.html" title="Créer une entité " alt="" coords="663,229,729,256"/>
+<area shape="rect" id="node25" href="$_projectile_8h_source.html" title="Projectile.h" alt="" coords="650,155,737,181"/>
+<area shape="rect" id="node27" href="$_text_node_8h_source.html" title="TextNode.h" alt="" coords="1175,155,1263,181"/>
+<area shape="rect" id="node30" href="$_animation_8h_source.html" title="Animation.h" alt="" coords="484,155,575,181"/>
+<area shape="rect" id="node35" href="$_post_effect_8h_source.html" title="PostEffect.h" alt="" coords="2108,304,2201,331"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="World::updateSounds" name="World::updateSounds">
+<area shape="rect" id="node2" href="$class_scene_node.html#a43061f972f26184b271e6c56723a29c2" title="Retourne la position absolu du noeud dans le niveau. " alt="" coords="200,5,396,32"/>
+<area shape="rect" id="node3" href="$class_scene_node.html#aedae712e618334745fea3c934d51a390" title="Retourne le transform du noeud mère (niveau) " alt="" coords="444,5,651,32"/>
+</map>

@@ -1,0 +1,67 @@
+\hypertarget{class_pickup}{}\section{Référence de la classe Pickup}
+\label{class_pickup}\index{Pickup@{Pickup}}
+
+
+Graphe d\textquotesingle{}héritage de Pickup\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{class_pickup__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Graphe de collaboration de Pickup\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{class_pickup__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Types publics}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_pickup_ad4681315b06f1fc58c8f2a17937dd88a}{}\label{class_pickup_ad4681315b06f1fc58c8f2a17937dd88a} 
+enum {\bfseries Type} \{ \newline
+{\bfseries Health\+Refill}, 
+{\bfseries Missile\+Refill}, 
+{\bfseries Fire\+Spread}, 
+{\bfseries Fire\+Rate}, 
+\newline
+{\bfseries Type\+Count}
+ \}
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres publiques}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_pickup_ae8c1d17163c2c737c861db3850a2ad68}{}\label{class_pickup_ae8c1d17163c2c737c861db3850a2ad68} 
+{\bfseries Pickup} (Type type, const \hyperlink{class_resource_holder}{Texture\+Holder} \&textures)
+\item 
+\hypertarget{class_pickup_ab39f5df989d7aa1e6ce61fe919bb7b70}{}\label{class_pickup_ab39f5df989d7aa1e6ce61fe919bb7b70} 
+virtual unsigned int {\bfseries get\+Category} () const
+\item 
+\hypertarget{class_pickup_a3d824cae9f01d5fbf61667fa66030cb2}{}\label{class_pickup_a3d824cae9f01d5fbf61667fa66030cb2} 
+virtual sf\+::\+Float\+Rect {\bfseries get\+Bounding\+Rect} () const
+\item 
+\hypertarget{class_pickup_ac6fa914202ecb53ee2bce699c80fe4d7}{}\label{class_pickup_ac6fa914202ecb53ee2bce699c80fe4d7} 
+void {\bfseries apply} (\hyperlink{class_aircraft}{Aircraft} \&player) const
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres protégées}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_pickup_a947ce2fe192803e6730942a5ae9794ff}{}\label{class_pickup_a947ce2fe192803e6730942a5ae9794ff} 
+virtual void {\bfseries draw\+Current} (sf\+::\+Render\+Target \&target, sf\+::\+Render\+States states) const
+\end{DoxyCompactItemize}
+
+
+\subsection{Description détaillée}
+
+
+Définition à la ligne 12 du fichier Pickup.\+h.
+
+
+
+La documentation de cette classe a été générée à partir des fichiers suivants \+:\begin{DoxyCompactItemize}
+\item 
+Pickup.\+h\item 
+Pickup.\+cpp\end{DoxyCompactItemize}

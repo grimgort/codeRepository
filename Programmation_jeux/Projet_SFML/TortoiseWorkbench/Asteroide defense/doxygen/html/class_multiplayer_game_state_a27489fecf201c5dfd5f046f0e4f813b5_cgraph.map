@@ -1,0 +1,31 @@
+<map id="MultiplayerGameState::handleEvent" name="MultiplayerGameState::handleEvent">
+<area shape="rect" id="node2" href="$class_world.html#af224b413f30c86ec99d042d0f4df56ee" title="World::getCommandQueue" alt="" coords="231,5,409,32"/>
+<area shape="rect" id="node3" href="$class_multiplayer_game_state.html#aae8391f9b734eb396bc5340d131f4441" title="MultiplayerGameState\l::disableAllRealtimeActions" alt="" coords="229,57,411,98"/>
+<area shape="rect" id="node4" href="$class_state.html#a6763de833ceb9c23df45aff163a4a1cd" title="State::requestStackPush" alt="" coords="236,123,404,149"/>
+<area shape="rect" id="node6" href="$_utility_8cpp.html#add3ffea68d586813ee6765c3bc796d35" title="centerOrigin" alt="" coords="274,173,366,200"/>
+<area shape="rect" id="node7" href="$class_world.html#a4b5a1ee9561c00df5a3348b43ed9f6d9" title="World::addAircraft" alt="" coords="257,224,383,251"/>
+<area shape="rect" id="node8" href="$class_state.html#a93a72915d1aad6d8f7eacc81094dc920" title="State::getContext" alt="" coords="258,275,382,301"/>
+<area shape="rect" id="node9" href="$class_world.html#a91c28f4442bd6383cfe373d60acf8207" title="World::removeAircraft" alt="" coords="247,376,393,403"/>
+<area shape="rect" id="node10" href="$class_world.html#a61c420ab669d97df70d7d2b69e3ca19c" title="World::getAircraft" alt="" coords="514,325,637,352"/>
+<area shape="rect" id="node13" href="$class_world.html#a2e0f3b87ccc0ec679e4704b05f3cd89c" title="World::setWorldHeight" alt="" coords="243,427,397,453"/>
+<area shape="rect" id="node14" href="$class_world.html#a37e200069581c4ebdc5b4d4b2ac739fc" title="World::setCurrentBattleField\lPosition" alt="" coords="227,478,413,519"/>
+<area shape="rect" id="node15" href="$class_entity.html#a8791dc8f8c8b944555d67c1aa5dc245d" title="Entity::setHitpoints" alt="" coords="253,544,387,571"/>
+<area shape="rect" id="node16" href="$class_aircraft.html#ac57cbf96490c9ae413bf7c3027a5aedb" title="Aircraft::setMissileAmmo" alt="" coords="236,595,404,621"/>
+<area shape="rect" id="node18" href="$class_world.html#a85839af0a06ddd4a7707119f825c4662" title="World::addEnemy" alt="" coords="257,645,383,672"/>
+<area shape="rect" id="node27" href="$class_world.html#a53947f20c6a20a877b7a119d9572f9e8" title="World::sortEnemies" alt="" coords="251,696,389,723"/>
+<area shape="rect" id="node28" href="$class_world.html#a9854735a8eae90bc092844071a8272cd" title="World::createPickup" alt="" coords="250,747,390,773"/>
+<area shape="rect" id="node29" href="$class_world.html#a2dd90d4c7f83c60a3a84fe5858489c14" title="World::getViewBounds" alt="" coords="243,797,397,824"/>
+<area shape="rect" id="node30" href="$class_world.html#a20d5fafa1df7da5bb9278ca33a1c6fdc" title="World::setWorldScrollCompensation" alt="" coords="204,848,436,875"/>
+<area shape="rect" id="node5" href="$class_state_stack.html#a80ed85f0fc13039e6f4c7dfef19e608f" title="StateStack::pushState" alt="" coords="498,123,653,149"/>
+<area shape="rect" id="node12" href="$class_entity.html#a691dbe5f9ec930c27af2af0b97907a9e" title="Entity::destroy" alt="" coords="522,376,629,403"/>
+<area shape="rect" id="node11" href="$class_aircraft.html#a2f6a97f09252744828f748120025630b" title="Aircraft::getIdentifier" alt="" coords="744,325,881,352"/>
+<area shape="rect" id="node17" href="$class_entity.html#a938cddf03ff5239be09195452142c5e6" title="Entity::isDestroyed" alt="" coords="509,544,642,571"/>
+<area shape="rect" id="node19" href="$class_world.html#ae5c2531cd68eb3e92d90fd5e9218f0a8" title="World::getBattlefieldBounds" alt="" coords="484,595,667,621"/>
+<area shape="rect" id="node21" href="$class_command_queue.html#ad444e0d7af45d9e09b834f0cec1e1f43" title="CommandQueue::push" alt="" coords="498,645,653,672"/>
+<area shape="rect" id="node22" href="$_scene_node_8h.html#a7b80a3dcfdac5445e81c0d5baa0e18af" title="distance" alt="" coords="540,696,611,723"/>
+<area shape="rect" id="node24" href="$class_scene_node.html#a43061f972f26184b271e6c56723a29c2" title="SceneNode::getWorldPosition" alt="" coords="715,747,911,773"/>
+<area shape="rect" id="node20" href="$class_world.html#aebe9adedadddb753cb2037c53548a7bf" title="World::getWorldBounds" alt="" coords="733,595,893,621"/>
+<area shape="rect" id="node23" href="$_utility_8cpp.html#a658e7a578e1b8e49820b0691fd6993d6" title="length" alt="" coords="784,645,841,672"/>
+<area shape="rect" id="node26" href="$class_scene_node.html#af713a8c58831a27bc791a2efdfb7c495" title="SceneNode::getCategory" alt="" coords="729,696,896,723"/>
+<area shape="rect" id="node25" href="$class_scene_node.html#aedae712e618334745fea3c934d51a390" title="SceneNode::getWorldTransform" alt="" coords="959,747,1165,773"/>
+</map>

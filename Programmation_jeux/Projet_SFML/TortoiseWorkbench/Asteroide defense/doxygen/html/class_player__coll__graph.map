@@ -1,0 +1,3 @@
+<map id="Player" name="Player">
+<area shape="rect" id="node3" href="$class_key_binding.html" title="{KeyBinding\n|&#45; m_keyMap\l|+ KeyBinding()\l+ assignKey()\l+ getAssignedKey()\l+ checkAction()\l+ getRealtimeActions()\l&#45; initializeActions()\l}" alt="" coords="128,5,283,156"/>
+</map>

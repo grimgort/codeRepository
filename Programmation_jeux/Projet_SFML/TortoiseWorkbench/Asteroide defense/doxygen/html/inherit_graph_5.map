@@ -1,0 +1,25 @@
+<map id="Graphe hiérarchique des classes" name="Graphe hiérarchique des classes">
+<area shape="rect" id="node2" href="$class_animation.html" title="Transformable" alt="" coords="128,193,231,220"/>
+<area shape="rect" id="node3" href="$class_g_u_i_1_1_component.html" title="GUI::Component" alt="" coords="279,109,397,136"/>
+<area shape="rect" id="node7" href="$class_scene_node.html" title="Classe representant le sceneNode. " alt="" coords="293,259,383,285"/>
+<area shape="rect" id="node4" href="$class_g_u_i_1_1_button.html" title="GUI::Button" alt="" coords="453,5,544,32"/>
+<area shape="rect" id="node5" href="$class_g_u_i_1_1_container.html" title="GUI::Container" alt="" coords="445,56,552,83"/>
+<area shape="rect" id="node6" href="$class_g_u_i_1_1_label.html" title="GUI::Label" alt="" coords="457,107,540,133"/>
+<area shape="rect" id="node8" href="$class_emitter_node.html" title="EmitterNode" alt="" coords="451,411,546,437"/>
+<area shape="rect" id="node9" href="$class_entity.html" title="Classe representant l&#39;entité " alt="" coords="471,461,527,488"/>
+<area shape="rect" id="node13" href="$class_network_node.html" title="NetworkNode" alt="" coords="449,157,548,184"/>
+<area shape="rect" id="node14" href="$class_particle_node.html" title="ParticleNode" alt="" coords="451,208,547,235"/>
+<area shape="rect" id="node15" href="$class_sound_node.html" title="SoundNode" alt="" coords="454,259,543,285"/>
+<area shape="rect" id="node16" href="$class_sprite_node.html" title="SpriteNode" alt="" coords="455,309,542,336"/>
+<area shape="rect" id="node17" href="$class_text_node.html" title="TextNode" alt="" coords="460,360,537,387"/>
+<area shape="rect" id="node10" href="$class_aircraft.html" title="Aircraft" alt="" coords="607,411,669,437"/>
+<area shape="rect" id="node11" href="$class_pickup.html" title="Pickup" alt="" coords="607,461,669,488"/>
+<area shape="rect" id="node12" href="$class_projectile.html" title="Projectile" alt="" coords="600,512,676,539"/>
+<area shape="rect" id="node19" href="$class_music_player.html" title="MusicPlayer" alt="" coords="291,309,385,336"/>
+<area shape="rect" id="node20" href="$class_player.html" title="Player" alt="" coords="309,360,367,387"/>
+<area shape="rect" id="node21" href="$class_post_effect.html" title="PostEffect" alt="" coords="297,411,379,437"/>
+<area shape="rect" id="node23" href="$class_sound_player.html" title="SoundPlayer" alt="" coords="290,461,386,488"/>
+<area shape="rect" id="node24" href="$class_state_stack.html" title="StateStack" alt="" coords="295,512,381,539"/>
+<area shape="rect" id="node25" href="$class_world.html" title="Classe representant le niveau. " alt="" coords="310,563,366,589"/>
+<area shape="rect" id="node22" href="$class_bloom_effect.html" title="BloomEffect" alt="" coords="453,512,545,539"/>
+</map>

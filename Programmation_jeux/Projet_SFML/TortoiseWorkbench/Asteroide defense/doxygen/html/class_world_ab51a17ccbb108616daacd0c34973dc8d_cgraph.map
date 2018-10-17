@@ -1,0 +1,6 @@
+<map id="World::draw" name="World::draw">
+<area shape="rect" id="node2" href="$class_post_effect.html#a2fd17f2ecf85d27716dd056cd543ed32" title="PostEffect::isSupported" alt="" coords="144,5,303,32"/>
+<area shape="rect" id="node3" href="$class_bloom_effect.html#add417d9fc98d72bf26bcab5e098de8c3" title="BloomEffect::apply" alt="" coords="158,56,289,83"/>
+<area shape="rect" id="node4" href="$class_resource_holder.html#a6452638a75b6df7ea7d610f204632850" title="ResourceHolder::get" alt="" coords="362,31,502,57"/>
+<area shape="rect" id="node5" href="$class_post_effect.html#a919143d710145618fdebf3f1337e17ef" title="PostEffect::applyShader" alt="" coords="351,81,513,108"/>
+</map>

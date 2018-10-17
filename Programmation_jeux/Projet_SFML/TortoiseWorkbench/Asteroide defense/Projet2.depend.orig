@@ -1,0 +1,3909 @@
+# depslib dependency file v1.0
+1471534518 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\main.cpp
+	<Application.h>
+	<stdexcept>
+	<iostream>
+
+1473927922 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\application.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<Player.h>
+	<StateStack.h>
+	<MusicPlayer.h>
+	<SoundPlayer.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1471608722 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\resourceholder.hpp
+	<map>
+	<string>
+	<memory>
+	<stdexcept>
+	<cassert>
+	<ResourceHolder.inl>
+
+1471598822 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\resourceholder.inl
+
+1473931216 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\resourceidentifiers.h
+
+1473586400 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\player.h
+	<Command.h>
+	<SFML/Window/Event.hpp>
+	<map>
+
+1471969640 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\command.h
+	<Category.h>
+	<SFML/System/Time.hpp>
+	<functional>
+	<cassert>
+
+1473928812 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\category.h
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1441976890 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1436034025 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\utf.inl
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\string.inl
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\vector2.inl
+
+1430987944 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\vector3.inl
+
+1472294138 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\statestack.h
+	<State.h>
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<utility>
+	<functional>
+	<map>
+
+1473931309 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\state.h
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Window/Event.hpp>
+	<memory>
+
+1473586516 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\stateidentifiers.h
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1473947425 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\musicplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/Music.hpp>
+	<map>
+	<string>
+
+1436034025 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\audio\music.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundStream.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\audio\export.hpp
+	<SFML/Config.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\audio\soundstream.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Mutex.hpp>
+	<cstdlib>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\audio\soundsource.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Vector3.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\audio\alresource.hpp
+	<SFML/Audio/Export.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\thread.inl
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\audio\inputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+
+1473866356 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\soundplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/Sound.hpp>
+	<list>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\audio\soundbuffer.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+	<set>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\audio\sound.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1430987944 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\rect.inl
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1436034025 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\primitivetype.hpp
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1430987944 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\contextsettings.hpp
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\windowstyle.hpp
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1430987944 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1441976890 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1441976890 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1430987944 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1473932634 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\aircraft.cpp
+	<Aircraft.h>
+	<DataTables.h>
+	<Utility.h>
+	<Pickup.h>
+	<CommandQueue.h>
+	<SoundNode.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+
+1473867187 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\aircraft.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<Projectile.h>
+	<TextNode.h>
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1473843595 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\entity.h
+	<SceneNode.h>
+
+1473590974 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\scenenode.h
+	<Category.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+	<set>
+	<memory>
+	<utility>
+
+1473594410 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\projectile.h
+	<Entity.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1430987944 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1473508954 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\textnode.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Font.hpp>
+
+1473777957 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\animation.h
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/System/Time.hpp>
+
+1473842921 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\datatables.h
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<vector>
+	<functional>
+
+1473843939 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\utility.h
+	<SFML/Window/Keyboard.hpp>
+	<SFML/System/Vector2.hpp>
+	<sstream>
+	<Utility.inl>
+
+1471517864 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\utility.inl
+
+1473591734 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\pickup.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1471969042 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\commandqueue.h
+	<Command.h>
+	<queue>
+
+1473931326 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\soundnode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+
+1473848998 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\animation.cpp
+	"Animation.h"
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1473932859 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\application.cpp
+	<Application.h>
+	<Utility.h>
+	<State.h>
+	<StateIdentifiers.h>
+	<TitleState.h>
+	<GameState.h>
+	<MenuState.h>
+	<PauseState.h>
+	<SettingsState.h>
+	<GameOverState.h>
+
+1471519200 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\titlestate.h
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1471519276 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\gamestate.h
+	<State.h>
+	<World.h>
+	<Player.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1473930071 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\world.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SpriteNode.h>
+	<Aircraft.h>
+	<CommandQueue.h>
+	<Command.h>
+	<BloomEffect.h>
+	<SoundPlayer.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<array>
+	<queue>
+
+1471972442 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\spritenode.h
+	<SceneNode.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1473781495 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\bloomeffect.h
+	<PostEffect.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<array>
+
+1473776302 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\posteffect.h
+	<SFML/System/NonCopyable.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1436034025 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1472899872 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\menustate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1472892684 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\container.h
+	<Component.h>
+	<vector>
+	<memory>
+
+1472892330 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\component.h
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<memory>
+
+1473928914 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\pausestate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1472893182 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\settingsstate.h
+	<State.h>
+	<Player.h>
+	<Container.h>
+	<Button.h>
+	<Label.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<array>
+
+1473928387 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\button.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<vector>
+	<string>
+	<memory>
+	<functional>
+
+1472893100 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\label.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1473587830 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\gameoverstate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1473860986 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\bloomeffect.cpp
+	"BloomEffect.h"
+
+1473932921 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\button.cpp
+	<Button.h>
+	<Utility.h>
+	<SoundPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1473591026 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\command.cpp
+	<Command.h>
+
+1471968996 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\commandqueue.cpp
+	<CommandQueue.h>
+	<SceneNode.h>
+
+1472892672 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\component.cpp
+	<Component.h>
+
+1472898280 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\container.cpp
+	"Container.h"
+	<Foreach.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1443341460 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\foreach.hpp
+
+1473848507 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\datatables.cpp
+	"DataTables.h"
+	<Aircraft.h>
+	<Projectile.h>
+	<Pickup.h>
+	<Particle.h>
+
+1473773846 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\particle.h
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1473772455 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\emitternode.cpp
+	"EmitterNode.h"
+	<ParticleNode.h>
+	<CommandQueue.h>
+	<Command.h>
+
+1473848538 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\emitternode.h
+	<SceneNode.h>
+	<Particle.h>
+
+1473848548 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\particlenode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+	<Particle.h>
+	<SFML/Graphics/VertexArray.hpp>
+	<deque>
+
+1473843690 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\entity.cpp
+	<Entity.h>
+	<cassert>
+
+1473602974 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\gameoverstate.cpp
+	"GameOverState.h"
+	<Utility.h>
+	<Player.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1430987944 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1473930220 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\gamestate.cpp
+	"GameState.h"
+	<MusicPlayer.h>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1472905684 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\label.cpp
+	"Label.h"
+	<Utility.h>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1471532850 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\loadingstate.cpp
+	<LoadingState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1471532664 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\loadingstate.h
+	<State.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/Text.hpp>
+	<ParallelTask.h>
+
+1471518346 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\include\paralleltask.h
+	<SFML/System/Thread.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Clock.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1473930438 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\menustate.cpp
+	<MenuState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1473946292 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\musicplayer.cpp
+	"MusicPlayer.h"
+
+1471533232 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\paralleltask.cpp
+	"ParallelTask.h"
+
+1473848579 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\particlenode.cpp
+	"ParticleNode.h"
+	<Foreach.hpp>
+	<DataTables.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<algorithm>
+
+1473929278 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\pausestate.cpp
+	<PauseState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1473844264 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\pickup.cpp
+	"Pickup.h"
+	<DataTables.h>
+	<Category.h>
+	<CommandQueue.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1473597964 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\player.cpp
+	<Player.h>
+	<CommandQueue.h>
+	<Aircraft.h>
+	<Foreach.hpp>
+	<map>
+	<string>
+	<algorithm>
+
+1473848603 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\posteffect.cpp
+	"PostEffect.h"
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+
+1473844731 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\projectile.cpp
+	"Projectile.h"
+	<EmitterNode.h>
+	<DataTables.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+	<cassert>
+
+1473591068 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\scenenode.cpp
+	<SceneNode.h>
+	<Command.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<algorithm>
+	<cassert>
+	<cmath>
+
+1473930541 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\settingsstate.cpp
+	<SettingsState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1473933702 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\soundnode.cpp
+	"SoundNode.h"
+	<soundPlayer.h>
+
+1473933426 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\soundplayer.cpp
+	"SoundPlayer.h"
+	<SFML/Audio/Listener.hpp>
+	<cmath>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\audio\listener.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1471972538 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\spritenode.cpp
+	<SpriteNode.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1473930686 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\state.cpp
+	"State.h"
+	"StateStack.h"
+
+1472294600 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\statestack.cpp
+	"StateStack.h"
+	<Foreach.hpp>
+	<cassert>
+
+1473509146 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\textnode.cpp
+	"TextNode.h"
+	<Utility.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1472897112 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\titlestate.cpp
+	"TitleState.h"
+	<utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1473848640 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\utility.cpp
+	"Utility.h"
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<random>
+	<cmath>
+	<ctime>
+	<cassert>
+
+1473933593 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap9\code\src\world.cpp
+	"World.h"
+	<Projectile.h>
+	<Pickup.h>
+	<Foreach.hpp>
+	<TextNode.h>
+	<ParticleNode.h>
+	<SoundNode.h>
+	<SFML/Graphics/RenderWindow.hpp>
+	<algorithm>
+	<cmath>
+	<limits>
+
+1471534518 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\main.cpp
+	<Application.h>
+	<stdexcept>
+	<iostream>
+
+1474046910 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\application.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<KeyBinding.h>
+	<StateStack.h>
+	<MusicPlayer.h>
+	<SoundPlayer.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1471608722 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\resourceholder.hpp
+	<map>
+	<string>
+	<memory>
+	<stdexcept>
+	<cassert>
+	<ResourceHolder.inl>
+
+1471598822 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\resourceholder.inl
+
+1473931218 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\resourceidentifiers.h
+
+1474279508 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\keybinding.h
+	<SFML/Window/Keyboard.hpp>
+	<map>
+	<vector>
+
+1474106992 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\statestack.h
+	<State.h>
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<utility>
+	<functional>
+	<map>
+
+1474276792 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\state.h
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Window/Event.hpp>
+	<memory>
+
+1474106858 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\stateidentifiers.h
+
+1473947426 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\musicplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/Music.hpp>
+	<map>
+	<string>
+
+1473866358 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\soundplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/Sound.hpp>
+	<list>
+
+1474297642 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\animation.cpp
+	"Animation.h"
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1473777958 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\animation.h
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/System/Time.hpp>
+
+1473860988 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\bloomeffect.cpp
+	"BloomEffect.h"
+
+1473781496 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\bloomeffect.h
+	<PostEffect.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<array>
+
+1473776304 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\posteffect.h
+	<SFML/System/NonCopyable.hpp>
+
+1474297891 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\button.cpp
+	<Button.h>
+	<Utility.h>
+	<SoundPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1473928388 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\button.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<vector>
+	<string>
+	<memory>
+	<functional>
+
+1474298353 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\component.h
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<memory>
+
+1473843940 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\utility.h
+	<SFML/Window/Keyboard.hpp>
+	<SFML/System/Vector2.hpp>
+	<sstream>
+	<Utility.inl>
+
+1471517864 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\utility.inl
+
+1473591026 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\command.cpp
+	<Command.h>
+
+1471969640 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\command.h
+	<Category.h>
+	<SFML/System/Time.hpp>
+	<functional>
+	<cassert>
+
+1474276140 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\category.h
+
+1471968996 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\commandqueue.cpp
+	<CommandQueue.h>
+	<SceneNode.h>
+
+1471969042 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\commandqueue.h
+	<Command.h>
+	<queue>
+
+1473590974 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\scenenode.h
+	<Category.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+	<set>
+	<memory>
+	<utility>
+
+1474297936 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\component.cpp
+	<Component.h>
+
+1474297990 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\container.cpp
+	"Container.h"
+	<Foreach.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1472892684 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\container.h
+	<Component.h>
+	<vector>
+	<memory>
+
+1443341460 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\foreach.hpp
+
+1473848508 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\datatables.cpp
+	"DataTables.h"
+	<Aircraft.h>
+	<Projectile.h>
+	<Pickup.h>
+	<Particle.h>
+
+1473842922 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\datatables.h
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<vector>
+	<functional>
+
+1474275968 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\aircraft.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<Projectile.h>
+	<TextNode.h>
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474052850 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\entity.h
+	<SceneNode.h>
+
+1473594410 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\projectile.h
+	<Entity.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1473508954 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\textnode.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Font.hpp>
+
+1473591734 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\pickup.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1473773848 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\particle.h
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1473772456 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\emitternode.cpp
+	"EmitterNode.h"
+	<ParticleNode.h>
+	<CommandQueue.h>
+	<Command.h>
+
+1473848540 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\emitternode.h
+	<SceneNode.h>
+	<Particle.h>
+
+1473848550 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\particlenode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+	<Particle.h>
+	<SFML/Graphics/VertexArray.hpp>
+	<deque>
+
+1471772242 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\game.cpp
+	"Game.h"
+	"StringHelpers.hpp"
+	<SFML/Window/Event.hpp>
+
+1471354252 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\game.h
+	<World.h>
+	<Player.h>
+	<SFML/System/Time.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474280792 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\world.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SpriteNode.h>
+	<Aircraft.h>
+	<CommandQueue.h>
+	<Command.h>
+	<Pickup.h>
+	<BloomEffect.h>
+	<SoundPlayer.h>
+	<NetworkProtocol.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<array>
+	<queue>
+
+1471972442 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\spritenode.h
+	<SceneNode.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474276223 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\player.h
+	<Command.h>
+	<KeyBinding.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<map>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\network\tcpsocket.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/Socket.hpp>
+	<SFML/System/Time.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\network\export.hpp
+	<SFML/Config.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\network\socket.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/SocketHandle.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<vector>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\network\sockethandle.hpp
+	<SFML/Config.hpp>
+	<basetsd.h>
+
+1468149206 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\stringhelpers.hpp
+	<sstream>
+	<StringHelpers.inl>
+
+1443341460 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\stringhelpers.inl
+
+1472905684 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\label.cpp
+	"Label.h"
+	<Utility.h>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1472893100 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\label.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1471532850 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\loadingstate.cpp
+	<LoadingState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1471532664 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\loadingstate.h
+	<State.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/Text.hpp>
+	<ParallelTask.h>
+
+1471518346 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\paralleltask.h
+	<SFML/System/Thread.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Clock.hpp>
+
+1473946294 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\musicplayer.cpp
+	"MusicPlayer.h"
+
+1471533232 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\paralleltask.cpp
+	"ParallelTask.h"
+
+1473848580 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\particlenode.cpp
+	"ParticleNode.h"
+	<Foreach.hpp>
+	<DataTables.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<algorithm>
+
+1473844266 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\pickup.cpp
+	"Pickup.h"
+	<DataTables.h>
+	<Category.h>
+	<CommandQueue.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1473848604 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\posteffect.cpp
+	"PostEffect.h"
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+
+1473844732 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\projectile.cpp
+	"Projectile.h"
+	<EmitterNode.h>
+	<DataTables.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+	<cassert>
+
+1473591068 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\scenenode.cpp
+	<SceneNode.h>
+	<Command.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<algorithm>
+	<cassert>
+	<cmath>
+
+1473933704 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\soundnode.cpp
+	"SoundNode.h"
+	<soundPlayer.h>
+
+1473931328 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\soundnode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+
+1473933428 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\soundplayer.cpp
+	"SoundPlayer.h"
+	<SFML/Audio/Listener.hpp>
+	<cmath>
+
+1471972538 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\spritenode.cpp
+	<SpriteNode.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474280411 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\state.cpp
+	"State.h"
+	"StateStack.h"
+
+1474107172 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\statestack.cpp
+	"StateStack.h"
+	<Foreach.hpp>
+	<cassert>
+
+1473509146 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\textnode.cpp
+	"TextNode.h"
+	<Utility.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1472897112 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\titlestate.cpp
+	"TitleState.h"
+	<utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1471519200 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\titlestate.h
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1473848642 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\utility.cpp
+	"Utility.h"
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<random>
+	<cmath>
+	<ctime>
+	<cassert>
+
+1474281218 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\world.cpp
+	"World.h"
+	<Projectile.h>
+	<Pickup.h>
+	<Foreach.hpp>
+	<TextNode.h>
+	<ParticleNode.h>
+	<SoundNode.h>
+	<NetworkNode.h>
+	<Utility.h>
+	<SFML/Graphics/RenderTarget.hpp>
+	<algorithm>
+	<cmath>
+	<limits>
+
+1474275919 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\networkprotocol.h
+	<SFML/Config.hpp>
+	<SFML/System/Vector2.hpp>
+
+1474297556 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\aircraft.cpp
+	<Aircraft.h>
+	<DataTables.h>
+	<Utility.h>
+	<Pickup.h>
+	<CommandQueue.h>
+	<SoundNode.h>
+	<NetworkNode.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+
+1474037006 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\networknode.h
+	<SceneNode.h>
+	<NetworkProtocol.h>
+	<queue>
+
+1474293533 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\application.cpp
+	<Application.h>
+	<Utility.h>
+	<State.h>
+	<StateIdentifiers.h>
+	<TitleState.h>
+	<GameState.h>
+	<MultiplayerGameState.h>
+	<MenuState.h>
+	<PauseState.h>
+	<SettingsState.h>
+	<GameOverState.h>
+
+1474053598 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\gamestate.h
+	<State.h>
+	<World.h>
+	<Player.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474289716 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\multiplayergamestate.h
+	<State.h>
+	<World.h>
+	<Player.h>
+	<GameServer.h>
+	<NetworkProtocol.h>
+	<SFML/System/Clock.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<SFML/Network/Packet.hpp>
+
+1474277498 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\gameserver.h
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Network/TcpListener.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<vector>
+	<memory>
+	<map>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\network\tcplistener.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/Socket.hpp>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\network\packet.hpp
+	<SFML/Network/Export.hpp>
+	<string>
+	<vector>
+
+1472899872 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\menustate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474054376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\pausestate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474276316 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\settingsstate.h
+	<State.h>
+	<KeyBinding.h>
+	<Container.h>
+	<Button.h>
+	<Label.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<array>
+
+1474053316 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\include\gameoverstate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474276821 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\entity.cpp
+	<Entity.h>
+	<cassert>
+
+1474298074 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\gameoverstate.cpp
+	"GameOverState.h"
+	<Utility.h>
+	<Player.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474298830 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\gameserver.cpp
+	"GameServer.h"
+	<NetworkProtocol.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<Pickup.h>
+	<Aircraft.h>
+	<SFML/Network/Packet.hpp>
+
+1474282810 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\gamestate.cpp
+	"GameState.h"
+	<MusicPlayer.h>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474279410 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\keybinding.cpp
+	"KeyBinding.h"
+	<Foreach.hpp>
+	<string>
+	<algorithm>
+
+1474279707 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\menustate.cpp
+	<MenuState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474295034 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\multiplayergamestate.cpp
+	"MultiplayerGameState.h"
+	<MusicPlayer.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Network/IpAddress.hpp>
+	<fstream>
+
+1429780453 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\sfml-2.3.2\include\sfml\network\ipaddress.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/System/Time.hpp>
+	<istream>
+	<ostream>
+	<string>
+
+1474280202 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\networknode.cpp
+	"NetworkNode.h"
+	<NetworkProtocol.h>
+
+1474054486 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\pausestate.cpp
+	<PauseState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474282044 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\player.cpp
+	<Player.h>
+	<CommandQueue.h>
+	<Aircraft.h>
+	<Foreach.hpp>
+	<NetworkProtocol.h>
+	<SFML/Network/Packet.hpp>
+	<map>
+	<string>
+	<algorithm>
+
+1474282388 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\chap10\code\src\settingsstate.cpp
+	<SettingsState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474359978 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\main.cpp
+	<Application.h>
+	<stdexcept>
+	<iostream>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\application.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<KeyBinding.h>
+	<StateStack.h>
+	<MusicPlayer.h>
+	<SoundPlayer.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474359978 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\resourceholder.hpp
+	<map>
+	<string>
+	<memory>
+	<stdexcept>
+	<cassert>
+	<ResourceHolder.inl>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\resourceholder.inl
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\resourceidentifiers.h
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\keybinding.h
+	<SFML/Window/Keyboard.hpp>
+	<map>
+	<vector>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\statestack.h
+	<State.h>
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<utility>
+	<functional>
+	<map>
+
+1474359978 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\state.h
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Window/Event.hpp>
+	<memory>
+
+1474359978 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\stateidentifiers.h
+
+1474359978 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\musicplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/Music.hpp>
+	<map>
+	<string>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\soundplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/Sound.hpp>
+	<list>
+
+1474297558 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\aircraft.cpp
+	<Aircraft.h>
+	<DataTables.h>
+	<Utility.h>
+	<Pickup.h>
+	<CommandQueue.h>
+	<SoundNode.h>
+	<NetworkNode.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\aircraft.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<Projectile.h>
+	<TextNode.h>
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474558032 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\entity.h
+	<SceneNode.h>
+
+1474551284 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\scenenode.h
+	<Category.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+	<set>
+	<memory>
+	<utility>
+	<map>
+
+1474373526 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\category.h
+
+1471969640 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\command.h
+	<Category.h>
+	<SFML/System/Time.hpp>
+	<functional>
+	<cassert>
+
+1474459322 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\projectile.h
+	<Entity.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\textnode.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Font.hpp>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\animation.h
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/System/Time.hpp>
+
+1474452716 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\datatables.h
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<vector>
+	<functional>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\utility.h
+	<SFML/Window/Keyboard.hpp>
+	<SFML/System/Vector2.hpp>
+	<sstream>
+	<Utility.inl>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\utility.inl
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\pickup.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\commandqueue.h
+	<Command.h>
+	<queue>
+
+1474359978 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\soundnode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\networknode.h
+	<SceneNode.h>
+	<NetworkProtocol.h>
+	<queue>
+
+1474359978 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\networkprotocol.h
+	<SFML/Config.hpp>
+	<SFML/System/Vector2.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\animation.cpp
+	"Animation.h"
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1474293534 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\application.cpp
+	<Application.h>
+	<Utility.h>
+	<State.h>
+	<StateIdentifiers.h>
+	<TitleState.h>
+	<GameState.h>
+	<MultiplayerGameState.h>
+	<MenuState.h>
+	<PauseState.h>
+	<SettingsState.h>
+	<GameOverState.h>
+
+1474359978 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\titlestate.h
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\gamestate.h
+	<State.h>
+	<World.h>
+	<Player.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474557260 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\world.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SpriteNode.h>
+	<Aircraft.h>
+	<CommandQueue.h>
+	<Command.h>
+	<Pickup.h>
+	<BloomEffect.h>
+	<SoundPlayer.h>
+	<NetworkProtocol.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<array>
+	<queue>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\spritenode.h
+	<SceneNode.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\bloomeffect.h
+	<PostEffect.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<array>
+
+1474359978 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\posteffect.h
+	<SFML/System/NonCopyable.hpp>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\player.h
+	<Command.h>
+	<KeyBinding.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<map>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\multiplayergamestate.h
+	<State.h>
+	<World.h>
+	<Player.h>
+	<GameServer.h>
+	<NetworkProtocol.h>
+	<SFML/System/Clock.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<SFML/Network/Packet.hpp>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\gameserver.h
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Network/TcpListener.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<vector>
+	<memory>
+	<map>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\menustate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\container.h
+	<Component.h>
+	<vector>
+	<memory>
+
+1474298354 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\component.h
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<memory>
+
+1474359978 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\pausestate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\settingsstate.h
+	<State.h>
+	<KeyBinding.h>
+	<Container.h>
+	<Button.h>
+	<Label.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<array>
+
+1473928388 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\button.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<vector>
+	<string>
+	<memory>
+	<functional>
+
+1474359978 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\label.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474053316 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\gameoverstate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1473860988 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\bloomeffect.cpp
+	"BloomEffect.h"
+
+1474359978 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\button.cpp
+	<Button.h>
+	<Utility.h>
+	<SoundPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\command.cpp
+	<Command.h>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\commandqueue.cpp
+	<CommandQueue.h>
+	<SceneNode.h>
+
+1474359978 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\component.cpp
+	<Component.h>
+
+1474359978 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\container.cpp
+	"Container.h"
+	<Foreach.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\foreach.hpp
+
+1474461152 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\datatables.cpp
+	"DataTables.h"
+	<Aircraft.h>
+	<Projectile.h>
+	<Pickup.h>
+	<Particle.h>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\particle.h
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\emitternode.cpp
+	"EmitterNode.h"
+	<ParticleNode.h>
+	<CommandQueue.h>
+	<Command.h>
+
+1474359978 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\emitternode.h
+	<SceneNode.h>
+	<Particle.h>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\particlenode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+	<Particle.h>
+	<SFML/Graphics/VertexArray.hpp>
+	<deque>
+
+1474359975 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\entity.cpp
+	<Entity.h>
+	<cassert>
+
+1474298076 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\gameoverstate.cpp
+	"GameOverState.h"
+	<Utility.h>
+	<Player.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474361470 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\gameserver.cpp
+	"GameServer.h"
+	<NetworkProtocol.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<Pickup.h>
+	<Aircraft.h>
+	<SFML/Network/Packet.hpp>
+
+1474361554 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\gamestate.cpp
+	"GameState.h"
+	<MusicPlayer.h>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\keybinding.cpp
+	"KeyBinding.h"
+	<Foreach.hpp>
+	<string>
+	<algorithm>
+
+1472905684 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\label.cpp
+	"Label.h"
+	<Utility.h>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\loadingstate.cpp
+	<LoadingState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\loadingstate.h
+	<State.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/Text.hpp>
+	<ParallelTask.h>
+
+1474359976 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\include\paralleltask.h
+	<SFML/System/Thread.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Clock.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\menustate.cpp
+	<MenuState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\multiplayergamestate.cpp
+	"MultiplayerGameState.h"
+	<MusicPlayer.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Network/IpAddress.hpp>
+	<fstream>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\musicplayer.cpp
+	"MusicPlayer.h"
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\networknode.cpp
+	"NetworkNode.h"
+	<NetworkProtocol.h>
+
+1474359978 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\paralleltask.cpp
+	"ParallelTask.h"
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\particlenode.cpp
+	"ParticleNode.h"
+	<Foreach.hpp>
+	<DataTables.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<algorithm>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\pausestate.cpp
+	<PauseState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\pickup.cpp
+	"Pickup.h"
+	<DataTables.h>
+	<Category.h>
+	<CommandQueue.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\player.cpp
+	<Player.h>
+	<CommandQueue.h>
+	<Aircraft.h>
+	<Foreach.hpp>
+	<NetworkProtocol.h>
+	<SFML/Network/Packet.hpp>
+	<map>
+	<string>
+	<algorithm>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\posteffect.cpp
+	"PostEffect.h"
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+
+1474461828 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\projectile.cpp
+	"Projectile.h"
+	<EmitterNode.h>
+	<DataTables.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+	<cassert>
+
+1474557052 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\scenenode.cpp
+	<SceneNode.h>
+	<Command.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<algorithm>
+	<cassert>
+	<cmath>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\settingsstate.cpp
+	<SettingsState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\soundnode.cpp
+	"SoundNode.h"
+	<soundPlayer.h>
+
+1473933428 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\soundplayer.cpp
+	"SoundPlayer.h"
+	<SFML/Audio/Listener.hpp>
+	<cmath>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\spritenode.cpp
+	<SpriteNode.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\state.cpp
+	"State.h"
+	"StateStack.h"
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\statestack.cpp
+	"StateStack.h"
+	<Foreach.hpp>
+	<cassert>
+
+1473509146 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\textnode.cpp
+	"TextNode.h"
+	<Utility.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474359978 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\titlestate.cpp
+	"TitleState.h"
+	<utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474359976 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\utility.cpp
+	"Utility.h"
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<random>
+	<cmath>
+	<ctime>
+	<cassert>
+
+1474551214 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\gamedev\asteroide defense\src\world.cpp
+	"World.h"
+	<Projectile.h>
+	<Pickup.h>
+	<Foreach.hpp>
+	<TextNode.h>
+	<ParticleNode.h>
+	<SoundNode.h>
+	<NetworkNode.h>
+	<Utility.h>
+	<SFML/Graphics/RenderTarget.hpp>
+	<algorithm>
+	<cmath>
+	<limits>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\main.cpp
+	<Application.h>
+	<stdexcept>
+	<iostream>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\application.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<KeyBinding.h>
+	<StateStack.h>
+	<MusicPlayer.h>
+	<SoundPlayer.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\resourceholder.hpp
+	<map>
+	<string>
+	<memory>
+	<stdexcept>
+	<cassert>
+	<ResourceHolder.inl>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\resourceholder.inl
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\resourceidentifiers.h
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\keybinding.h
+	<SFML/Window/Keyboard.hpp>
+	<map>
+	<vector>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\statestack.h
+	<State.h>
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<utility>
+	<functional>
+	<map>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\state.h
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Window/Event.hpp>
+	<memory>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\stateidentifiers.h
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\musicplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/Music.hpp>
+	<map>
+	<string>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\soundplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/Sound.hpp>
+	<list>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\animation.cpp
+	"Animation.h"
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\animation.h
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/System/Time.hpp>
+
+1474289934 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\application.cpp
+	<Application.h>
+	<Utility.h>
+	<State.h>
+	<StateIdentifiers.h>
+	<TitleState.h>
+	<GameState.h>
+	<MultiplayerGameState.h>
+	<MenuState.h>
+	<PauseState.h>
+	<SettingsState.h>
+	<GameOverState.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\utility.h
+	<SFML/Window/Keyboard.hpp>
+	<SFML/System/Vector2.hpp>
+	<sstream>
+	<Utility.inl>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\utility.inl
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\titlestate.h
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\gamestate.h
+	<State.h>
+	<World.h>
+	<Player.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474553660 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\world.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SpriteNode.h>
+	<Aircraft.h>
+	<CommandQueue.h>
+	<Command.h>
+	<Pickup.h>
+	<BloomEffect.h>
+	<SoundPlayer.h>
+	<NetworkProtocol.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<array>
+	<queue>
+
+1474547684 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\scenenode.h
+	<Category.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+	<set>
+	<memory>
+	<utility>
+	<map>
+
+1474369926 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\category.h
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\spritenode.h
+	<SceneNode.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\aircraft.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<Projectile.h>
+	<TextNode.h>
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474554432 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\entity.h
+	<SceneNode.h>
+
+1471966040 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\command.h
+	<Category.h>
+	<SFML/System/Time.hpp>
+	<functional>
+	<cassert>
+
+1474455722 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\projectile.h
+	<Entity.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\textnode.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Font.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\commandqueue.h
+	<Command.h>
+	<queue>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\pickup.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\bloomeffect.h
+	<PostEffect.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<array>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\posteffect.h
+	<SFML/System/NonCopyable.hpp>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\networkprotocol.h
+	<SFML/Config.hpp>
+	<SFML/System/Vector2.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\player.h
+	<Command.h>
+	<KeyBinding.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<map>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\multiplayergamestate.h
+	<State.h>
+	<World.h>
+	<Player.h>
+	<GameServer.h>
+	<NetworkProtocol.h>
+	<SFML/System/Clock.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<SFML/Network/Packet.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\gameserver.h
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Network/TcpListener.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<vector>
+	<memory>
+	<map>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\menustate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\container.h
+	<Component.h>
+	<vector>
+	<memory>
+
+1474294754 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\component.h
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<memory>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\pausestate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\settingsstate.h
+	<State.h>
+	<KeyBinding.h>
+	<Container.h>
+	<Button.h>
+	<Label.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<array>
+
+1473924788 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\button.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<vector>
+	<string>
+	<memory>
+	<functional>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\label.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474049716 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\gameoverstate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1473857388 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\bloomeffect.cpp
+	"BloomEffect.h"
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\button.cpp
+	<Button.h>
+	<Utility.h>
+	<SoundPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\command.cpp
+	<Command.h>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\commandqueue.cpp
+	<CommandQueue.h>
+	<SceneNode.h>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\component.cpp
+	<Component.h>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\container.cpp
+	"Container.h"
+	<Foreach.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\foreach.hpp
+
+1474457552 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\datatables.cpp
+	"DataTables.h"
+	<Aircraft.h>
+	<Projectile.h>
+	<Pickup.h>
+	<Particle.h>
+
+1474449116 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\datatables.h
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<vector>
+	<functional>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\particle.h
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\emitternode.cpp
+	"EmitterNode.h"
+	<ParticleNode.h>
+	<CommandQueue.h>
+	<Command.h>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\emitternode.h
+	<SceneNode.h>
+	<Particle.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\particlenode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+	<Particle.h>
+	<SFML/Graphics/VertexArray.hpp>
+	<deque>
+
+1474554922 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\entity.cpp
+	<Entity.h>
+	<cassert>
+
+1474294476 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\gameoverstate.cpp
+	"GameOverState.h"
+	<Utility.h>
+	<Player.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474357870 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\gameserver.cpp
+	"GameServer.h"
+	<NetworkProtocol.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<Pickup.h>
+	<Aircraft.h>
+	<SFML/Network/Packet.hpp>
+
+1474357954 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\gamestate.cpp
+	"GameState.h"
+	<MusicPlayer.h>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\keybinding.cpp
+	"KeyBinding.h"
+	<Foreach.hpp>
+	<string>
+	<algorithm>
+
+1472902084 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\label.cpp
+	"Label.h"
+	<Utility.h>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\loadingstate.cpp
+	<LoadingState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\loadingstate.h
+	<State.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/Text.hpp>
+	<ParallelTask.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\paralleltask.h
+	<SFML/System/Thread.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Clock.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\menustate.cpp
+	<MenuState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\multiplayergamestate.cpp
+	"MultiplayerGameState.h"
+	<MusicPlayer.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Network/IpAddress.hpp>
+	<fstream>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\musicplayer.cpp
+	"MusicPlayer.h"
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\networknode.cpp
+	"NetworkNode.h"
+	<NetworkProtocol.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\networknode.h
+	<SceneNode.h>
+	<NetworkProtocol.h>
+	<queue>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\paralleltask.cpp
+	"ParallelTask.h"
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\particlenode.cpp
+	"ParticleNode.h"
+	<Foreach.hpp>
+	<DataTables.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<algorithm>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\pausestate.cpp
+	<PauseState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\pickup.cpp
+	"Pickup.h"
+	<DataTables.h>
+	<Category.h>
+	<CommandQueue.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\player.cpp
+	<Player.h>
+	<CommandQueue.h>
+	<Aircraft.h>
+	<Foreach.hpp>
+	<NetworkProtocol.h>
+	<SFML/Network/Packet.hpp>
+	<map>
+	<string>
+	<algorithm>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\posteffect.cpp
+	"PostEffect.h"
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+
+1474458228 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\projectile.cpp
+	"Projectile.h"
+	<EmitterNode.h>
+	<DataTables.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+	<cassert>
+
+1474553452 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\scenenode.cpp
+	<SceneNode.h>
+	<Command.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<algorithm>
+	<cassert>
+	<cmath>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\settingsstate.cpp
+	<SettingsState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\soundnode.cpp
+	"SoundNode.h"
+	<soundPlayer.h>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\include\soundnode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+
+1473929828 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\soundplayer.cpp
+	"SoundPlayer.h"
+	<SFML/Audio/Listener.hpp>
+	<cmath>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\spritenode.cpp
+	<SpriteNode.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\state.cpp
+	"State.h"
+	"StateStack.h"
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\statestack.cpp
+	"StateStack.h"
+	<Foreach.hpp>
+	<cassert>
+
+1473505546 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\textnode.cpp
+	"TextNode.h"
+	<Utility.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\titlestate.cpp
+	"TitleState.h"
+	<utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\utility.cpp
+	"Utility.h"
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<random>
+	<cmath>
+	<ctime>
+	<cassert>
+
+1474554522 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\world.cpp
+	"World.h"
+	<Projectile.h>
+	<Pickup.h>
+	<Foreach.hpp>
+	<TextNode.h>
+	<ParticleNode.h>
+	<SoundNode.h>
+	<NetworkNode.h>
+	<Utility.h>
+	<SFML/Graphics/RenderTarget.hpp>
+	<algorithm>
+	<cmath>
+	<limits>
+
+1474698910 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\mercurial_asteroide_defense\asteroide defense\src\aircraft.cpp
+	<Aircraft.h>
+	<DataTables.h>
+	<Utility.h>
+	<Pickup.h>
+	<CommandQueue.h>
+	<SoundNode.h>
+	<NetworkNode.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+
+1481050555 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\main.cpp
+	<Application.h>
+	<stdexcept>
+	<iostream>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\application.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<KeyBinding.h>
+	<StateStack.h>
+	<MusicPlayer.h>
+	<SoundPlayer.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\resourceholder.hpp
+	<map>
+	<string>
+	<memory>
+	<stdexcept>
+	<cassert>
+	<ResourceHolder.inl>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\resourceholder.inl
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\resourceidentifiers.h
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\keybinding.h
+	<SFML/Window/Keyboard.hpp>
+	<map>
+	<vector>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\statestack.h
+	<State.h>
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<utility>
+	<functional>
+	<map>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\state.h
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Window/Event.hpp>
+	<memory>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\stateidentifiers.h
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\musicplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/Music.hpp>
+	<map>
+	<string>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\soundplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/Sound.hpp>
+	<list>
+
+1480435857 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\aircraft.cpp
+	<Aircraft.h>
+	<DataTables.h>
+	<Utility.h>
+	<Pickup.h>
+	<CommandQueue.h>
+	<SoundNode.h>
+	<NetworkNode.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\aircraft.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<Projectile.h>
+	<TextNode.h>
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1481829868 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\entity.h
+	<SceneNode.h>
+	<map>
+
+1481567594 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\scenenode.h
+	<Category.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+	<set>
+	<memory>
+	<utility>
+	<map>
+
+1474369926 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\category.h
+
+1471966040 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\command.h
+	<Category.h>
+	<SFML/System/Time.hpp>
+	<functional>
+	<cassert>
+
+1474455722 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\projectile.h
+	<Entity.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\textnode.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Font.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\animation.h
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/System/Time.hpp>
+
+1474449116 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\datatables.h
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<vector>
+	<functional>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\utility.h
+	<SFML/Window/Keyboard.hpp>
+	<SFML/System/Vector2.hpp>
+	<sstream>
+	<Utility.inl>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\utility.inl
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\pickup.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\commandqueue.h
+	<Command.h>
+	<queue>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\soundnode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\networknode.h
+	<SceneNode.h>
+	<NetworkProtocol.h>
+	<queue>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\networkprotocol.h
+	<SFML/Config.hpp>
+	<SFML/System/Vector2.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\animation.cpp
+	"Animation.h"
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1481301334 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\application.cpp
+	<Application.h>
+	<Utility.h>
+	<State.h>
+	<StateIdentifiers.h>
+	<TitleState.h>
+	<GameState.h>
+	<MultiplayerGameState.h>
+	<MenuState.h>
+	<PauseState.h>
+	<SettingsState.h>
+	<GameOverState.h>
+	<iostream>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\titlestate.h
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\gamestate.h
+	<State.h>
+	<World.h>
+	<Player.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1481567027 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\world.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SpriteNode.h>
+	<Aircraft.h>
+	<CommandQueue.h>
+	<Command.h>
+	<Pickup.h>
+	<BloomEffect.h>
+	<SoundPlayer.h>
+	<NetworkProtocol.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<array>
+	<queue>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\spritenode.h
+	<SceneNode.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\bloomeffect.h
+	<PostEffect.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<array>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\posteffect.h
+	<SFML/System/NonCopyable.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\player.h
+	<Command.h>
+	<KeyBinding.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<map>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\multiplayergamestate.h
+	<State.h>
+	<World.h>
+	<Player.h>
+	<GameServer.h>
+	<NetworkProtocol.h>
+	<SFML/System/Clock.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<SFML/Network/Packet.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\gameserver.h
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Network/TcpListener.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<vector>
+	<memory>
+	<map>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\menustate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\container.h
+	<Component.h>
+	<vector>
+	<memory>
+
+1474294754 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\component.h
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<memory>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\pausestate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\settingsstate.h
+	<State.h>
+	<KeyBinding.h>
+	<Container.h>
+	<Button.h>
+	<Label.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<array>
+
+1473924788 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\button.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<vector>
+	<string>
+	<memory>
+	<functional>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\label.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474049716 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\gameoverstate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1473857388 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\bloomeffect.cpp
+	"BloomEffect.h"
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\button.cpp
+	<Button.h>
+	<Utility.h>
+	<SoundPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1481739202 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\command.cpp
+	<Command.h>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\commandqueue.cpp
+	<CommandQueue.h>
+	<SceneNode.h>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\component.cpp
+	<Component.h>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\container.cpp
+	"Container.h"
+	<Foreach.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\foreach.hpp
+
+1481479266 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\datatables.cpp
+	"DataTables.h"
+	<Aircraft.h>
+	<Projectile.h>
+	<Pickup.h>
+	<Particle.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\particle.h
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\emitternode.cpp
+	"EmitterNode.h"
+	<ParticleNode.h>
+	<CommandQueue.h>
+	<Command.h>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\emitternode.h
+	<SceneNode.h>
+	<Particle.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\particlenode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+	<Particle.h>
+	<SFML/Graphics/VertexArray.hpp>
+	<deque>
+
+1481651253 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\entity.cpp
+	<Entity.h>
+	<cassert>
+	<iostream>
+
+1474294476 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\gameoverstate.cpp
+	"GameOverState.h"
+	<Utility.h>
+	<Player.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474357870 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\gameserver.cpp
+	"GameServer.h"
+	<NetworkProtocol.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<Pickup.h>
+	<Aircraft.h>
+	<SFML/Network/Packet.hpp>
+
+1474357954 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\gamestate.cpp
+	"GameState.h"
+	<MusicPlayer.h>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\keybinding.cpp
+	"KeyBinding.h"
+	<Foreach.hpp>
+	<string>
+	<algorithm>
+
+1472902084 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\label.cpp
+	"Label.h"
+	<Utility.h>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\loadingstate.cpp
+	<LoadingState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\loadingstate.h
+	<State.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/Text.hpp>
+	<ParallelTask.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\include\paralleltask.h
+	<SFML/System/Thread.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Clock.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\menustate.cpp
+	<MenuState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\multiplayergamestate.cpp
+	"MultiplayerGameState.h"
+	<MusicPlayer.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Network/IpAddress.hpp>
+	<fstream>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\musicplayer.cpp
+	"MusicPlayer.h"
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\networknode.cpp
+	"NetworkNode.h"
+	<NetworkProtocol.h>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\paralleltask.cpp
+	"ParallelTask.h"
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\particlenode.cpp
+	"ParticleNode.h"
+	<Foreach.hpp>
+	<DataTables.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<algorithm>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\pausestate.cpp
+	<PauseState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\pickup.cpp
+	"Pickup.h"
+	<DataTables.h>
+	<Category.h>
+	<CommandQueue.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\player.cpp
+	<Player.h>
+	<CommandQueue.h>
+	<Aircraft.h>
+	<Foreach.hpp>
+	<NetworkProtocol.h>
+	<SFML/Network/Packet.hpp>
+	<map>
+	<string>
+	<algorithm>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\posteffect.cpp
+	"PostEffect.h"
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+
+1474458228 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\projectile.cpp
+	"Projectile.h"
+	<EmitterNode.h>
+	<DataTables.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+	<cassert>
+
+1481567632 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\scenenode.cpp
+	<SceneNode.h>
+	<Command.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<algorithm>
+	<cassert>
+	<cmath>
+	<iostream>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\settingsstate.cpp
+	<SettingsState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\soundnode.cpp
+	"SoundNode.h"
+	<soundPlayer.h>
+
+1473929828 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\soundplayer.cpp
+	"SoundPlayer.h"
+	<SFML/Audio/Listener.hpp>
+	<cmath>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\spritenode.cpp
+	<SpriteNode.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\state.cpp
+	"State.h"
+	"StateStack.h"
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\statestack.cpp
+	"StateStack.h"
+	<Foreach.hpp>
+	<cassert>
+
+1473505546 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\textnode.cpp
+	"TextNode.h"
+	<Utility.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\titlestate.cpp
+	"TitleState.h"
+	<utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\utility.cpp
+	"Utility.h"
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<random>
+	<cmath>
+	<ctime>
+	<cassert>
+
+1481738778 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\eclipse_workspace\asteroide-defense\asteroide defense\src\world.cpp
+	"World.h"
+	<Projectile.h>
+	<Pickup.h>
+	<Foreach.hpp>
+	<TextNode.h>
+	<ParticleNode.h>
+	<SoundNode.h>
+	<NetworkNode.h>
+	<Utility.h>
+	<SFML/Graphics/RenderTarget.hpp>
+	<algorithm>
+	<cmath>
+	<limits>
+	<iostream>
+
+1481050555 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\main.cpp
+	<Application.h>
+	<stdexcept>
+	<iostream>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\application.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<KeyBinding.h>
+	<StateStack.h>
+	<MusicPlayer.h>
+	<SoundPlayer.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\resourceholder.hpp
+	<map>
+	<string>
+	<memory>
+	<stdexcept>
+	<cassert>
+	<ResourceHolder.inl>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\resourceholder.inl
+
+1482245089 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\resourceidentifiers.h
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\keybinding.h
+	<SFML/Window/Keyboard.hpp>
+	<map>
+	<vector>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\statestack.h
+	<State.h>
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<utility>
+	<functional>
+	<map>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\state.h
+	<StateIdentifiers.h>
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Window/Event.hpp>
+	<memory>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\stateidentifiers.h
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\musicplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/Music.hpp>
+	<map>
+	<string>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\soundplayer.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/Sound.hpp>
+	<list>
+
+1482260025 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\aircraft.cpp
+	<Aircraft.h>
+	<DataTables.h>
+	<Utility.h>
+	<Pickup.h>
+	<CommandQueue.h>
+	<SoundNode.h>
+	<NetworkNode.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\aircraft.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<Projectile.h>
+	<TextNode.h>
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1481975895 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\entity.h
+	<SceneNode.h>
+	<map>
+
+1482057961 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\scenenode.h
+	<Category.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+	<set>
+	<memory>
+	<utility>
+	<map>
+
+1482249355 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\category.h
+
+1471966040 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\command.h
+	<Category.h>
+	<SFML/System/Time.hpp>
+	<functional>
+	<cassert>
+
+1474455722 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\projectile.h
+	<Entity.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\textnode.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Font.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\animation.h
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/System/Time.hpp>
+
+1482261413 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\datatables.h
+	<ResourceIdentifiers.h>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<vector>
+	<functional>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\utility.h
+	<SFML/Window/Keyboard.hpp>
+	<SFML/System/Vector2.hpp>
+	<sstream>
+	<Utility.inl>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\utility.inl
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\pickup.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\commandqueue.h
+	<Command.h>
+	<queue>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\soundnode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\networknode.h
+	<SceneNode.h>
+	<NetworkProtocol.h>
+	<queue>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\networkprotocol.h
+	<SFML/Config.hpp>
+	<SFML/System/Vector2.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\animation.cpp
+	"Animation.h"
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1481301334 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\application.cpp
+	<Application.h>
+	<Utility.h>
+	<State.h>
+	<StateIdentifiers.h>
+	<TitleState.h>
+	<GameState.h>
+	<MultiplayerGameState.h>
+	<MenuState.h>
+	<PauseState.h>
+	<SettingsState.h>
+	<GameOverState.h>
+	<iostream>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\titlestate.h
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\gamestate.h
+	<State.h>
+	<World.h>
+	<Player.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1482243781 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\world.h
+	<ResourceHolder.hpp>
+	<ResourceIdentifiers.h>
+	<SceneNode.h>
+	<SpriteNode.h>
+	<Aircraft.h>
+	<CommandQueue.h>
+	<Command.h>
+	<Pickup.h>
+	<BloomEffect.h>
+	<SoundPlayer.h>
+	<NetworkProtocol.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<array>
+	<queue>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\spritenode.h
+	<SceneNode.h>
+	<SFML/Graphics/Sprite.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\bloomeffect.h
+	<PostEffect.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<array>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\posteffect.h
+	<SFML/System/NonCopyable.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\player.h
+	<Command.h>
+	<KeyBinding.h>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<map>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\multiplayergamestate.h
+	<State.h>
+	<World.h>
+	<Player.h>
+	<GameServer.h>
+	<NetworkProtocol.h>
+	<SFML/System/Clock.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<SFML/Network/Packet.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\gameserver.h
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Network/TcpListener.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<vector>
+	<memory>
+	<map>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\menustate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\container.h
+	<Component.h>
+	<vector>
+	<memory>
+
+1474294754 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\component.h
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<memory>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\pausestate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\settingsstate.h
+	<State.h>
+	<KeyBinding.h>
+	<Container.h>
+	<Button.h>
+	<Label.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<array>
+
+1473924788 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\button.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<State.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<vector>
+	<string>
+	<memory>
+	<functional>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\label.h
+	<Component.h>
+	<ResourceIdentifiers.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1474049716 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\gameoverstate.h
+	<State.h>
+	<Container.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+
+1473857388 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\bloomeffect.cpp
+	"BloomEffect.h"
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\button.cpp
+	<Button.h>
+	<Utility.h>
+	<SoundPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1481739202 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\command.cpp
+	<Command.h>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\commandqueue.cpp
+	<CommandQueue.h>
+	<SceneNode.h>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\component.cpp
+	<Component.h>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\container.cpp
+	"Container.h"
+	<Foreach.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\foreach.hpp
+
+1482261290 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\datatables.cpp
+	"DataTables.h"
+	<Aircraft.h>
+	<Projectile.h>
+	<Pickup.h>
+	<Particle.h>
+	<Base.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\particle.h
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\emitternode.cpp
+	"EmitterNode.h"
+	<ParticleNode.h>
+	<CommandQueue.h>
+	<Command.h>
+
+1474356378 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\emitternode.h
+	<SceneNode.h>
+	<Particle.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\particlenode.h
+	<SceneNode.h>
+	<ResourceIdentifiers.h>
+	<Particle.h>
+	<SFML/Graphics/VertexArray.hpp>
+	<deque>
+
+1474294476 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\gameoverstate.cpp
+	"GameOverState.h"
+	<Utility.h>
+	<Player.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474357870 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\gameserver.cpp
+	"GameServer.h"
+	<NetworkProtocol.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<Pickup.h>
+	<Aircraft.h>
+	<SFML/Network/Packet.hpp>
+
+1474357954 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\gamestate.cpp
+	"GameState.h"
+	<MusicPlayer.h>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\keybinding.cpp
+	"KeyBinding.h"
+	<Foreach.hpp>
+	<string>
+	<algorithm>
+
+1472902084 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\label.cpp
+	"Label.h"
+	<Utility.h>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\loadingstate.cpp
+	<LoadingState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\loadingstate.h
+	<State.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/Text.hpp>
+	<ParallelTask.h>
+
+1474356376 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\paralleltask.h
+	<SFML/System/Thread.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Clock.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\menustate.cpp
+	<MenuState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\multiplayergamestate.cpp
+	"MultiplayerGameState.h"
+	<MusicPlayer.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Network/IpAddress.hpp>
+	<fstream>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\musicplayer.cpp
+	"MusicPlayer.h"
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\networknode.cpp
+	"NetworkNode.h"
+	<NetworkProtocol.h>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\paralleltask.cpp
+	"ParallelTask.h"
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\particlenode.cpp
+	"ParticleNode.h"
+	<Foreach.hpp>
+	<DataTables.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<algorithm>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\pausestate.cpp
+	<PauseState.h>
+	<Button.h>
+	<Utility.h>
+	<MusicPlayer.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/View.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\pickup.cpp
+	"Pickup.h"
+	<DataTables.h>
+	<Category.h>
+	<CommandQueue.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\player.cpp
+	<Player.h>
+	<CommandQueue.h>
+	<Aircraft.h>
+	<Foreach.hpp>
+	<NetworkProtocol.h>
+	<SFML/Network/Packet.hpp>
+	<map>
+	<string>
+	<algorithm>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\posteffect.cpp
+	"PostEffect.h"
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+
+1474458228 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\projectile.cpp
+	"Projectile.h"
+	<EmitterNode.h>
+	<DataTables.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<cmath>
+	<cassert>
+
+1481977776 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\scenenode.cpp
+	<SceneNode.h>
+	<Command.h>
+	<Foreach.hpp>
+	<Utility.h>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<algorithm>
+	<cassert>
+	<cmath>
+	<iostream>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\settingsstate.cpp
+	<SettingsState.h>
+	<Utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\soundnode.cpp
+	"SoundNode.h"
+	<soundPlayer.h>
+
+1473929828 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\soundplayer.cpp
+	"SoundPlayer.h"
+	<SFML/Audio/Listener.hpp>
+	<cmath>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\spritenode.cpp
+	<SpriteNode.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\state.cpp
+	"State.h"
+	"StateStack.h"
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\statestack.cpp
+	"StateStack.h"
+	<Foreach.hpp>
+	<cassert>
+
+1473505546 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\textnode.cpp
+	"TextNode.h"
+	<Utility.h>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1474356378 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\titlestate.cpp
+	"TitleState.h"
+	<utility.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+
+1474356376 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\utility.cpp
+	"Utility.h"
+	<Animation.h>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<random>
+	<cmath>
+	<ctime>
+	<cassert>
+
+1482259653 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\world.cpp
+	"World.h"
+	<Projectile.h>
+	<Pickup.h>
+	<Foreach.hpp>
+	<TextNode.h>
+	<ParticleNode.h>
+	<SoundNode.h>
+	<NetworkNode.h>
+	<Utility.h>
+	<Base.h>
+	<SFML/Graphics/RenderTarget.hpp>
+	<algorithm>
+	<cmath>
+	<limits>
+	<iostream>
+
+1481978054 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\entity.cpp
+	<Entity.h>
+	<cassert>
+	<iostream>
+
+1482260945 source:c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\src\base.cpp
+	"Base.h"
+	<DataTables.h>
+	<Utility.h>
+	<CommandQueue.h>
+	<SoundNode.h>
+	<NetworkNode.h>
+	<ResourceHolder.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1482260506 c:\users\fred\documents\fred\programmation_jeux\projet_sfml\tortoiseworkbench\asteroide defense\include\base.h
+	<Entity.h>
+	<Command.h>
+	<ResourceIdentifiers.h>
+	<Animation.h>
+	<TextNode.h>
+	<SFML/Graphics/Sprite.hpp>
+

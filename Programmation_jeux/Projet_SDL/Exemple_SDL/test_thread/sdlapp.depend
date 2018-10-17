@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1219581377 source:c:\documents and settings\perruchon\mes documents\programmes\sdl\test_thread\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_thread.h"
+	<string>
+
+1219584978 source:d:\logiciel\projet_sdl\exemple_sdl\test_thread\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_thread.h"
+	<string>
+

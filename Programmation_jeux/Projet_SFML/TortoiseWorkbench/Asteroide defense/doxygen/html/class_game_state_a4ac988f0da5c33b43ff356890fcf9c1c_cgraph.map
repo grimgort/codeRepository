@@ -1,0 +1,25 @@
+<map id="GameState::update" name="GameState::update">
+<area shape="rect" id="node2" href="$class_world.html#ac7b3a3923c95b812ec2d00d97c8cd56e" title="World::update" alt="" coords="229,233,331,260"/>
+<area shape="rect" id="node19" href="$class_world.html#af224b413f30c86ec99d042d0f4df56ee" title="World::getCommandQueue" alt="" coords="191,360,369,387"/>
+<area shape="rect" id="node20" href="$class_player.html#ac520744c103fb38763c8856b4f158627" title="Player::handleRealtimeInput" alt="" coords="188,487,372,513"/>
+<area shape="rect" id="node3" href="$class_entity.html#ae7518a0181de088e0de2eacd1a13d656" title="Entity::getVelocity" alt="" coords="460,5,589,32"/>
+<area shape="rect" id="node4" href="$class_aircraft.html#af9ec3d1e8298586e95f5f4bdde8f5791" title="Aircraft::getBoundingRect" alt="" coords="439,56,610,83"/>
+<area shape="rect" id="node6" href="$class_entity.html#a5bf79843c973eac1fdbebfd1fc83a1e8" title="Entity::setVelocity" alt="" coords="460,107,589,133"/>
+<area shape="rect" id="node7" href="$class_command_queue.html#a3a6eb6a7c83d9b20ad7a6cac63795ec1" title="CommandQueue::isEmpty" alt="" coords="437,157,612,184"/>
+<area shape="rect" id="node8" href="$class_scene_node.html#af6f126fe8727414a0c967f84f9754968" title="SceneNode::onCommand" alt="" coords="439,208,610,235"/>
+<area shape="rect" id="node10" href="$class_command_queue.html#ac2dde510222b8df393b55978f4594194" title="CommandQueue::pop" alt="" coords="451,259,599,285"/>
+<area shape="rect" id="node11" href="$class_aircraft.html#a994039b523a54dac943fb4df4ed71d1c" title="Aircraft::isMarkedForRemoval" alt="" coords="429,309,621,336"/>
+<area shape="rect" id="node14" href="$class_scene_node.html#a4ab07dfa68f4094e2e9152b6f4869794" title="SceneNode::removeWrecks" alt="" coords="433,360,616,387"/>
+<area shape="rect" id="node17" href="$class_scene_node.html#a5494c3a380d7ea5ae7148122c4255400" title="SceneNode::update" alt="" coords="457,411,593,437"/>
+<area shape="rect" id="node5" href="$class_scene_node.html#aedae712e618334745fea3c934d51a390" title="SceneNode::getWorldTransform" alt="" coords="683,56,890,83"/>
+<area shape="rect" id="node9" href="$class_scene_node.html#af713a8c58831a27bc791a2efdfb7c495" title="SceneNode::getCategory" alt="" coords="703,208,870,235"/>
+<area shape="rect" id="node12" href="$class_entity.html#a938cddf03ff5239be09195452142c5e6" title="Entity::isDestroyed" alt="" coords="720,259,853,285"/>
+<area shape="rect" id="node13" href="$class_animation.html#a52f7a8449004b0248a3b7f8de9759cd0" title="Animation::isFinished" alt="" coords="713,309,860,336"/>
+<area shape="rect" id="node15" href="$class_scene_node.html#a8a0f6080efbd7e49569552b5542fd855" title="SceneNode::isMarkedForRemoval" alt="" coords="677,360,896,387"/>
+<area shape="rect" id="node16" href="$class_scene_node.html#add1a151301a5056b29e552a83be4f507" title="SceneNode::isDestroyed" alt="" coords="944,360,1111,387"/>
+<area shape="rect" id="node18" href="$class_scene_node.html#aeed27ee83b56ecaa87e41f21fa0ffa7b" title="SceneNode::getBoundingRect" alt="" coords="689,411,885,437"/>
+<area shape="rect" id="node21" href="$class_player.html#a0396dba172c6d19535d573ce553e5980" title="Player::isLocal" alt="" coords="471,461,579,488"/>
+<area shape="rect" id="node22" href="$class_key_binding.html#a990f9e66f5bc5f07fbd7ef38c1fba64b" title="KeyBinding::getRealtimeActions" alt="" coords="420,512,629,539"/>
+<area shape="rect" id="node24" href="$class_command_queue.html#ad444e0d7af45d9e09b834f0cec1e1f43" title="CommandQueue::push" alt="" coords="447,563,602,589"/>
+<area shape="rect" id="node23" href="$_key_binding_8cpp.html#ab14ad3e465986d56cb34829d409cfa98" title="isRealtimeAction" alt="" coords="727,512,847,539"/>
+</map>

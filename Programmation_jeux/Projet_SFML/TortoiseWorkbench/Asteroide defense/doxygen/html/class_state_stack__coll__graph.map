@@ -1,0 +1,9 @@
+<map id="StateStack" name="StateStack">
+<area shape="rect" id="node7" href="$class_music_player.html" title="{MusicPlayer\n|&#45; m_music\l&#45; m_filenames\l&#45; m_volume\l|+ MusicPlayer()\l+ play()\l+ stop()\l+ setPaused()\l+ setVolume()\l}" alt="" coords="29,219,144,384"/>
+<area shape="rect" id="node8" href="$class_sound_player.html" title="{SoundPlayer\n|&#45; m_sounds\l|+ SoundPlayer()\l+ play()\l+ play()\l+ removeStoppedSounds()\l+ setListenerPosition()\l+ getListenerPosition()\l}" alt="" coords="168,226,343,377"/>
+<area shape="rect" id="node3" href="$struct_state_1_1_context.html" title="{State::Context\n|+ window\l|+ Context()\l}" alt="" coords="322,461,429,539"/>
+<area shape="rect" id="node4" href="$class_key_binding.html" title="{KeyBinding\n|&#45; m_keyMap\l|+ KeyBinding()\l+ assignKey()\l+ getAssignedKey()\l+ checkAction()\l+ getRealtimeActions()\l&#45; initializeActions()\l}" alt="" coords="368,226,522,377"/>
+<area shape="rect" id="node5" href="$class_resource_holder.html" title="{ResourceHolder\&lt; Resource,\l Identifier \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="547,226,732,377"/>
+<area shape="rect" id="node6" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::Texture, Textures::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="757,226,920,377"/>
+<area shape="rect" id="node9" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::SoundBuffer, SoundEffect::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="153,5,364,156"/>
+</map>

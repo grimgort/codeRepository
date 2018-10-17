@@ -1,0 +1,20 @@
+				DONNEES SUR L'ECHANGEUR
+
+
+***Geometrie***
+0.05	!Rayon cofalite (ray [m])
+
+0.5		!Profondeur (L [m])
+
+0.017		!Distance entre tubes (L_entre_c [m])
+
+1.		!Largeur de l'échangeur (largeur [m])
+
+
+***Discretisation en espace***
+3		!Nombre de mailles de cofalite (Nc)
+
+
+
+
+

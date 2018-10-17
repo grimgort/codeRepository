@@ -1,0 +1,7 @@
+<map id="EmitterNode::EmitterNode" name="EmitterNode::EmitterNode">
+<area shape="rect" id="node2" href="$class_particle_node.html#aa0e084971d3c1649077cfeacc75faabd" title="ParticleNode::getParticleType" alt="" coords="229,5,423,32"/>
+<area shape="rect" id="node3" href="$class_command_queue.html#ad444e0d7af45d9e09b834f0cec1e1f43" title="CommandQueue::push" alt="" coords="249,56,403,83"/>
+<area shape="rect" id="node4" href="$class_particle_node.html#aba35c74ce9a85194489726b82ab53f80" title="ParticleNode::addParticle" alt="" coords="241,107,411,133"/>
+<area shape="rect" id="node5" href="$class_scene_node.html#a43061f972f26184b271e6c56723a29c2" title="SceneNode::getWorldPosition" alt="" coords="228,157,424,184"/>
+<area shape="rect" id="node6" href="$class_scene_node.html#aedae712e618334745fea3c934d51a390" title="SceneNode::getWorldTransform" alt="" coords="472,157,679,184"/>
+</map>

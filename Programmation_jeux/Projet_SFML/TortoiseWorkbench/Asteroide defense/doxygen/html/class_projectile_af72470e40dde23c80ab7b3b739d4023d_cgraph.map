@@ -1,0 +1,9 @@
+<map id="Projectile::isGuided" name="Projectile::isGuided">
+<area shape="rect" id="node2" href="$_utility_8cpp.html#a7628de502bf3e224f8d294d31ccda209" title="unitVector" alt="" coords="229,5,311,32"/>
+<area shape="rect" id="node4" href="$class_entity.html#ae7518a0181de088e0de2eacd1a13d656" title="Entity::getVelocity" alt="" coords="205,56,335,83"/>
+<area shape="rect" id="node5" href="$class_projectile.html#a2e15585a30093e0cd03c5ecbf14e4f1f" title="Projectile::getMaxSpeed" alt="" coords="188,107,352,133"/>
+<area shape="rect" id="node6" href="$_utility_8cpp.html#a7f31bacf5d96c36956449854f3e18715" title="toDegree" alt="" coords="233,157,307,184"/>
+<area shape="rect" id="node7" href="$class_entity.html#a5bf79843c973eac1fdbebfd1fc83a1e8" title="Entity::setVelocity" alt="" coords="205,208,335,235"/>
+<area shape="rect" id="node8" href="$class_entity.html#a3d9ad14643b61864cf60ea7f0738146b" title="Entity::updateCurrent" alt="" coords="197,259,343,285"/>
+<area shape="rect" id="node3" href="$_utility_8cpp.html#a658e7a578e1b8e49820b0691fd6993d6" title="length" alt="" coords="400,5,457,32"/>
+</map>

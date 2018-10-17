@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1462434111 source:c:\users\fred\documents\fred\cours c++\code_exo\rpg2\action.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Action.h"
+	"Personage.h"
+
+1462432704 c:\users\fred\documents\fred\cours c++\code_exo\rpg2\action.h
+	<string>
+	<vector>
+	"Personage.h"
+
+1462546799 c:\users\fred\documents\fred\cours c++\code_exo\rpg2\personage.h
+	<string>
+	"Arme.h"
+
+1462100792 c:\users\fred\documents\fred\cours c++\code_exo\rpg2\arme.h
+	<string>
+
+1462100928 source:c:\users\fred\documents\fred\cours c++\code_exo\rpg2\arme.cpp
+	<string>
+	<iostream>
+	"Arme.h"
+
+1462438507 source:c:\users\fred\documents\fred\cours c++\code_exo\rpg2\main.cpp
+	<iostream>
+	"Personage.h"
+	"Action.h"
+
+1462546744 source:c:\users\fred\documents\fred\cours c++\code_exo\rpg2\personage.cpp
+	<iostream>
+	<string>
+	"Personage.h"
+

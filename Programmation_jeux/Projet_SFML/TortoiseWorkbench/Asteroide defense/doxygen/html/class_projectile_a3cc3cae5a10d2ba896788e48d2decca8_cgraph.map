@@ -1,0 +1,14 @@
+<map id="Projectile::Projectile" name="Projectile::Projectile">
+<area shape="rect" id="node2" href="$_utility_8cpp.html#add3ffea68d586813ee6765c3bc796d35" title="centerOrigin" alt="" coords="237,107,329,133"/>
+<area shape="rect" id="node3" href="$class_projectile.html#af72470e40dde23c80ab7b3b739d4023d" title="Projectile::isGuided" alt="" coords="216,157,351,184"/>
+<area shape="rect" id="node11" href="$class_projectile.html#a7f17ca6a688522892fd543229a047a03" title="Projectile::getBoundingRect" alt="" coords="192,208,375,235"/>
+<area shape="rect" id="node13" href="$class_scene_node.html#acdfa2c2ba28bce076c886eaba2d9e650" title="SceneNode::attachChild" alt="" coords="202,259,365,285"/>
+<area shape="rect" id="node4" href="$_utility_8cpp.html#a7628de502bf3e224f8d294d31ccda209" title="unitVector" alt="" coords="485,5,567,32"/>
+<area shape="rect" id="node6" href="$class_entity.html#ae7518a0181de088e0de2eacd1a13d656" title="Entity::getVelocity" alt="" coords="461,56,591,83"/>
+<area shape="rect" id="node7" href="$class_projectile.html#a2e15585a30093e0cd03c5ecbf14e4f1f" title="Projectile::getMaxSpeed" alt="" coords="444,107,608,133"/>
+<area shape="rect" id="node8" href="$_utility_8cpp.html#a7f31bacf5d96c36956449854f3e18715" title="toDegree" alt="" coords="489,157,563,184"/>
+<area shape="rect" id="node9" href="$class_entity.html#a5bf79843c973eac1fdbebfd1fc83a1e8" title="Entity::setVelocity" alt="" coords="461,208,591,235"/>
+<area shape="rect" id="node10" href="$class_entity.html#a3d9ad14643b61864cf60ea7f0738146b" title="Entity::updateCurrent" alt="" coords="453,259,599,285"/>
+<area shape="rect" id="node5" href="$_utility_8cpp.html#a658e7a578e1b8e49820b0691fd6993d6" title="length" alt="" coords="677,5,735,32"/>
+<area shape="rect" id="node12" href="$class_scene_node.html#aedae712e618334745fea3c934d51a390" title="SceneNode::getWorldTransform" alt="" coords="423,309,629,336"/>
+</map>

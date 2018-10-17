@@ -1,0 +1,20 @@
+!							DONNƒES SUR LE STOCKAGE
+!
+!Discrétisation en temps
+1		!Pas de temps (dt[s])
+!
+3.		!Temps de l'expérience (tmax[s]) 
+!
+!
+!Variables physiques
+70		!Pression (Pression [bar])
+!
+298.		!Température de l'air en entrée (T_entree[K])
+!
+298.		!température initial de cofalite (T_initial_C [K])
+!
+108.		!Débit total arrivant (debit_total [kg/s])
+!
+50.		!Temperature de consigne pour l'air de sortie (T_arret [K])
+!
+!

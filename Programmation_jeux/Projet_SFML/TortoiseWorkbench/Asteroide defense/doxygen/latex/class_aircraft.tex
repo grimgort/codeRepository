@@ -1,0 +1,101 @@
+\hypertarget{class_aircraft}{}\section{Référence de la classe Aircraft}
+\label{class_aircraft}\index{Aircraft@{Aircraft}}
+
+
+Graphe d\textquotesingle{}héritage de Aircraft\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{class_aircraft__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Graphe de collaboration de Aircraft\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{class_aircraft__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Types publics}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_aircraft_a7dae28542933e088032b753600046acd}{}\label{class_aircraft_a7dae28542933e088032b753600046acd} 
+enum {\bfseries Type} \{ {\bfseries Eagle}, 
+{\bfseries Raptor}, 
+{\bfseries Avenger}, 
+{\bfseries Type\+Count}
+ \}
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres publiques}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_aircraft_a88290be2611c6dc415cb1e32223b790a}{}\label{class_aircraft_a88290be2611c6dc415cb1e32223b790a} 
+{\bfseries Aircraft} (Type type, const \hyperlink{class_resource_holder}{Texture\+Holder} \&textures, const \hyperlink{class_resource_holder}{Font\+Holder} \&fonts)
+\item 
+\hypertarget{class_aircraft_a01f9042934c08ef18b62351e6bca320d}{}\label{class_aircraft_a01f9042934c08ef18b62351e6bca320d} 
+virtual unsigned int {\bfseries get\+Category} () const
+\item 
+\hypertarget{class_aircraft_af9ec3d1e8298586e95f5f4bdde8f5791}{}\label{class_aircraft_af9ec3d1e8298586e95f5f4bdde8f5791} 
+virtual sf\+::\+Float\+Rect {\bfseries get\+Bounding\+Rect} () const
+\item 
+\hypertarget{class_aircraft_a87e4abd58bf5844521988a9f97d5a5ae}{}\label{class_aircraft_a87e4abd58bf5844521988a9f97d5a5ae} 
+virtual void {\bfseries remove} ()
+\item 
+\hypertarget{class_aircraft_a994039b523a54dac943fb4df4ed71d1c}{}\label{class_aircraft_a994039b523a54dac943fb4df4ed71d1c} 
+virtual bool {\bfseries is\+Marked\+For\+Removal} () const
+\item 
+\hypertarget{class_aircraft_ab8503b05e0f3ede5986e7f0d4754afe0}{}\label{class_aircraft_ab8503b05e0f3ede5986e7f0d4754afe0} 
+bool {\bfseries is\+Allied} () const
+\item 
+\hypertarget{class_aircraft_a64e22bc8086cd2d4c15a2b2b6be3b98c}{}\label{class_aircraft_a64e22bc8086cd2d4c15a2b2b6be3b98c} 
+float {\bfseries get\+Max\+Speed} () const
+\item 
+\hypertarget{class_aircraft_a4f8baeaece69f71f61c4d1afce022a02}{}\label{class_aircraft_a4f8baeaece69f71f61c4d1afce022a02} 
+void {\bfseries disable\+Pickups} ()
+\item 
+\hypertarget{class_aircraft_a285d3970515e3b37458204aaffc14892}{}\label{class_aircraft_a285d3970515e3b37458204aaffc14892} 
+void {\bfseries increase\+Fire\+Rate} ()
+\item 
+\hypertarget{class_aircraft_a155d6b2120cd6de1317689e5bf0cbc4e}{}\label{class_aircraft_a155d6b2120cd6de1317689e5bf0cbc4e} 
+void {\bfseries increase\+Spread} ()
+\item 
+\hypertarget{class_aircraft_ad9d53b569d28aec2d2d77d948c8ab33e}{}\label{class_aircraft_ad9d53b569d28aec2d2d77d948c8ab33e} 
+void {\bfseries collect\+Missiles} (unsigned int count)
+\item 
+\hypertarget{class_aircraft_a8ea011c4732eb38c9dc9872a24d2227c}{}\label{class_aircraft_a8ea011c4732eb38c9dc9872a24d2227c} 
+void {\bfseries fire} ()
+\item 
+\hypertarget{class_aircraft_a3bd9289d3c789cbb0aa3abe53a5da52e}{}\label{class_aircraft_a3bd9289d3c789cbb0aa3abe53a5da52e} 
+void {\bfseries launch\+Missile} ()
+\item 
+\hypertarget{class_aircraft_a604ac5c8004f6a94d5b9222ed0c4c79a}{}\label{class_aircraft_a604ac5c8004f6a94d5b9222ed0c4c79a} 
+void {\bfseries play\+Local\+Sound} (\hyperlink{class_command_queue}{Command\+Queue} \&commands, Sound\+Effect\+::\+ID effect)
+\item 
+\hypertarget{class_aircraft_a2f6a97f09252744828f748120025630b}{}\label{class_aircraft_a2f6a97f09252744828f748120025630b} 
+int {\bfseries get\+Identifier} ()
+\item 
+\hypertarget{class_aircraft_a56692fd9bd62cfb642320d462ce9c5d7}{}\label{class_aircraft_a56692fd9bd62cfb642320d462ce9c5d7} 
+void {\bfseries set\+Identifier} (int identifier)
+\item 
+\hypertarget{class_aircraft_a341876d4692fd3da07058d545ee44da7}{}\label{class_aircraft_a341876d4692fd3da07058d545ee44da7} 
+int {\bfseries get\+Missile\+Ammo} () const
+\item 
+\hypertarget{class_aircraft_ac57cbf96490c9ae413bf7c3027a5aedb}{}\label{class_aircraft_ac57cbf96490c9ae413bf7c3027a5aedb} 
+void {\bfseries set\+Missile\+Ammo} (int ammo)
+\end{DoxyCompactItemize}
+\subsection*{Membres hérités additionnels}
+
+
+\subsection{Description détaillée}
+
+
+Définition à la ligne 18 du fichier Aircraft.\+h.
+
+
+
+La documentation de cette classe a été générée à partir des fichiers suivants \+:\begin{DoxyCompactItemize}
+\item 
+Aircraft.\+h\item 
+Aircraft.\+cpp\end{DoxyCompactItemize}

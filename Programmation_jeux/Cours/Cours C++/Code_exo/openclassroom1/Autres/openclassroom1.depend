@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\fred\documents\fred\cours c++\code_exo\openclassroom1\main.cpp
+	<iostream>
+
+1461411573 source:c:\users\fred\documents\fred\cours c++\code_exo\openclassroom1\exo1.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"Fonction1.h"
+	"TD1.h"
+
+1460281898 source:c:\users\fred\documents\fred\cours c++\code_exo\openclassroom1\fonction1.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1460205565 c:\users\fred\documents\fred\cours c++\code_exo\openclassroom1\fonction1.h
+
+1461421167 source:c:\users\fred\documents\fred\cours c++\code_exo\openclassroom1\td1.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<fstream>
+
+1461420767 c:\users\fred\documents\fred\cours c++\code_exo\openclassroom1\td1.h
+	<vector>
+

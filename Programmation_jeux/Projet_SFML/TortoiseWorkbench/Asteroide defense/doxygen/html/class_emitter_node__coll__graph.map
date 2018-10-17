@@ -1,0 +1,4 @@
+<map id="EmitterNode" name="EmitterNode">
+<area shape="rect" id="node2" href="$class_scene_node.html" title="Classe representant le sceneNode. " alt="" coords="89,132,251,532"/>
+<area shape="rect" id="node6" href="$class_particle_node.html" title="{ParticleNode\n|&#45; m_particles\l&#45; m_texture\l&#45; m_type\l&#45; m_vertexArray\l&#45; m_needsVertexUpdate\l|+ ParticleNode()\l+ addParticle()\l+ getParticleType()\l+ getCategory()\l&#45; updateCurrent()\l&#45; drawCurrent()\l&#45; addVertex()\l&#45; computeVertices()\l}" alt="" coords="191,581,354,820"/>
+</map>

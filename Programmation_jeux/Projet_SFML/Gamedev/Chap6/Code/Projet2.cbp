@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projet2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projet2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics-d" />
+					<Add library="sfml-window-d" />
+					<Add library="sfml-system-d" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projet2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add option="-DSFML_DYNAMIC" />
+			<Add directory="C:/Users/FRED/Documents/FRED/Programmation_jeux/Projet_SFML/SFML-2.3.2/include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="C:/Users/FRED/Documents/FRED/Programmation_jeux/Projet_SFML/SFML-2.3.2/lib" />
+		</Linker>
+		<Unit filename="cb.bmp" />
+		<Unit filename="include/Aircraft.h" />
+		<Unit filename="include/Application.h" />
+		<Unit filename="include/Button.h" />
+		<Unit filename="include/Category.h" />
+		<Unit filename="include/Command.h" />
+		<Unit filename="include/CommandQueue.h" />
+		<Unit filename="include/Component.h" />
+		<Unit filename="include/Container.h" />
+		<Unit filename="include/Entity.h" />
+		<Unit filename="include/Foreach.hpp" />
+		<Unit filename="include/Game.h" />
+		<Unit filename="include/GameState.h" />
+		<Unit filename="include/Label.h" />
+		<Unit filename="include/LoadingState.h" />
+		<Unit filename="include/MenuState.h" />
+		<Unit filename="include/ParallelTask.h" />
+		<Unit filename="include/PauseState.h" />
+		<Unit filename="include/Player.h" />
+		<Unit filename="include/ResourceHolder.hpp" />
+		<Unit filename="include/ResourceHolder.inl" />
+		<Unit filename="include/ResourceIdentifiers.h" />
+		<Unit filename="include/SceneNode.h" />
+		<Unit filename="include/SettingsState.h" />
+		<Unit filename="include/SpriteNode.h" />
+		<Unit filename="include/State.h" />
+		<Unit filename="include/StateIdentifiers.h" />
+		<Unit filename="include/StateStack.h" />
+		<Unit filename="include/TitleState.h" />
+		<Unit filename="include/Utility.h" />
+		<Unit filename="include/Utility.inl" />
+		<Unit filename="include/World.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Aircraft.cpp" />
+		<Unit filename="src/Application.cpp" />
+		<Unit filename="src/Button.cpp" />
+		<Unit filename="src/Command.cpp" />
+		<Unit filename="src/CommandQueue.cpp" />
+		<Unit filename="src/Component.cpp" />
+		<Unit filename="src/Container.cpp" />
+		<Unit filename="src/Entity.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/GameState.cpp" />
+		<Unit filename="src/Label.cpp" />
+		<Unit filename="src/LoadingState.cpp" />
+		<Unit filename="src/MenuState.cpp" />
+		<Unit filename="src/ParallelTask.cpp" />
+		<Unit filename="src/PauseState.cpp" />
+		<Unit filename="src/Player.cpp" />
+		<Unit filename="src/SceneNode.cpp" />
+		<Unit filename="src/SettingsState.cpp" />
+		<Unit filename="src/SpriteNode.cpp" />
+		<Unit filename="src/State.cpp" />
+		<Unit filename="src/StateStack.cpp" />
+		<Unit filename="src/TitleState.cpp" />
+		<Unit filename="src/Utility.cpp" />
+		<Unit filename="src/World.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

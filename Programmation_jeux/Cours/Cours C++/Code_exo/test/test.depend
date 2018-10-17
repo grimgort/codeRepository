@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1465629572 source:c:\users\fred\documents\fred\cours c++\code_exo\test\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<cctype>
+

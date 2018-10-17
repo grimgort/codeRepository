@@ -1,0 +1,4 @@
+<map id="BloomEffect" name="BloomEffect">
+<area shape="rect" id="node2" href="$class_post_effect.html" title="{PostEffect\n||+ ~PostEffect()\l+ apply()\l+ isSupported()\l# applyShader()\l}" alt="" coords="5,147,119,268"/>
+<area shape="rect" id="node4" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::Shader, Shaders::ID \&gt;\n|&#45; m_resourceMap\l|+ load()\l+ load()\l+ get()\l+ get()\l&#45; insertResource()\l}" alt="" coords="143,132,301,283"/>
+</map>

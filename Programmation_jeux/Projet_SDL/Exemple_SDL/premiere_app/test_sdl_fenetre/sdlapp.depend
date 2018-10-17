@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1145193186 c:\article_dvp\documents\chapii_sdl\test_sdl_fenetre\main.cpp
+	<stdlib.h>
+	<SDL/SDL.h>
+

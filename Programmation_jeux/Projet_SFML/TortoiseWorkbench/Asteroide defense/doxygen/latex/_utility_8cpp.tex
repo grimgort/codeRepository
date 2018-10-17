@@ -1,0 +1,162 @@
+\hypertarget{_utility_8cpp}{}\section{Référence du fichier Utility.\+cpp}
+\label{_utility_8cpp}\index{Utility.\+cpp@{Utility.\+cpp}}
+{\ttfamily \#include \char`\"{}Utility.\+h\char`\"{}}\newline
+{\ttfamily \#include $<$Animation.\+h$>$}\newline
+{\ttfamily \#include $<$S\+F\+M\+L/\+Graphics/\+Sprite.\+hpp$>$}\newline
+{\ttfamily \#include $<$S\+F\+M\+L/\+Graphics/\+Text.\+hpp$>$}\newline
+{\ttfamily \#include $<$random$>$}\newline
+{\ttfamily \#include $<$cmath$>$}\newline
+{\ttfamily \#include $<$ctime$>$}\newline
+{\ttfamily \#include $<$cassert$>$}\newline
+Graphe des dépendances par inclusion de Utility.\+cpp\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{_utility_8cpp__incl}
+\end{center}
+\end{figure}
+\subsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \hyperlink{_utility_8cpp_a4f23c18c9bcb9b6f092b353b5d7aedc0}{B\+O\+O\+K\+\_\+\+K\+E\+Y\+T\+O\+S\+T\+R\+I\+N\+G\+\_\+\+C\+A\+SE}(K\+EY)~case sf\+::\+Keyboard\+::\+K\+E\+Y\+: return \#K\+EY;
+\end{DoxyCompactItemize}
+\subsection*{Fonctions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{_utility_8cpp_add3ffea68d586813ee6765c3bc796d35}{center\+Origin} (sf\+::\+Sprite \&sprite)
+\item 
+void \hyperlink{_utility_8cpp_a16daedd65940272fd178b8fd30bddfe7}{center\+Origin} (sf\+::\+Text \&text)
+\item 
+void \hyperlink{_utility_8cpp_aa355b1278dc04b420d84ea9fe4255bbb}{center\+Origin} (\hyperlink{class_animation}{Animation} \&animation)
+\item 
+std\+::string \hyperlink{_utility_8cpp_a058a75de06831393a659b98a2cddd32f}{to\+String} (sf\+::\+Keyboard\+::\+Key key)
+\item 
+float \hyperlink{_utility_8cpp_a7f31bacf5d96c36956449854f3e18715}{to\+Degree} (float radian)
+\item 
+float \hyperlink{_utility_8cpp_ae54253eaf1757c529de9ffcbf6c28e47}{to\+Radian} (float degree)
+\item 
+int \hyperlink{_utility_8cpp_a2b5c63e659d4c60c2db5b576d3bc3bf1}{random\+Int} (int exclusive\+Max)
+\item 
+float \hyperlink{_utility_8cpp_a658e7a578e1b8e49820b0691fd6993d6}{length} (sf\+::\+Vector2f vector)
+\item 
+sf\+::\+Vector2f \hyperlink{_utility_8cpp_a7628de502bf3e224f8d294d31ccda209}{unit\+Vector} (sf\+::\+Vector2f vector)
+\end{DoxyCompactItemize}
+
+
+\subsection{Documentation des macros}
+\hypertarget{_utility_8cpp_a4f23c18c9bcb9b6f092b353b5d7aedc0}{}\label{_utility_8cpp_a4f23c18c9bcb9b6f092b353b5d7aedc0} 
+\index{Utility.\+cpp@{Utility.\+cpp}!B\+O\+O\+K\+\_\+\+K\+E\+Y\+T\+O\+S\+T\+R\+I\+N\+G\+\_\+\+C\+A\+SE@{B\+O\+O\+K\+\_\+\+K\+E\+Y\+T\+O\+S\+T\+R\+I\+N\+G\+\_\+\+C\+A\+SE}}
+\index{B\+O\+O\+K\+\_\+\+K\+E\+Y\+T\+O\+S\+T\+R\+I\+N\+G\+\_\+\+C\+A\+SE@{B\+O\+O\+K\+\_\+\+K\+E\+Y\+T\+O\+S\+T\+R\+I\+N\+G\+\_\+\+C\+A\+SE}!Utility.\+cpp@{Utility.\+cpp}}
+\subsubsection{\texorpdfstring{B\+O\+O\+K\+\_\+\+K\+E\+Y\+T\+O\+S\+T\+R\+I\+N\+G\+\_\+\+C\+A\+SE}{BOOK\_KEYTOSTRING\_CASE}}
+{\footnotesize\ttfamily \#define B\+O\+O\+K\+\_\+\+K\+E\+Y\+T\+O\+S\+T\+R\+I\+N\+G\+\_\+\+C\+A\+SE(\begin{DoxyParamCaption}\item[{}]{K\+EY }\end{DoxyParamCaption})~case sf\+::\+Keyboard\+::\+K\+E\+Y\+: return \#K\+EY;}
+
+
+
+\subsection{Documentation des fonctions}
+\hypertarget{_utility_8cpp_add3ffea68d586813ee6765c3bc796d35}{}\label{_utility_8cpp_add3ffea68d586813ee6765c3bc796d35} 
+\index{Utility.\+cpp@{Utility.\+cpp}!center\+Origin@{center\+Origin}}
+\index{center\+Origin@{center\+Origin}!Utility.\+cpp@{Utility.\+cpp}}
+\subsubsection{\texorpdfstring{center\+Origin()}{centerOrigin()}\hspace{0.1cm}{\footnotesize\ttfamily [1/3]}}
+{\footnotesize\ttfamily void center\+Origin (\begin{DoxyParamCaption}\item[{sf\+::\+Sprite \&}]{sprite }\end{DoxyParamCaption})}
+
+
+
+Définition à la ligne 23 du fichier Utility.\+cpp.
+
+\hypertarget{_utility_8cpp_a16daedd65940272fd178b8fd30bddfe7}{}\label{_utility_8cpp_a16daedd65940272fd178b8fd30bddfe7} 
+\index{Utility.\+cpp@{Utility.\+cpp}!center\+Origin@{center\+Origin}}
+\index{center\+Origin@{center\+Origin}!Utility.\+cpp@{Utility.\+cpp}}
+\subsubsection{\texorpdfstring{center\+Origin()}{centerOrigin()}\hspace{0.1cm}{\footnotesize\ttfamily [2/3]}}
+{\footnotesize\ttfamily void center\+Origin (\begin{DoxyParamCaption}\item[{sf\+::\+Text \&}]{text }\end{DoxyParamCaption})}
+
+
+
+Définition à la ligne 29 du fichier Utility.\+cpp.
+
+\hypertarget{_utility_8cpp_aa355b1278dc04b420d84ea9fe4255bbb}{}\label{_utility_8cpp_aa355b1278dc04b420d84ea9fe4255bbb} 
+\index{Utility.\+cpp@{Utility.\+cpp}!center\+Origin@{center\+Origin}}
+\index{center\+Origin@{center\+Origin}!Utility.\+cpp@{Utility.\+cpp}}
+\subsubsection{\texorpdfstring{center\+Origin()}{centerOrigin()}\hspace{0.1cm}{\footnotesize\ttfamily [3/3]}}
+{\footnotesize\ttfamily void center\+Origin (\begin{DoxyParamCaption}\item[{\hyperlink{class_animation}{Animation} \&}]{animation }\end{DoxyParamCaption})}
+
+
+
+Définition à la ligne 35 du fichier Utility.\+cpp.
+
+Voici le graphe d\textquotesingle{}appel pour cette fonction \+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{_utility_8cpp_aa355b1278dc04b420d84ea9fe4255bbb_cgraph}
+\end{center}
+\end{figure}
+\hypertarget{_utility_8cpp_a658e7a578e1b8e49820b0691fd6993d6}{}\label{_utility_8cpp_a658e7a578e1b8e49820b0691fd6993d6} 
+\index{Utility.\+cpp@{Utility.\+cpp}!length@{length}}
+\index{length@{length}!Utility.\+cpp@{Utility.\+cpp}}
+\subsubsection{\texorpdfstring{length()}{length()}}
+{\footnotesize\ttfamily float length (\begin{DoxyParamCaption}\item[{sf\+::\+Vector2f}]{vector }\end{DoxyParamCaption})}
+
+
+
+Définition à la ligne 170 du fichier Utility.\+cpp.
+
+\hypertarget{_utility_8cpp_a2b5c63e659d4c60c2db5b576d3bc3bf1}{}\label{_utility_8cpp_a2b5c63e659d4c60c2db5b576d3bc3bf1} 
+\index{Utility.\+cpp@{Utility.\+cpp}!random\+Int@{random\+Int}}
+\index{random\+Int@{random\+Int}!Utility.\+cpp@{Utility.\+cpp}}
+\subsubsection{\texorpdfstring{random\+Int()}{randomInt()}}
+{\footnotesize\ttfamily int random\+Int (\begin{DoxyParamCaption}\item[{int}]{exclusive\+Max }\end{DoxyParamCaption})}
+
+
+
+Définition à la ligne 164 du fichier Utility.\+cpp.
+
+\hypertarget{_utility_8cpp_a7f31bacf5d96c36956449854f3e18715}{}\label{_utility_8cpp_a7f31bacf5d96c36956449854f3e18715} 
+\index{Utility.\+cpp@{Utility.\+cpp}!to\+Degree@{to\+Degree}}
+\index{to\+Degree@{to\+Degree}!Utility.\+cpp@{Utility.\+cpp}}
+\subsubsection{\texorpdfstring{to\+Degree()}{toDegree()}}
+{\footnotesize\ttfamily float to\+Degree (\begin{DoxyParamCaption}\item[{float}]{radian }\end{DoxyParamCaption})}
+
+
+
+Définition à la ligne 154 du fichier Utility.\+cpp.
+
+\hypertarget{_utility_8cpp_ae54253eaf1757c529de9ffcbf6c28e47}{}\label{_utility_8cpp_ae54253eaf1757c529de9ffcbf6c28e47} 
+\index{Utility.\+cpp@{Utility.\+cpp}!to\+Radian@{to\+Radian}}
+\index{to\+Radian@{to\+Radian}!Utility.\+cpp@{Utility.\+cpp}}
+\subsubsection{\texorpdfstring{to\+Radian()}{toRadian()}}
+{\footnotesize\ttfamily float to\+Radian (\begin{DoxyParamCaption}\item[{float}]{degree }\end{DoxyParamCaption})}
+
+
+
+Définition à la ligne 159 du fichier Utility.\+cpp.
+
+\hypertarget{_utility_8cpp_a058a75de06831393a659b98a2cddd32f}{}\label{_utility_8cpp_a058a75de06831393a659b98a2cddd32f} 
+\index{Utility.\+cpp@{Utility.\+cpp}!to\+String@{to\+String}}
+\index{to\+String@{to\+String}!Utility.\+cpp@{Utility.\+cpp}}
+\subsubsection{\texorpdfstring{to\+String()}{toString()}}
+{\footnotesize\ttfamily std\+::string to\+String (\begin{DoxyParamCaption}\item[{sf\+::\+Keyboard\+::\+Key}]{key }\end{DoxyParamCaption})}
+
+
+
+Définition à la ligne 41 du fichier Utility.\+cpp.
+
+\hypertarget{_utility_8cpp_a7628de502bf3e224f8d294d31ccda209}{}\label{_utility_8cpp_a7628de502bf3e224f8d294d31ccda209} 
+\index{Utility.\+cpp@{Utility.\+cpp}!unit\+Vector@{unit\+Vector}}
+\index{unit\+Vector@{unit\+Vector}!Utility.\+cpp@{Utility.\+cpp}}
+\subsubsection{\texorpdfstring{unit\+Vector()}{unitVector()}}
+{\footnotesize\ttfamily sf\+::\+Vector2f unit\+Vector (\begin{DoxyParamCaption}\item[{sf\+::\+Vector2f}]{vector }\end{DoxyParamCaption})}
+
+
+
+Définition à la ligne 175 du fichier Utility.\+cpp.
+
+Voici le graphe d\textquotesingle{}appel pour cette fonction \+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=220pt]{_utility_8cpp_a7628de502bf3e224f8d294d31ccda209_cgraph}
+\end{center}
+\end{figure}

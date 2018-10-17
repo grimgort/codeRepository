@@ -1,0 +1,5 @@
+<map id="World::adaptPlayerVelocity" name="World::adaptPlayerVelocity">
+<area shape="rect" id="node2" href="$class_entity.html#ae7518a0181de088e0de2eacd1a13d656" title="Retourne la vitesse de l&#39;entité " alt="" coords="233,5,363,32"/>
+<area shape="rect" id="node3" href="$class_entity.html#a5bf79843c973eac1fdbebfd1fc83a1e8" title="Donne une vitesse à l&#39;entité(vecteur) " alt="" coords="233,56,363,83"/>
+<area shape="rect" id="node4" href="$class_entity.html#a80cdb89f11d47716781bc567efd2bcda" title="Donne une accélération à l&#39;entité(vecteur) " alt="" coords="236,107,360,133"/>
+</map>

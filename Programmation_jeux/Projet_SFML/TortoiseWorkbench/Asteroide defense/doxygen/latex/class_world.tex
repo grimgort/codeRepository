@@ -1,0 +1,93 @@
+\hypertarget{class_world}{}\section{Référence de la classe World}
+\label{class_world}\index{World@{World}}
+
+
+Graphe d\textquotesingle{}héritage de World\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=238pt]{class_world__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Graphe de collaboration de World\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=238pt]{class_world__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Fonctions membres publiques}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_world_a18cb19e07500188f70f6cb188c71d816}{}\label{class_world_a18cb19e07500188f70f6cb188c71d816} 
+{\bfseries World} (sf\+::\+Render\+Target \&output\+Target, \hyperlink{class_resource_holder}{Font\+Holder} \&fonts, \hyperlink{class_sound_player}{Sound\+Player} \&sounds, bool networked=false)
+\item 
+\hypertarget{class_world_ac7b3a3923c95b812ec2d00d97c8cd56e}{}\label{class_world_ac7b3a3923c95b812ec2d00d97c8cd56e} 
+void {\bfseries update} (sf\+::\+Time dt)
+\item 
+\hypertarget{class_world_ab51a17ccbb108616daacd0c34973dc8d}{}\label{class_world_ab51a17ccbb108616daacd0c34973dc8d} 
+void {\bfseries draw} ()
+\item 
+\hypertarget{class_world_a2dd90d4c7f83c60a3a84fe5858489c14}{}\label{class_world_a2dd90d4c7f83c60a3a84fe5858489c14} 
+sf\+::\+Float\+Rect {\bfseries get\+View\+Bounds} () const
+\item 
+\hypertarget{class_world_af224b413f30c86ec99d042d0f4df56ee}{}\label{class_world_af224b413f30c86ec99d042d0f4df56ee} 
+\hyperlink{class_command_queue}{Command\+Queue} \& {\bfseries get\+Command\+Queue} ()
+\item 
+\hypertarget{class_world_a4b5a1ee9561c00df5a3348b43ed9f6d9}{}\label{class_world_a4b5a1ee9561c00df5a3348b43ed9f6d9} 
+\hyperlink{class_aircraft}{Aircraft} $\ast$ {\bfseries add\+Aircraft} (int identifier)
+\item 
+\hypertarget{class_world_a91c28f4442bd6383cfe373d60acf8207}{}\label{class_world_a91c28f4442bd6383cfe373d60acf8207} 
+void {\bfseries remove\+Aircraft} (int identifier)
+\item 
+\hypertarget{class_world_a37e200069581c4ebdc5b4d4b2ac739fc}{}\label{class_world_a37e200069581c4ebdc5b4d4b2ac739fc} 
+void {\bfseries set\+Current\+Battle\+Field\+Position} (float lineY)
+\item 
+\hypertarget{class_world_a2e0f3b87ccc0ec679e4704b05f3cd89c}{}\label{class_world_a2e0f3b87ccc0ec679e4704b05f3cd89c} 
+void {\bfseries set\+World\+Height} (float height)
+\item 
+\hypertarget{class_world_a85839af0a06ddd4a7707119f825c4662}{}\label{class_world_a85839af0a06ddd4a7707119f825c4662} 
+void {\bfseries add\+Enemy} (Aircraft\+::\+Type type, float relX, float relY)
+\item 
+\hypertarget{class_world_a53947f20c6a20a877b7a119d9572f9e8}{}\label{class_world_a53947f20c6a20a877b7a119d9572f9e8} 
+void {\bfseries sort\+Enemies} ()
+\item 
+\hypertarget{class_world_ad27259527b38962bc9faa7a0b38f4b9d}{}\label{class_world_ad27259527b38962bc9faa7a0b38f4b9d} 
+bool {\bfseries has\+Alive\+Player} () const
+\item 
+\hypertarget{class_world_a004d63d76f3c1393f9442cb31af2a300}{}\label{class_world_a004d63d76f3c1393f9442cb31af2a300} 
+bool {\bfseries has\+Player\+Reached\+End} () const
+\item 
+\hypertarget{class_world_a20d5fafa1df7da5bb9278ca33a1c6fdc}{}\label{class_world_a20d5fafa1df7da5bb9278ca33a1c6fdc} 
+void {\bfseries set\+World\+Scroll\+Compensation} (float compensation)
+\item 
+\hypertarget{class_world_a61c420ab669d97df70d7d2b69e3ca19c}{}\label{class_world_a61c420ab669d97df70d7d2b69e3ca19c} 
+\hyperlink{class_aircraft}{Aircraft} $\ast$ {\bfseries get\+Aircraft} (int identifier) const
+\item 
+\hypertarget{class_world_ae5c2531cd68eb3e92d90fd5e9218f0a8}{}\label{class_world_ae5c2531cd68eb3e92d90fd5e9218f0a8} 
+sf\+::\+Float\+Rect {\bfseries get\+Battlefield\+Bounds} () const
+\item 
+\hypertarget{class_world_aebe9adedadddb753cb2037c53548a7bf}{}\label{class_world_aebe9adedadddb753cb2037c53548a7bf} 
+sf\+::\+Float\+Rect {\bfseries get\+World\+Bounds} () const
+\item 
+\hypertarget{class_world_a9854735a8eae90bc092844071a8272cd}{}\label{class_world_a9854735a8eae90bc092844071a8272cd} 
+void {\bfseries create\+Pickup} (sf\+::\+Vector2f position, Pickup\+::\+Type type)
+\item 
+\hypertarget{class_world_a3f51d78daaab42e9ea353f0ab31e51af}{}\label{class_world_a3f51d78daaab42e9ea353f0ab31e51af} 
+bool {\bfseries poll\+Game\+Action} (\hyperlink{struct_game_actions_1_1_action}{Game\+Actions\+::\+Action} \&out)
+\end{DoxyCompactItemize}
+
+
+\subsection{Description détaillée}
+
+
+Définition à la ligne 33 du fichier World.\+h.
+
+
+
+La documentation de cette classe a été générée à partir des fichiers suivants \+:\begin{DoxyCompactItemize}
+\item 
+World.\+h\item 
+World.\+cpp\end{DoxyCompactItemize}

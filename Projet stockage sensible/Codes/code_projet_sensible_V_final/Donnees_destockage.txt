@@ -1,0 +1,17 @@
+					DONNEES SUR LE DESTOCKAGE
+
+
+***Discrétisation en temps***
+1.		!Pas de temps (dt_destockage[s])
+
+32400.		!Temps de l'expérience (t_max_destockage[s]) 
+
+
+***Variables physiques***
+50		!Pression_destockage [bar])
+
+298.		!Température de l'air en entrée (T_entree_destockage[K])
+
+0.000001239		!Débit total arrivant (debit_total [kg/s])
+
+

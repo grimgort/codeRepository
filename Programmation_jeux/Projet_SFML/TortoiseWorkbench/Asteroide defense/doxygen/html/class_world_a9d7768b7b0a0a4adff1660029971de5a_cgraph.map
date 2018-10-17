@@ -1,0 +1,4 @@
+<map id="World::addEnemies" name="World::addEnemies">
+<area shape="rect" id="node2" href="$class_world.html#a85839af0a06ddd4a7707119f825c4662" title="Ajoute des avions ennemies. " alt="" coords="195,5,321,32"/>
+<area shape="rect" id="node3" href="$class_world.html#a53947f20c6a20a877b7a119d9572f9e8" title="Trie l&#39;ordre des avions ennemies à créer. " alt="" coords="189,56,327,83"/>
+</map>

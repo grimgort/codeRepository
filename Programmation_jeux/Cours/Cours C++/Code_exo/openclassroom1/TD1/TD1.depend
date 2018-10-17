@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1461421167 source:c:\users\fred\documents\fred\cours c++\code_exo\openclassroom1\td1\td1.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<fstream>
+
+1461421316 source:c:\users\fred\documents\fred\cours c++\code_exo\openclassroom1\td1\td1maitre.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"TD1.h"
+
+1461420767 c:\users\fred\documents\fred\cours c++\code_exo\openclassroom1\td1\td1.h
+	<vector>
+

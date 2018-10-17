@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1465631027 source:c:\users\fred\documents\fred\cours c++\code_exo\cryptage\consigne p2pa_p4_exo1\chiffredecalage.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<iterator>
+	<sstream>
+	<algorithm>
+	<cctype>
+

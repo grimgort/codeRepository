@@ -1,0 +1,4 @@
+<map id="PauseState::~PauseState" name="PauseState::~PauseState">
+<area shape="rect" id="node2" href="$class_state.html#a93a72915d1aad6d8f7eacc81094dc920" title="State::getContext" alt="" coords="248,5,372,32"/>
+<area shape="rect" id="node3" href="$class_music_player.html#a59b313a9a9eb850e590f9c6555ad80cf" title="MusicPlayer::setPaused" alt="" coords="228,56,392,83"/>
+</map>

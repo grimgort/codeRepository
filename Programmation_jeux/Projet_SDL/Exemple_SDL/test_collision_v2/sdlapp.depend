@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1177258715 i:\temporaire\tmp\collisions\test_collision\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+
+1191713096 h:\temporaire\tmp\collisions\test_collision\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+

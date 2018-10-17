@@ -1,0 +1,36 @@
+!					VARIABLES
+!
+!
+!Géométrie
+0.1		!Rayon du cofalite (Ray [m])
+!		 
+1.		!Profondeur (L [m])
+!		
+0.1		!Distance entre les tubes (L_entre_c [m])
+!
+3		!Largeur de notre échangeur (largeur [m])
+!
+!
+!Discrétisation en espace
+4		!Nombre de mailles de cofalite (Nc)
+!
+10		!Nombre d'itération en espace ou tube de cofalite sur la hauteur (Nb_iteration_espace)
+!
+!
+!Discrétisation en temps
+0.1		!Pas de temps (dt[s])
+!
+1.		!Temps de l'expérience (tmax[s]) 
+!
+599.		!Temps écriture (t[s])
+!
+!
+!Variables physiques
+70		!Pression (Pression [bar])
+!
+500.		!Température de l'air en entrée (T_entree[K])
+!
+298.		!température initial de cofalite (T_initial_C [K])
+!
+108.		!Débit total arrivant (debit_total [kg/s])
+!

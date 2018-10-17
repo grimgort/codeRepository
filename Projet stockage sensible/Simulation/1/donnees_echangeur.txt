@@ -1,0 +1,24 @@
+!					DONNEES SUR L'ECHANGEUR
+!
+!
+!Geometrie
+0.1	!Rayon cofalite (ray [m])
+!
+10.	!Profondeur (L [m])
+!
+0.03	!Distance entre tubes (L_entre_c [m])
+!
+1.	!Largeur de l'échangeur (largeur [m])
+!
+!
+!Discrétisation en espace
+4	!Nombre de mailles de cofalite (Nc)
+!
+!
+!Critére d'arret
+50	!Augmentation du nombre de tube maximum (Augmentation_tube_max)
+!
+20.	Hauteur maximum de l'echangeur (h_max)
+!
+1.1	!Coeficient correctif (coef_correctif)
+!

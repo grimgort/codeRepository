@@ -1,0 +1,12 @@
+﻿!							DONNÉES SUR LA PAUSE
+!
+!
+!DiscrÈtisation en temps
+1		!Pas de temps (dt[s])
+!
+3.		!Temps de l'expÈrience (tmax[s]) 
+!
+!
+!Variables physiques
+50		!Pression (Pression [bar])
+!

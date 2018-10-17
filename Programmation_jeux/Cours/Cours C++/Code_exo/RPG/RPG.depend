@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1462179341 source:c:\users\fred\documents\fred\openclassroom\rpg\personage.cpp
+	<iostream>
+	<string>
+	"Personage.h"
+
+1462184838 source:c:\users\fred\documents\fred\openclassroom\rpg\main.cpp
+	<iostream>
+	"Personage.h"
+	"Action.h"
+
+1462179256 c:\users\fred\documents\fred\openclassroom\rpg\personage.h
+	<string>
+	"Arme.h"
+
+1462097328 source:c:\users\fred\documents\fred\openclassroom\rpg\arme.cpp
+	<string>
+	<iostream>
+	"Arme.h"
+
+1462097192 c:\users\fred\documents\fred\openclassroom\rpg\arme.h
+	<string>
+
+1462184798 source:c:\users\fred\documents\fred\openclassroom\rpg\action.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Action.h"
+
+1462185210 c:\users\fred\documents\fred\openclassroom\rpg\action.h
+	<string>
+	<vector>
+
+1462100928 source:c:\users\fred\documents\fred\cours c++\code_exo\rpg\arme.cpp
+	<string>
+	<iostream>
+	"Arme.h"
+
+1462100792 c:\users\fred\documents\fred\cours c++\code_exo\rpg\arme.h
+	<string>
+
+1462437002 source:c:\users\fred\documents\fred\cours c++\code_exo\rpg\personage.cpp
+	<iostream>
+	<string>
+	"Personage.h"
+
+1462436518 c:\users\fred\documents\fred\cours c++\code_exo\rpg\personage.h
+	<string>
+	"Arme.h"
+
+1462434111 source:c:\users\fred\documents\fred\cours c++\code_exo\rpg\action.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Action.h"
+	"Personage.h"
+
+1462432704 c:\users\fred\documents\fred\cours c++\code_exo\rpg\action.h
+	<string>
+	<vector>
+	"Personage.h"
+
+1462438507 source:c:\users\fred\documents\fred\cours c++\code_exo\rpg\main.cpp
+	<iostream>
+	"Personage.h"
+	"Action.h"
+

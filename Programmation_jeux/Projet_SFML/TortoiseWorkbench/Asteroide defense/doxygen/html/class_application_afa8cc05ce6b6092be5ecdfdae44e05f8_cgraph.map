@@ -1,0 +1,6 @@
+<map id="Application::Application" name="Application::Application">
+<area shape="rect" id="node2" href="$class_resource_holder.html#accb6a2b6bd2da503ddfd57b5c0028a16" title="ResourceHolder::load" alt="" coords="221,5,367,32"/>
+<area shape="rect" id="node3" href="$class_resource_holder.html#a6452638a75b6df7ea7d610f204632850" title="ResourceHolder::get" alt="" coords="224,56,364,83"/>
+<area shape="rect" id="node4" href="$class_state_stack.html#a80ed85f0fc13039e6f4c7dfef19e608f" title="StateStack::pushState" alt="" coords="217,107,371,133"/>
+<area shape="rect" id="node5" href="$class_music_player.html#a361cbcbfb31d3c0c841d0b67a79c5cdd" title="MusicPlayer::setVolume" alt="" coords="212,157,376,184"/>
+</map>

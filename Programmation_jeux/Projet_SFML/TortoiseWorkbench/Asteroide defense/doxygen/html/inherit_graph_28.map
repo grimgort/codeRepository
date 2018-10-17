@@ -1,0 +1,11 @@
+<map id="Graphe hiérarchique des classes" name="Graphe hiérarchique des classes">
+<area shape="rect" id="node1" href="$class_state.html" title="State" alt="" coords="5,183,59,209"/>
+<area shape="rect" id="node2" href="$class_game_over_state.html" title="GameOverState" alt="" coords="125,5,239,32"/>
+<area shape="rect" id="node3" href="$class_game_state.html" title="GameState" alt="" coords="138,56,226,83"/>
+<area shape="rect" id="node4" href="$class_loading_state.html" title="LoadingState" alt="" coords="133,107,231,133"/>
+<area shape="rect" id="node5" href="$class_menu_state.html" title="MenuState" alt="" coords="139,157,225,184"/>
+<area shape="rect" id="node6" href="$class_multiplayer_game_state.html" title="MultiplayerGameState" alt="" coords="107,208,257,235"/>
+<area shape="rect" id="node7" href="$class_pause_state.html" title="PauseState" alt="" coords="137,259,227,285"/>
+<area shape="rect" id="node8" href="$class_settings_state.html" title="SettingsState" alt="" coords="131,309,233,336"/>
+<area shape="rect" id="node9" href="$class_title_state.html" title="TitleState" alt="" coords="143,360,221,387"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Player::handleRealtimeNetworkInput" name="Player::handleRealtimeNetworkInput">
+<area shape="rect" id="node2" href="$class_player.html#a0396dba172c6d19535d573ce553e5980" title="Player::isLocal" alt="" coords="279,5,387,32"/>
+<area shape="rect" id="node3" href="$_key_binding_8h.html#ab14ad3e465986d56cb34829d409cfa98" title="isRealtimeAction" alt="" coords="273,56,393,83"/>
+<area shape="rect" id="node4" href="$class_command_queue.html#ad444e0d7af45d9e09b834f0cec1e1f43" title="CommandQueue::push" alt="" coords="256,107,411,133"/>
+</map>

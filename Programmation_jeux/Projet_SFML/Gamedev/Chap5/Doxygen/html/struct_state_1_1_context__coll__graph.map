@@ -1,0 +1,5 @@
+<map id="State::Context" name="State::Context">
+<area shape="rect" id="node2" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::Texture, Textures::ID \&gt;\n||+ load()\l+ load()\l+ get()\l+ get()\l}" alt="" coords="5,5,168,141"/>
+<area shape="rect" id="node3" href="$class_resource_holder.html" title="{ResourceHolder\&lt; sf\l::Font, Fonts::ID \&gt;\n||+ load()\l+ load()\l+ get()\l+ get()\l}" alt="" coords="192,5,328,141"/>
+<area shape="rect" id="node4" href="$class_player.html" title="{Player\n||+ Player()\l+ handleEvent()\l+ handleRealtimeInput()\l+ assignKey()\l+ getAssignedKey()\l}" alt="" coords="353,5,511,141"/>
+</map>

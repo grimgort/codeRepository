@@ -1,0 +1,4 @@
+<map id="GUI::Button::deactivate" name="GUI::Button::deactivate">
+<area shape="rect" id="node2" href="$class_g_u_i_1_1_component.html#a8964087afef859c015fb8188e619aa81" title="GUI::Component::deactivate" alt="" coords="211,5,395,32"/>
+<area shape="rect" id="node3" href="$class_g_u_i_1_1_component.html#a456e20a33a9ee778b0eda2641147724e" title="GUI::Component::isSelected" alt="" coords="209,56,396,83"/>
+</map>

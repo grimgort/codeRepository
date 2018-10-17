@@ -1,0 +1,5 @@
+<map id="Aircraft::playLocalSound" name="Aircraft::playLocalSound">
+<area shape="rect" id="node2" href="$class_scene_node.html#a43061f972f26184b271e6c56723a29c2" title="SceneNode::getWorldPosition" alt="" coords="216,5,412,32"/>
+<area shape="rect" id="node4" href="$class_command_queue.html#ad444e0d7af45d9e09b834f0cec1e1f43" title="CommandQueue::push" alt="" coords="237,56,391,83"/>
+<area shape="rect" id="node3" href="$class_scene_node.html#aedae712e618334745fea3c934d51a390" title="SceneNode::getWorldTransform" alt="" coords="460,5,667,32"/>
+</map>

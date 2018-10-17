@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1145200204 c:\article_dvp\documents\chapiii_sdl\test_status_touche\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1145205322 source:d:\logiciel\projet_sdl\test_status_touche\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1145205322 source:d:\logiciel\projet_sdl\exemple_sdl\test_status_touche\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+

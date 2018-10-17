@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1462811404 source:c:\users\fred\documents\fred\cours c++\code_exo\polymorphisme\garage.cpp
+	"garage.h"
+	<iostream>
+
+1462636795 c:\users\fred\documents\fred\cours c++\code_exo\polymorphisme\garage.h
+	<vector>
+	<iostream>
+
+1462694346 source:c:\users\fred\documents\fred\cours c++\code_exo\polymorphisme\main.cpp
+	<iostream>
+	"garage.h"
+	<vector>
+

@@ -1,0 +1,9 @@
+<map id="Aircraft::Aircraft" name="Aircraft::Aircraft">
+<area shape="rect" id="node2" href="$class_animation.html#ad36304e4187bba21075bed5d57eb0025" title="Animation::setFrameSize" alt="" coords="169,5,339,32"/>
+<area shape="rect" id="node3" href="$class_animation.html#aa056c5b431eb078bc7d36eacb12b299c" title="Animation::setNumFrames" alt="" coords="165,56,343,83"/>
+<area shape="rect" id="node4" href="$class_animation.html#a168c112e11c1fe0040885cea8127dd83" title="Animation::setDuration" alt="" coords="177,107,331,133"/>
+<area shape="rect" id="node5" href="$_utility_8cpp.html#add3ffea68d586813ee6765c3bc796d35" title="centerOrigin" alt="" coords="208,157,300,184"/>
+<area shape="rect" id="node6" href="$class_scene_node.html#acdfa2c2ba28bce076c886eaba2d9e650" title="SceneNode::attachChild" alt="" coords="173,208,335,235"/>
+<area shape="rect" id="node7" href="$class_aircraft.html#a01f9042934c08ef18b62351e6bca320d" title="Aircraft::getCategory" alt="" coords="183,259,325,285"/>
+<area shape="rect" id="node8" href="$class_aircraft.html#ab8503b05e0f3ede5986e7f0d4754afe0" title="Aircraft::isAllied" alt="" coords="391,259,504,285"/>
+</map>

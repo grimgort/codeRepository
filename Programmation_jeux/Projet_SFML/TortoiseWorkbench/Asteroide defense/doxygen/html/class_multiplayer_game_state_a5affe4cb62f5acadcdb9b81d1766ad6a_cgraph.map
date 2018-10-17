@@ -1,0 +1,29 @@
+<map id="MultiplayerGameState::update" name="MultiplayerGameState::update">
+<area shape="rect" id="node2" href="$class_world.html#ac7b3a3923c95b812ec2d00d97c8cd56e" title="World::update" alt="" coords="242,233,345,260"/>
+<area shape="rect" id="node19" href="$class_world.html#a61c420ab669d97df70d7d2b69e3ca19c" title="World::getAircraft" alt="" coords="232,461,355,488"/>
+<area shape="rect" id="node21" href="$class_state.html#a6763de833ceb9c23df45aff163a4a1cd" title="State::requestStackPush" alt="" coords="209,512,377,539"/>
+<area shape="rect" id="node23" href="$class_world.html#af224b413f30c86ec99d042d0f4df56ee" title="World::getCommandQueue" alt="" coords="204,563,383,589"/>
+<area shape="rect" id="node24" href="$_utility_8cpp.html#add3ffea68d586813ee6765c3bc796d35" title="centerOrigin" alt="" coords="247,613,339,640"/>
+<area shape="rect" id="node25" href="$class_world.html#a3f51d78daaab42e9ea353f0ab31e51af" title="World::pollGameAction" alt="" coords="215,664,371,691"/>
+<area shape="rect" id="node27" href="$class_state.html#a4b602bed9bf0179ee5f6748fce340ae6" title="State::requestStateClear" alt="" coords="211,715,376,741"/>
+<area shape="rect" id="node3" href="$class_entity.html#ae7518a0181de088e0de2eacd1a13d656" title="Entity::getVelocity" alt="" coords="465,5,595,32"/>
+<area shape="rect" id="node4" href="$class_aircraft.html#af9ec3d1e8298586e95f5f4bdde8f5791" title="Aircraft::getBoundingRect" alt="" coords="445,56,615,83"/>
+<area shape="rect" id="node6" href="$class_entity.html#a5bf79843c973eac1fdbebfd1fc83a1e8" title="Entity::setVelocity" alt="" coords="465,107,595,133"/>
+<area shape="rect" id="node7" href="$class_command_queue.html#a3a6eb6a7c83d9b20ad7a6cac63795ec1" title="CommandQueue::isEmpty" alt="" coords="443,157,617,184"/>
+<area shape="rect" id="node8" href="$class_scene_node.html#af6f126fe8727414a0c967f84f9754968" title="SceneNode::onCommand" alt="" coords="445,208,615,235"/>
+<area shape="rect" id="node10" href="$class_command_queue.html#ac2dde510222b8df393b55978f4594194" title="CommandQueue::pop" alt="" coords="456,259,604,285"/>
+<area shape="rect" id="node11" href="$class_aircraft.html#a994039b523a54dac943fb4df4ed71d1c" title="Aircraft::isMarkedForRemoval" alt="" coords="434,309,626,336"/>
+<area shape="rect" id="node14" href="$class_scene_node.html#a4ab07dfa68f4094e2e9152b6f4869794" title="SceneNode::removeWrecks" alt="" coords="439,360,621,387"/>
+<area shape="rect" id="node17" href="$class_scene_node.html#a5494c3a380d7ea5ae7148122c4255400" title="SceneNode::update" alt="" coords="462,411,598,437"/>
+<area shape="rect" id="node5" href="$class_scene_node.html#aedae712e618334745fea3c934d51a390" title="SceneNode::getWorldTransform" alt="" coords="683,56,890,83"/>
+<area shape="rect" id="node9" href="$class_scene_node.html#af713a8c58831a27bc791a2efdfb7c495" title="SceneNode::getCategory" alt="" coords="703,208,870,235"/>
+<area shape="rect" id="node12" href="$class_entity.html#a938cddf03ff5239be09195452142c5e6" title="Entity::isDestroyed" alt="" coords="720,259,853,285"/>
+<area shape="rect" id="node13" href="$class_animation.html#a52f7a8449004b0248a3b7f8de9759cd0" title="Animation::isFinished" alt="" coords="713,309,860,336"/>
+<area shape="rect" id="node15" href="$class_scene_node.html#a8a0f6080efbd7e49569552b5542fd855" title="SceneNode::isMarkedForRemoval" alt="" coords="677,360,896,387"/>
+<area shape="rect" id="node16" href="$class_scene_node.html#add1a151301a5056b29e552a83be4f507" title="SceneNode::isDestroyed" alt="" coords="944,360,1111,387"/>
+<area shape="rect" id="node18" href="$class_scene_node.html#aeed27ee83b56ecaa87e41f21fa0ffa7b" title="SceneNode::getBoundingRect" alt="" coords="689,411,885,437"/>
+<area shape="rect" id="node20" href="$class_aircraft.html#a2f6a97f09252744828f748120025630b" title="Aircraft::getIdentifier" alt="" coords="461,461,599,488"/>
+<area shape="rect" id="node22" href="$class_state_stack.html#a80ed85f0fc13039e6f4c7dfef19e608f" title="StateStack::pushState" alt="" coords="453,512,607,539"/>
+<area shape="rect" id="node26" href="$class_network_node.html#a324d5374146ccb8e1a77c932623464c1" title="NetworkNode::pollGameAction" alt="" coords="431,664,629,691"/>
+<area shape="rect" id="node28" href="$class_state_stack.html#a49f0703d4037c3bf63494e64cb09898d" title="StateStack::clearStates" alt="" coords="449,715,611,741"/>
+</map>

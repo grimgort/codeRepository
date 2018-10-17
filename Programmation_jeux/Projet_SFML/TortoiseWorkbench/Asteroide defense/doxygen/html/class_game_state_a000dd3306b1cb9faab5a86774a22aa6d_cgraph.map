@@ -1,0 +1,9 @@
+<map id="GameState::handleEvent" name="GameState::handleEvent">
+<area shape="rect" id="node2" href="$class_world.html#af224b413f30c86ec99d042d0f4df56ee" title="World::getCommandQueue" alt="" coords="220,19,399,45"/>
+<area shape="rect" id="node3" href="$class_player.html#ac84a4e0b787f92bf773ccd0d0483f5b1" title="Player::handleEvent" alt="" coords="241,69,378,96"/>
+<area shape="rect" id="node7" href="$class_state.html#a6763de833ceb9c23df45aff163a4a1cd" title="State::requestStackPush" alt="" coords="225,132,393,159"/>
+<area shape="rect" id="node4" href="$class_key_binding.html#aa11ef504d52c2a05e2a43bc833f28408" title="KeyBinding::checkAction" alt="" coords="447,5,615,32"/>
+<area shape="rect" id="node5" href="$_key_binding_8h.html#ab14ad3e465986d56cb34829d409cfa98" title="isRealtimeAction" alt="" coords="471,56,591,83"/>
+<area shape="rect" id="node6" href="$class_command_queue.html#ad444e0d7af45d9e09b834f0cec1e1f43" title="CommandQueue::push" alt="" coords="453,107,608,133"/>
+<area shape="rect" id="node8" href="$class_state_stack.html#a80ed85f0fc13039e6f4c7dfef19e608f" title="StateStack::pushState" alt="" coords="453,157,608,184"/>
+</map>

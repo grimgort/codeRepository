@@ -1,0 +1,4 @@
+C:/Users/FRED/Documents/FRED/Programmation_jeux/Projet_SFML/Eclipse_Workspace/asteroide-defense/Asteroide defense/include/Entity.h:58: warning: argument 'velocity' of command @param is not found in the argument list of Entity::accelerate(float vx, float vy)
+C:/Users/FRED/Documents/FRED/Programmation_jeux/Projet_SFML/Eclipse_Workspace/asteroide-defense/Asteroide defense/include/Entity.h:64: warning: The following parameters of Entity::accelerate(float vx, float vy) are not documented:
+  parameter 'vx'
+  parameter 'vy'

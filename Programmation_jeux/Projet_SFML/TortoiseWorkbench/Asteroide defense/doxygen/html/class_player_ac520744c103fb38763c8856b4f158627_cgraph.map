@@ -1,0 +1,6 @@
+<map id="Player::handleRealtimeInput" name="Player::handleRealtimeInput">
+<area shape="rect" id="node2" href="$class_player.html#a0396dba172c6d19535d573ce553e5980" title="Player::isLocal" alt="" coords="288,5,396,32"/>
+<area shape="rect" id="node3" href="$class_key_binding.html#a990f9e66f5bc5f07fbd7ef38c1fba64b" title="KeyBinding::getRealtimeActions" alt="" coords="237,56,447,83"/>
+<area shape="rect" id="node5" href="$class_command_queue.html#ad444e0d7af45d9e09b834f0cec1e1f43" title="CommandQueue::push" alt="" coords="265,107,419,133"/>
+<area shape="rect" id="node4" href="$_key_binding_8cpp.html#ab14ad3e465986d56cb34829d409cfa98" title="isRealtimeAction" alt="" coords="495,56,615,83"/>
+</map>

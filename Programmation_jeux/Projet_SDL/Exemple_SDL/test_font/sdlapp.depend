@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1191804547 h:\temporaire\tmp\test_font\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+
+1466790376 source:d:\logiciel\projet_sdl\test_font\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+
